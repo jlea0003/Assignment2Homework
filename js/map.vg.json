@@ -16,7 +16,7 @@
           "url": "https://raw.githubusercontent.com/jlea0003/Assignment2Homework/master/data/price_paid_2017.csv" 
         }, 
         "key": "Unique", 
-        "fields": ["Average"]
+        "fields": ["Average", "Detached", "Semi-Detached","Terraced","Flats","Other"]
       }
     } 
   ], 
@@ -33,7 +33,12 @@
   }, 
       "tooltip": [ 
       {"field": "properties.CTYUA21NM", "type": "nominal", "title": "District and/ or County"}, 
-      {"field": "Average", "type": "quantitative", "format": ".0f", "title": "Average price in pounds"}
+      {"field": "Average", "type": "quantitative", "format": ".0f", "title": "Average price in pounds"},
+      {"field": "Detached", "type": "quantitative", "title": "Number sold; Detached"},
+      {"field": "Semi-Detached", "type": "quantitative", "title": "Number sold; Semi-Detached"},
+      {"field": "Terraced", "type": "quantitative", "title": "Number sold; Terraced"},
+      {"field": "Flats", "type": "quantitative", "title": "Number sold; Flats"},
+      {"field": "Other", "type": "quantitative", "title": "Number sold; Other"} 
     ] 
 }
 }
