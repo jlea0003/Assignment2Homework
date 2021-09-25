@@ -3,7 +3,7 @@
   "title": "England and Wales Housing Prices 2017", 
   "width": 800, 
   "height": 600, 
-  "projection": {"type": "mercator"}, 
+  "projection": {"type": "azimuthalEqualArea"}, 
   "data": { 
     "url": "https://raw.githubusercontent.com/jlea0003/Assignment2Homework/master/js/Counties_and_Unitary_Authorities_(May_2021)_UK_BUC.json", 
     "format": {"type": "topojson", "feature": "Counties_and_Unitary_Authorities_(May_2021)_UK_BUC"} 
