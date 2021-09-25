@@ -1,6 +1,6 @@
 { 
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json", 
-  "title": "England and Wales Housing Prices 2017", 
+  "title": "England and Wales Average Housing Prices 2017", 
   "width": 800, 
   "height": 600, 
   "projection": {"type": "azimuthalEqualArea"}, 
@@ -25,6 +25,7 @@
     "color": { 
       "field": "Average", 
       "type": "quantitative",
+      "title": "Average House Price",
             "scale": { 
         "type": "threshold", 
         "domain": [200000, 300000, 400000, 500000, 600000], 
