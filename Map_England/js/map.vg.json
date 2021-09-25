@@ -5,7 +5,7 @@
   "height": 600, 
   "projection": {"type": "azimuthalEqualArea"}, 
   "data": { 
-    "url": "https://raw.githubusercontent.com/jlea0003/Assignment2Homework/master/js/Counties_and_Unitary_Authorities_(May_2021)_UK_BUC.json", 
+    "url": "https://raw.githubusercontent.com/jlea0003/Assignment2Homework/master/Map_England/js/Counties_and_Unitary_Authorities_(May_2021)_UK_BUC.json", 
     "format": {"type": "topojson", "feature": "Counties_and_Unitary_Authorities_(May_2021)_UK_BUC"} 
   }, 
   "transform": [ 
@@ -13,7 +13,7 @@
       "lookup": "properties.CTYUA21NM", 
       "from": { 
         "data": { 
-          "url": "https://raw.githubusercontent.com/jlea0003/Assignment2Homework/master/data/price_paid_2017.csv" 
+          "url": "https://raw.githubusercontent.com/jlea0003/Assignment2Homework/master/Map_England/data/price_paid_2017.csv" 
         }, 
         "key": "Unique", 
         "fields": ["Average", "Detached", "Semi-Detached","Terraced","Flats","Other"]
