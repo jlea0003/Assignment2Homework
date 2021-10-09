@@ -32,13 +32,38 @@
     {
       "name": "pts",
       "select": {"type": "point", "on": "mouseover"}
-    } 
+    },
+    { 
+      "name": "Property_selection", 
+      "bind": { 
+        "input": "select", 
+        "options": [ 
+          "Average", 
+          "averageDetached",
+          "averageSemi-Detached",
+          "averageTerraced",
+          "averageFlats",
+          "averageOther" 
+        ], 
+        "labels":[  
+          "Show All", 
+          "Detached",
+          "Semi-Detached",
+          "Terraced",
+          "Flats",
+          "Other"
+        ],
+        "name": "Property Selection: "
+      }
+    }
   ],
-  "projection": {
+"projection": {
     "type": "azimuthalEqualArea",
     "center": {"expr": "center_to"},
     "scale": {"expr": "zoom_level"} 
     },
+    "layer":[
+  {
   "data": {
     "url": "https://raw.githubusercontent.com/jlea0003/Assignment2Homework/master/Map_England/js/Counties_and_Unitary_Authorities_(May_2021)_UK_BUC.json",
     "format": {
@@ -60,7 +85,12 @@
           "Semi-Detached",
           "Terraced",
           "Flats",
-          "Other"
+          "Other",
+          "averageDetached",
+          "averageSemi-Detached",
+          "averageTerraced",
+          "averageFlats",
+          "averageOther"
         ]
       }
     }
@@ -68,8 +98,8 @@
   "mark": {"type": "geoshape"},
   "encoding": {
     "color": {
-      "field": "Average",
-      "type": "quantitative",
+        "field": "Average",
+        "type": "quantitative",
       "title": "Average House Price",
       "scale": {
         "type": "threshold",
@@ -136,7 +166,36 @@
   "opacity": { 
           "condition": {"param": "pts", "value": 1}, 
           "value": 0.9 
-    }  
-},
+    }
+}},
+{
+"data": {
+        "url": "https://raw.githubusercontent.com/jlea0003/Assignment2Homework/master/Map_England/data/gb.csv"
+      },
+      "encoding": {
+        "longitude": {
+          "field": "lng",
+          "type": "quantitative"
+        },
+        "latitude": {
+          "field": "lat",
+          "type": "quantitative"
+        }
+      },
+      "layer": [{
+        "mark": {
+          "type": "circle",
+          "color": "orange"
+        }
+      }, {
+        "mark": {
+          "type": "text",
+          "dy": -10
+        },
+        "encoding": {
+          "text": {"field": "city", "type": "nominal"}
+        }
+      }]}
+  ],
 "config": { "title": { "font": "sans-serif", "fontSize": 14 } }
 }
