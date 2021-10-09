@@ -113,5 +113,6 @@
       {"field": "Flats", "type": "quantitative", "title": "Number sold; Flats"},
       {"field": "Other", "type": "quantitative", "title": "Number sold; Other"}
     ]
-  }
+  },
+  "config": { "title": { "font": "sans-serif", "fontSize": 14 } }
 }
