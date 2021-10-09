@@ -1,0 +1,95 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "England and Wales Average Housing Prices 2017",
+    "repeat": ["Average","averageDetached", "averageSemi-Detached", "averageTerraced", "averageFlats", "averageOther"], 
+    "columns": 2, 
+    "spec": {
+    "projection": {
+      "type": "azimuthalEqualArea"
+      },
+      "width": 400,
+      "height": 300,
+    "layer": [
+      {
+    "data": {
+      "url": "https://raw.githubusercontent.com/jlea0003/Assignment2Homework/master/Map_England/js/Counties_and_Unitary_Authorities_(May_2021)_UK_BUC.json",
+      "format": {
+        "type": "topojson",
+        "feature": "Counties_and_Unitary_Authorities_(May_2021)_UK_BUC"
+      }
+    },
+    "transform": [
+      {
+        "lookup": "properties.CTYUA21NM",
+        "from": {
+          "data": {
+            "url": "https://raw.githubusercontent.com/jlea0003/Assignment2Homework/master/Map_England/data/price_paid_2017.csv" 
+          },
+          "key": "Unique",
+          "fields": [
+            "Average",
+            "averageDetached",
+            "averageSemi-Detached",
+            "averageTerraced",
+            "averageFlats",
+            "averageOther"
+          ]
+        }
+      }
+    ],
+    "mark": {"type": "geoshape", "stroke": "gray"},
+    "encoding": {
+      "color": {
+        "field": {"repeat": "repeat"},
+        "type": "quantitative",
+        "title": "Average House Price",
+        "scale": {
+          "type": "threshold",
+          "domain": [200000, 300000, 400000, 600000, 800000, 1000000],
+          "range": [
+            "#ffffd4",
+            "#fee391",
+            "#fec44f",
+            "#fe9929",
+            "#ec7014",
+            "#cc4c02",
+            "#8c2d04"
+          ]
+        } 
+      },
+      "tooltip": [  
+              {"field": "properties.CTYUA21NM", "type": "nominal", "title": "District and/ or County"},  
+              {  
+                "field": {"repeat": "repeat"},  
+                "type": "quantitative",  
+                "title": "Median Price",  
+                "format": ".0f"  
+              }
+      ]
+    }
+    },
+    {
+      "data": {
+            "values": [  
+              {  
+                "Average": "Average Housing Prices",  
+                "averageDetached": "Average Detached Housing Prices",  
+                "averageSemi-Detached": "Average Semi-Detached Housing Prices",  
+                "averageTerraced": "Average Terraced Housing Prices",  
+                "averageFlats": "Average Flats Housing Prices",  
+                "averageOther": "Average Other Housing Prices"  
+              }  
+            ]
+      },
+          "mark": {  
+            "type": "text",  
+            "align": "right",  
+            "baseline": "bottom",  
+            "x": "width",  
+            "y": 0  
+          },  
+          "encoding": {"text": {"field": {"repeat": "repeat"}}}  
+    }
+    ]
+  } 
+  }
