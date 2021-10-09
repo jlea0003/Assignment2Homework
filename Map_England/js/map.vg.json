@@ -28,6 +28,10 @@
         "labels": ["London", "Liverpool", "Centre"],  
         "name": "Map Centre: "  
       }  
+    },
+    {
+      "name": "pts",
+      "select": {"type": "point", "on": "mouseover"}
     } 
   ],
   "projection": {
@@ -61,7 +65,7 @@
       }
     }
   ],
-  "mark": {"type": "geoshape", "stroke": "gray"},
+  "mark": {"type": "geoshape"},
   "encoding": {
     "color": {
       "field": "Average",
@@ -81,7 +85,7 @@
             "#993404",
             "#662506"
           ]
-      } 
+      }
     },
     "tooltip": [
       {
@@ -112,7 +116,27 @@
       },
       {"field": "Flats", "type": "quantitative", "title": "Number sold; Flats"},
       {"field": "Other", "type": "quantitative", "title": "Number sold; Other"}
-    ]
-  },
-  "config": { "title": { "font": "sans-serif", "fontSize": 14 } }
+    ],
+    "stroke": {
+      "condition": {
+        "param": "pts",
+        "empty": false,
+        "value": "black"
+      },
+      "value": "gray"
+    },
+    "strokeWidth": {
+      "condition": {
+        "param": "pts",
+        "empty": false,
+        "value": 2
+      },
+      "value": 1
+    },
+  "opacity": { 
+          "condition": {"param": "pts", "value": 1}, 
+          "value": 0.9 
+    }  
+},
+"config": { "title": { "font": "sans-serif", "fontSize": 14 } }
 }
