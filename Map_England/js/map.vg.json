@@ -1,15 +1,15 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": "England and Wales Average Housing Prices 2017",
-    "width": 550,
-    "height": 400,
+    "width": 275,
+    "height": 200,
     "params": [  
       {  
         "name": "zoom_level",  
-        "value": 4500,  
+        "value": 2500,  
         "bind": {  
           "input": "range",  
-          "min": 4500,  
+          "min": 2500,  
           "max": 30000,  
           "step": 100,  
           "name": "Zoom: "  
