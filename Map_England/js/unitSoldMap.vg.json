@@ -1,0 +1,20 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {"url": "https://raw.githubusercontent.com/jlea0003/Assignment2Homework/master/Map_England/data/price_paid_2017_dupe.csv"},
+    "params": [{
+      "name": "industry",
+      "select": {"type": "point", "fields": ["regions"]},
+      "bind": "legend"
+    }],
+    "mark": {"type": "bar", "cornerRadiusTopLeft": 3, "cornerRadiusTopRight": 3},
+    "encoding": {
+      "x": {"field": "Type", "type": "ordinal", "axis": {"labelAngle": -40},"title":"Type of Housing"},
+      "y": {"aggregate": "sum", "field": "numberSold", "type": "quantitative",
+      "title":"Total Number Sold"},
+      "color": {"field": "regions"},
+      "opacity": {
+        "condition": {"param": "industry", "value": 1},
+        "value": 0.2
+      }
+    }
+  }
