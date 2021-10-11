@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "London Average Housing Prices 2017",
+    "title": "Wales Average Housing Prices 2017",
     "repeat": ["Average","averageDetached", "averageSemi-Detached", "averageTerraced", "averageFlats", "averageOther"], 
     "columns": 2, 
     "spec": {
@@ -23,39 +23,29 @@
       "filter": {
           "field": "properties.CTYUA21NM",
           "oneOf":[
-            "Wandsworth",
-            "Barnet",
-            "Ealing",
-            "Harrow",
-            "Merton",
-            "Haringey",
-            "Westminster",
-            "Brent",
-            "Camden",
-            "Southwark",
-            "Hounslow",
-            "Richmond upon Thames",
-            "Kingston upon Thames",
-            "Kensington and Chelsea",
-            "Hammersmith and Fulham",
-            "Lambeth",
-            "City of London",
-            "Hackney",
-            "Tower Hamlets",
-            "Islington",
-            "Waltham Forest",
-            "Enfield",
-            "Hillingdon",
-            "Sutton",
-            "Croydon",
-            "Bromley",
-            "Greenwich",
-            "Lewisham",
-            "Bexley",
-            "Havering",
-            "Barking and Dagenham",
-            "Newham",
-            "Redbridge"
+            "Isle of Anglesey",
+            "Gwynedd",
+            "Conwy",
+            "Denbighshire",
+            "Flintshire",
+            "Wrexham",
+            "Ceredigion",
+            "Pembrokeshire",
+            "Carmarthenshire",
+            "Swansea",
+            "Neath Port Talbot",
+            "Bridgend",
+            "Vale of Glamorgan",
+            "Cardiff",
+            "Rhondda Cynon Taf",
+            "Caerphilly",
+            "Blaenau Gwent",
+            "Torfaen",
+            "Monmouthshire",
+            "Newport",
+            "Powys",
+            "Merthyr Tydfil"
+
 
           ]
         }
@@ -86,17 +76,17 @@
         "title": "Average House Price",
         "scale": {
           "type": "threshold",
-          "domain": [200000, 300000, 400000, 600000, 800000, 1000000,2000000, 3000000],
+          "domain": [100000, 150000, 200000, 250000, 400000, 500000,700000, 1000000],
           "range": [
             "#ffffe5",
-            "#fff7bc",
-            "#fee391",
-            "#fec44f",
-            "#fe9929",
-            "#ec7014",
-            "#cc4c02",
-            "#993404",
-            "#662506"
+            "#f7fcb9",
+            "#d9f0a3",
+            "#addd8e",
+            "#78c679",
+            "#41ab5d",
+            "#238443",
+            "#006837",
+            "#004529"
           ]
         } 
       },
@@ -132,7 +122,45 @@
             "y": 0  
           },  
           "encoding": {"text": {"field": {"repeat": "repeat"}}}  
-    }
+    },
+    {
+          "data": {
+              "url": "https://raw.githubusercontent.com/jlea0003/Assignment2Homework/master/Map_England/data/gb.csv"
+          },
+          "transform": [
+      {
+      "filter": {
+          "field": "city",
+          "oneOf":[
+            "Abertawe",
+            "Caerdydd"
+          ]}}],
+          "encoding": {
+              "longitude": {
+                  "field": "lng",
+                  "type": "quantitative"
+              },
+              "latitude": {
+                  "field": "lat",
+                  "type": "quantitative"
+              }
+          },
+          "layer": [{
+              "mark": {
+                  "type": "circle",
+                  "color": "black"
+              }
+          }, {
+              "mark": {
+                "opacity": 1,
+                  "type": "text",
+                  "dy": -12
+              },
+              "encoding": {
+                  "text": { "field": "city", "type": "nominal" }
+              }
+          }]
+      }
     ]
   },
   "config": { "title": { "font": "sans-serif", "fontSize": 14 } } 
