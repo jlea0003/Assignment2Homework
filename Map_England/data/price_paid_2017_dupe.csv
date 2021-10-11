@@ -1,871 +1,871 @@
-﻿Unique,Average,Detached,Semi-Detached,Terraced,Flats,Other,Total,averagesValue,averages,regions,numberSold
-Hartlepool,135812.4666,261,371,411,47,78,1168,232198.5479,averageDetached,North East,261
-Hartlepool,135812.4666,261,371,411,47,78,1168,124036.4501,averageSemi-Detached,North East,371
-Hartlepool,135812.4666,261,371,411,47,78,1168,63770.43309,averageTerraced,North East,411
-Hartlepool,135812.4666,261,371,411,47,78,1168,93711.70213,averageFlats,North East,47
-Hartlepool,135812.4666,261,371,411,47,78,1168,274275.8846,averageOther,North East,78
-Middlesbrough,143658.2619,359,625,590,69,60,1703,236621.6379,averageDetached,North East,359
-Middlesbrough,143658.2619,359,625,590,69,60,1703,132168.3728,averageSemi-Detached,North East,625
-Middlesbrough,143658.2619,359,625,590,69,60,1703,70079.18983,averageTerraced,North East,590
-Middlesbrough,143658.2619,359,625,590,69,60,1703,77092.75362,averageFlats,North East,69
-Middlesbrough,143658.2619,359,625,590,69,60,1703,507191.6167,averageOther,North East,60
-Redcar and Cleveland,139082.778,380,712,496,91,69,1748,220058.0263,averageDetached,North East,380
-Redcar and Cleveland,139082.778,380,712,496,91,69,1748,125599.9789,averageSemi-Detached,North East,712
-Redcar and Cleveland,139082.778,380,712,496,91,69,1748,86642.44556,averageTerraced,North East,496
-Redcar and Cleveland,139082.778,380,712,496,91,69,1748,105884.3736,averageFlats,North East,91
-Redcar and Cleveland,139082.778,380,712,496,91,69,1748,253004.7826,averageOther,North East,69
-Stockton-on-Tees,177457.2493,787,1042,665,83,115,2692,247012.4612,averageDetached,North East,787
-Stockton-on-Tees,177457.2493,787,1042,665,83,115,2692,129569.4443,averageSemi-Detached,North East,1042
-Stockton-on-Tees,177457.2493,787,1042,665,83,115,2692,94857.57594,averageTerraced,North East,665
-Stockton-on-Tees,177457.2493,787,1042,665,83,115,2692,102772.9759,averageFlats,North East,83
-Stockton-on-Tees,177457.2493,787,1042,665,83,115,2692,666906.9739,averageOther,North East,115
-Darlington,161999.1167,294,530,455,88,72,1439,231001.7007,averageDetached,North East,294
-Darlington,161999.1167,294,530,455,88,72,1439,145969.2302,averageSemi-Detached,North East,530
-Darlington,161999.1167,294,530,455,88,72,1439,107001.9692,averageTerraced,North East,455
-Darlington,161999.1167,294,530,455,88,72,1439,108419.3182,averageFlats,North East,88
-Darlington,161999.1167,294,530,455,88,72,1439,411274.1806,averageOther,North East,72
-Halton,176444.3516,370,475,517,68,86,1516,255789.327,averageDetached,North West,370
-Halton,176444.3516,370,475,517,68,86,1516,144144.2716,averageSemi-Detached,North West,475
-Halton,176444.3516,370,475,517,68,86,1516,96958.07544,averageTerraced,North West,517
-Halton,176444.3516,370,475,517,68,86,1516,80714.61765,averageFlats,North West,68
-Halton,176444.3516,370,475,517,68,86,1516,567013.2326,averageOther,North West,86
-Warrington,245841.0646,674,1058,761,213,142,2848,332008.2626,averageDetached,North West,674
-Warrington,245841.0646,674,1058,761,213,142,2848,185337.5794,averageSemi-Detached,North West,1058
-Warrington,245841.0646,674,1058,761,213,142,2848,134625.9001,averageTerraced,North West,761
-Warrington,245841.0646,674,1058,761,213,142,2848,112329.9577,averageFlats,North West,213
-Warrington,245841.0646,674,1058,761,213,142,2848,1083929.81,averageOther,North West,142
-Blackburn with Darwen,176948.038,241,395,802,44,96,1578,233506.2822,averageDetached,North West,241
-Blackburn with Darwen,176948.038,241,395,802,44,96,1578,135392.9747,averageSemi-Detached,North West,395
-Blackburn with Darwen,176948.038,241,395,802,44,96,1578,98859.72569,averageTerraced,North West,802
-Blackburn with Darwen,176948.038,241,395,802,44,96,1578,89975,averageFlats,North West,44
-Blackburn with Darwen,176948.038,241,395,802,44,96,1578,898170.4688,averageOther,North West,96
-Blackpool,130557.6397,155,835,776,176,159,2101,206403.2323,averageDetached,North West,155
-Blackpool,130557.6397,155,835,776,176,159,2101,123825.4144,averageSemi-Detached,North West,835
-Blackpool,130557.6397,155,835,776,176,159,2101,97223.72036,averageTerraced,North West,776
-Blackpool,130557.6397,155,835,776,176,159,2101,75438.64205,averageFlats,North West,176
-Blackpool,130557.6397,155,835,776,176,159,2101,315673.4025,averageOther,North West,159
-"Kingston upon Hull, City of",260771.6512,258,818,1106,136,225,2543,202810.5775,averageDetached,Yorkshire and the Humber,258
-"Kingston upon Hull, City of",260771.6512,258,818,1106,136,225,2543,128529.3753,averageSemi-Detached,Yorkshire and the Humber,818
-"Kingston upon Hull, City of",260771.6512,258,818,1106,136,225,2543,106473.6184,averageTerraced,Yorkshire and the Humber,1106
-"Kingston upon Hull, City of",260771.6512,258,818,1106,136,225,2543,107821.6029,averageFlats,Yorkshire and the Humber,136
-"Kingston upon Hull, City of",260771.6512,258,818,1106,136,225,2543,1658918.182,averageOther,Yorkshire and the Humber,225
-East Riding of Yorkshire,207393.8313,1896,1878,1322,428,243,5767,274616.0775,averageDetached,Yorkshire and the Humber,1896
-East Riding of Yorkshire,207393.8313,1896,1878,1322,428,243,5767,162027.9803,averageSemi-Detached,Yorkshire and the Humber,1878
-East Riding of Yorkshire,207393.8313,1896,1878,1322,428,243,5767,130728.2148,averageTerraced,Yorkshire and the Humber,1322
-East Riding of Yorkshire,207393.8313,1896,1878,1322,428,243,5767,114106.6192,averageFlats,Yorkshire and the Humber,428
-East Riding of Yorkshire,207393.8313,1896,1878,1322,428,243,5767,614894.0823,averageOther,Yorkshire and the Humber,243
-North East Lincolnshire,136434.7387,537,796,812,126,106,2377,206036.879,averageDetached,Yorkshire and the Humber,537
-North East Lincolnshire,136434.7387,537,796,812,126,106,2377,133280.3291,averageSemi-Detached,Yorkshire and the Humber,796
-North East Lincolnshire,136434.7387,537,796,812,126,106,2377,80330.70567,averageTerraced,Yorkshire and the Humber,812
-North East Lincolnshire,136434.7387,537,796,812,126,106,2377,111782.9206,averageFlats,Yorkshire and the Humber,126
-North East Lincolnshire,136434.7387,537,796,812,126,106,2377,266596.6698,averageOther,Yorkshire and the Humber,106
-North Lincolnshire,162585.4947,910,907,380,59,101,2357,201649.5495,averageDetached,Yorkshire and the Humber,910
-North Lincolnshire,162585.4947,910,907,380,59,101,2357,114022.4675,averageSemi-Detached,Yorkshire and the Humber,907
-North Lincolnshire,162585.4947,910,907,380,59,101,2357,96663.91316,averageTerraced,Yorkshire and the Humber,380
-North Lincolnshire,162585.4947,910,907,380,59,101,2357,67903.45763,averageFlats,Yorkshire and the Humber,59
-North Lincolnshire,162585.4947,910,907,380,59,101,2357,550058.9307,averageOther,Yorkshire and the Humber,101
-York,314505.1405,509,873,811,588,158,2939,372699.5521,averageDetached,Yorkshire and the Humber,509
-York,314505.1405,509,873,811,588,158,2939,242076.1226,averageSemi-Detached,Yorkshire and the Humber,873
-York,314505.1405,509,873,811,588,158,2939,250596.0049,averageTerraced,Yorkshire and the Humber,811
-York,314505.1405,509,873,811,588,158,2939,235272.8605,averageFlats,Yorkshire and the Humber,588
-York,314505.1405,509,873,811,588,158,2939,1150128.348,averageOther,Yorkshire and the Humber,158
-Derby,198081.2046,807,1187,860,289,126,3269,251985.3742,averageDetached,East Midlands,807
-Derby,198081.2046,807,1187,860,289,126,3269,149367.1247,averageSemi-Detached,East Midlands,1187
-Derby,198081.2046,807,1187,860,289,126,3269,118832.6209,averageTerraced,East Midlands,860
-Derby,198081.2046,807,1187,860,289,126,3269,113866.7578,averageFlats,East Midlands,289
-Derby,198081.2046,807,1187,860,289,126,3269,1045816.96,averageOther,East Midlands,126
-Leicester,207405.8857,356,998,1311,538,602,3805,292534.0562,averageDetached,East Midlands,356
-Leicester,207405.8857,356,998,1311,538,602,3805,175766.3567,averageSemi-Detached,East Midlands,998
-Leicester,207405.8857,356,998,1311,538,602,3805,149098.1312,averageTerraced,East Midlands,1311
-Leicester,207405.8857,356,998,1311,538,602,3805,117448.4052,averageFlats,East Midlands,538
-Leicester,207405.8857,356,998,1311,538,602,3805,416889.6262,averageOther,East Midlands,602
-Rutland,313529.2544,264,141,159,29,36,629,392117.8561,averageDetached,East Midlands,264
-Rutland,313529.2544,264,141,159,29,36,629,240875,averageSemi-Detached,East Midlands,141
-Rutland,313529.2544,264,141,159,29,36,629,230891.8868,averageTerraced,East Midlands,159
-Rutland,313529.2544,264,141,159,29,36,629,147538.1034,averageFlats,East Midlands,29
-Rutland,313529.2544,264,141,159,29,36,629,520472.1389,averageOther,East Midlands,36
-Nottingham,221201.0582,556,1033,1276,575,217,3657,250343.7212,averageDetached,East Midlands,556
-Nottingham,221201.0582,556,1033,1276,575,217,3657,148178.7222,averageSemi-Detached,East Midlands,1033
-Nottingham,221201.0582,556,1033,1276,575,217,3657,114283.6826,averageTerraced,East Midlands,1276
-Nottingham,221201.0582,556,1033,1276,575,217,3657,126291.5478,averageFlats,East Midlands,575
-Nottingham,221201.0582,556,1033,1276,575,217,3657,1374326.829,averageOther,East Midlands,217
-"Herefordshire, County of",400813.6367,1328,964,858,522,311,3983,435857.8178,averageDetached,West Midlands,1328
-"Herefordshire, County of",400813.6367,1328,964,858,522,311,3983,326319.1245,averageSemi-Detached,West Midlands,964
-"Herefordshire, County of",400813.6367,1328,964,858,522,311,3983,267534.5629,averageTerraced,West Midlands,858
-"Herefordshire, County of",400813.6367,1328,964,858,522,311,3983,274178.1111,averageFlats,West Midlands,522
-"Herefordshire, County of",400813.6367,1328,964,858,522,311,3983,1062328.836,averageOther,West Midlands,311
-Telford and Wrekin,182661.943,887,792,645,145,128,2597,246697.4419,averageDetached,West Midlands,887
-Telford and Wrekin,182661.943,887,792,645,145,128,2597,147160.202,averageSemi-Detached,West Midlands,792
-Telford and Wrekin,182661.943,887,792,645,145,128,2597,125468.9876,averageTerraced,West Midlands,645
-Telford and Wrekin,182661.943,887,792,645,145,128,2597,84135.64138,averageFlats,West Midlands,145
-Telford and Wrekin,182661.943,887,792,645,145,128,2597,358393.6719,averageOther,West Midlands,128
-Stoke-on-Trent,147358.9989,569,1376,1347,102,173,3567,205062.9525,averageDetached,West Midlands,569
-Stoke-on-Trent,147358.9989,569,1376,1347,102,173,3567,115327.1483,averageSemi-Detached,West Midlands,1376
-Stoke-on-Trent,147358.9989,569,1376,1347,102,173,3567,78008.61915,averageTerraced,West Midlands,1347
-Stoke-on-Trent,147358.9989,569,1376,1347,102,173,3567,77872.83333,averageFlats,West Midlands,102
-Stoke-on-Trent,147358.9989,569,1376,1347,102,173,3567,793282.8555,averageOther,West Midlands,173
-Bath and North East Somerset,432289.0161,594,628,888,458,164,2732,524790.9327,averageDetached,South West,594
-Bath and North East Somerset,432289.0161,594,628,888,458,164,2732,334607.7468,averageSemi-Detached,South West,628
-Bath and North East Somerset,432289.0161,594,628,888,458,164,2732,351566.7218,averageTerraced,South West,888
-Bath and North East Somerset,432289.0161,594,628,888,458,164,2732,298699.3341,averageFlats,South West,458
-Bath and North East Somerset,432289.0161,594,628,888,458,164,2732,1281454.689,averageOther,South West,164
-"Bristol, City of",333367.5588,269,1273,2637,2146,341,6666,516278.9851,averageDetached,South West,269
-"Bristol, City of",333367.5588,269,1273,2637,2146,341,6666,319595.9914,averageSemi-Detached,South West,1273
-"Bristol, City of",333367.5588,269,1273,2637,2146,341,6666,298550.5047,averageTerraced,South West,2637
-"Bristol, City of",333367.5588,269,1273,2637,2146,341,6666,231888.0252,averageFlats,South West,2146
-"Bristol, City of",333367.5588,269,1273,2637,2146,341,6666,1148369.56,averageOther,South West,341
-North Somerset,283339.1395,898,902,717,829,166,3512,392515.0947,averageDetached,South West,898
-North Somerset,283339.1395,898,902,717,829,166,3512,252387.5089,averageSemi-Detached,South West,902
-North Somerset,283339.1395,898,902,717,829,166,3512,222243.0962,averageTerraced,South West,717
-North Somerset,283339.1395,898,902,717,829,166,3512,171084.1098,averageFlats,South West,829
-North Somerset,283339.1395,898,902,717,829,166,3512,685409.2952,averageOther,South West,166
-South Gloucestershire,310098.6681,890,1161,1239,593,163,4046,395774.409,averageDetached,South West,890
-South Gloucestershire,310098.6681,890,1161,1239,593,163,4046,272250.9871,averageSemi-Detached,South West,1161
-South Gloucestershire,310098.6681,890,1161,1239,593,163,4046,235124.912,averageTerraced,South West,1239
-South Gloucestershire,310098.6681,890,1161,1239,593,163,4046,170400.1012,averageFlats,South West,593
-South Gloucestershire,310098.6681,890,1161,1239,593,163,4046,1189997.331,averageOther,South West,163
-Plymouth,228459.0288,412,922,1626,676,189,3825,299796.585,averageDetached,South West,412
-Plymouth,228459.0288,412,922,1626,676,189,3825,190640.5011,averageSemi-Detached,South West,922
-Plymouth,228459.0288,412,922,1626,676,189,3825,165757.5,averageTerraced,South West,1626
-Plymouth,228459.0288,412,922,1626,676,189,3825,129874.0636,averageFlats,South West,676
-Plymouth,228459.0288,412,922,1626,676,189,3825,1149484.063,averageOther,South West,189
-Torbay,229424.9557,590,543,706,717,128,2684,317308.7271,averageDetached,South West,590
-Torbay,229424.9557,590,543,706,717,128,2684,211186.6814,averageSemi-Detached,South West,543
-Torbay,229424.9557,590,543,706,717,128,2684,180572.4504,averageTerraced,South West,706
-Torbay,229424.9557,590,543,706,717,128,2684,137942.9038,averageFlats,South West,717
-Torbay,229424.9557,590,543,706,717,128,2684,683600.4063,averageOther,South West,128
-Swindon,245750.7587,764,909,1368,695,123,3859,341826.6545,averageDetached,South West,764
-Swindon,245750.7587,764,909,1368,695,123,3859,236621.1199,averageSemi-Detached,South West,909
-Swindon,245750.7587,764,909,1368,695,123,3859,189504.7332,averageTerraced,South West,1368
-Swindon,245750.7587,764,909,1368,695,123,3859,137734.9324,averageFlats,South West,695
-Swindon,245750.7587,764,909,1368,695,123,3859,952355.7967,averageOther,South West,123
-Peterborough,231853.9668,784,795,885,365,150,2979,287462.4911,averageDetached,East of England,784
-Peterborough,231853.9668,784,795,885,365,150,2979,177108.1723,averageSemi-Detached,East of England,795
-Peterborough,231853.9668,784,795,885,365,150,2979,142041.826,averageTerraced,East of England,885
-Peterborough,231853.9668,784,795,885,365,150,2979,106471.6411,averageFlats,East of England,365
-Peterborough,231853.9668,784,795,885,365,150,2979,1066348.08,averageOther,East of England,150
-Luton,251296.8322,218,855,701,503,250,2527,372033.9725,averageDetached,East of England,218
-Luton,251296.8322,218,855,701,503,250,2527,265300.552,averageSemi-Detached,East of England,855
-Luton,251296.8322,218,855,701,503,250,2527,222680.5592,averageTerraced,East of England,701
-Luton,251296.8322,218,855,701,503,250,2527,132782.0755,averageFlats,East of England,503
-Luton,251296.8322,218,855,701,503,250,2527,416813.044,averageOther,East of England,250
-Southend-on-Sea,286643.1074,366,685,600,1164,165,2980,493858.5246,averageDetached,East of England,366
-Southend-on-Sea,286643.1074,366,685,600,1164,165,2980,335798.9401,averageSemi-Detached,East of England,685
-Southend-on-Sea,286643.1074,366,685,600,1164,165,2980,276527.06,averageTerraced,East of England,600
-Southend-on-Sea,286643.1074,366,685,600,1164,165,2980,189369.5902,averageFlats,East of England,1164
-Southend-on-Sea,286643.1074,366,685,600,1164,165,2980,345936.5273,averageOther,East of England,165
-Thurrock,331189.3003,311,747,863,598,88,2607,432791.4855,averageDetached,East of England,311
-Thurrock,331189.3003,311,747,863,598,88,2607,315912.5328,averageSemi-Detached,East of England,747
-Thurrock,331189.3003,311,747,863,598,88,2607,265168.1356,averageTerraced,East of England,863
-Thurrock,331189.3003,311,747,863,598,88,2607,173863.7793,averageFlats,East of England,598
-Thurrock,331189.3003,311,747,863,598,88,2607,1818352.852,averageOther,East of England,88
-Medway,250587.8815,480,1008,1923,590,144,4145,392761.6833,averageDetached,South East,480
-Medway,250587.8815,480,1008,1923,590,144,4145,271568.3988,averageSemi-Detached,South East,1008
-Medway,250587.8815,480,1008,1923,590,144,4145,215796.8627,averageTerraced,South East,1923
-Medway,250587.8815,480,1008,1923,590,144,4145,168061.9136,averageFlats,South East,590
-Medway,250587.8815,480,1008,1923,590,144,4145,432543.8819,averageOther,South East,144
-Bracknell Forest,500638.5792,387,359,549,356,79,1730,614645,averageDetached,South East,387
-Bracknell Forest,500638.5792,387,359,549,356,79,1730,397716.0446,averageSemi-Detached,South East,359
-Bracknell Forest,500638.5792,387,359,549,356,79,1730,330083.8506,averageTerraced,South East,549
-Bracknell Forest,500638.5792,387,359,549,356,79,1730,238196.4888,averageFlats,South East,356
-Bracknell Forest,500638.5792,387,359,549,356,79,1730,2777760.544,averageOther,South East,79
-West Berkshire,487576.8554,591,503,429,328,148,1999,597215.6396,averageDetached,South East,591
-West Berkshire,487576.8554,591,503,429,328,148,1999,349983.6223,averageSemi-Detached,South East,503
-West Berkshire,487576.8554,591,503,429,328,148,1999,298689.1282,averageTerraced,South East,429
-West Berkshire,487576.8554,591,503,429,328,148,1999,229855.3628,averageFlats,South East,328
-West Berkshire,487576.8554,591,503,429,328,148,1999,1636079.284,averageOther,South East,148
-Reading,401260.165,172,436,701,755,106,2170,572675.8837,averageDetached,South East,172
-Reading,401260.165,172,436,701,755,106,2170,380111.6537,averageSemi-Detached,South East,436
-Reading,401260.165,172,436,701,755,106,2170,311965.368,averageTerraced,South East,701
-Reading,401260.165,172,436,701,755,106,2170,237325.0358,averageFlats,South East,755
-Reading,401260.165,172,436,701,755,106,2170,1968278.302,averageOther,South East,106
-Slough,435270.6912,101,289,394,566,62,1412,536229.4554,averageDetached,South East,101
-Slough,435270.6912,101,289,394,566,62,1412,412199.5121,averageSemi-Detached,South East,289
-Slough,435270.6912,101,289,394,566,62,1412,334985.6624,averageTerraced,South East,394
-Slough,435270.6912,101,289,394,566,62,1412,224438.8445,averageFlats,South East,566
-Slough,435270.6912,101,289,394,566,62,1412,2940332.984,averageOther,South East,62
-Windsor and Maidenhead,710357.5317,458,402,385,436,147,1828,935525.3406,averageDetached,South East,458
-Windsor and Maidenhead,710357.5317,458,402,385,436,147,1828,502492.107,averageSemi-Detached,South East,402
-Windsor and Maidenhead,710357.5317,458,402,385,436,147,1828,496764.4597,averageTerraced,South East,385
-Windsor and Maidenhead,710357.5317,458,402,385,436,147,1828,384907.5826,averageFlats,South East,436
-Windsor and Maidenhead,710357.5317,458,402,385,436,147,1828,2101953.143,averageOther,South East,147
-Wokingham,477717.9863,795,573,447,373,80,2268,618244.7182,averageDetached,South East,795
-Wokingham,477717.9863,795,573,447,373,80,2268,415296.7365,averageSemi-Detached,South East,573
-Wokingham,477717.9863,795,573,447,373,80,2268,347449.311,averageTerraced,South East,447
-Wokingham,477717.9863,795,573,447,373,80,2268,259011.4424,averageFlats,South East,373
-Wokingham,477717.9863,795,573,447,373,80,2268,1275921.275,averageOther,South East,80
-Milton Keynes,327274.0382,985,938,1047,875,130,3975,426725.9807,averageDetached,South East,985
-Milton Keynes,327274.0382,985,938,1047,875,130,3975,270747.9392,averageSemi-Detached,South East,938
-Milton Keynes,327274.0382,985,938,1047,875,130,3975,227587.2684,averageTerraced,South East,1047
-Milton Keynes,327274.0382,985,938,1047,875,130,3975,169198.0949,averageFlats,South East,875
-Milton Keynes,327274.0382,985,938,1047,875,130,3975,1848426.469,averageOther,South East,130
-Brighton and Hove,413506.4739,378,618,907,2017,269,4189,681196.7963,averageDetached,South East,378
-Brighton and Hove,413506.4739,378,618,907,2017,269,4189,439233.4045,averageSemi-Detached,South East,618
-Brighton and Hove,413506.4739,378,618,907,2017,269,4189,457369.1907,averageTerraced,South East,907
-Brighton and Hove,413506.4739,378,618,907,2017,269,4189,304015.1349,averageFlats,South East,2017
-Brighton and Hove,413506.4739,378,618,907,2017,269,4189,651329.3792,averageOther,South East,269
-Portsmouth,252926.0914,116,308,1587,882,148,3041,433738.4828,averageDetached,South East,116
-Portsmouth,252926.0914,116,308,1587,882,148,3041,281337.039,averageSemi-Detached,South East,308
-Portsmouth,252926.0914,116,308,1587,882,148,3041,215992.8859,averageTerraced,South East,1587
-Portsmouth,252926.0914,116,308,1587,882,148,3041,162474.5896,averageFlats,South East,882
-Portsmouth,252926.0914,116,308,1587,882,148,3041,987158.6081,averageOther,South East,148
-Southampton,348394.1229,415,726,754,1085,210,3190,325826.7253,averageDetached,South East,415
-Southampton,348394.1229,415,726,754,1085,210,3190,250198.719,averageSemi-Detached,South East,726
-Southampton,348394.1229,415,726,754,1085,210,3190,210804.8011,averageTerraced,South East,754
-Southampton,348394.1229,415,726,754,1085,210,3190,158491.6571,averageFlats,South East,1085
-Southampton,348394.1229,415,726,754,1085,210,3190,2207641.062,averageOther,South East,210
-Isle of Wight,233882.6691,860,618,453,450,188,2569,325499.5988,averageDetached,South East,860
-Isle of Wight,233882.6691,860,618,453,450,188,2569,206333.6586,averageSemi-Detached,South East,618
-Isle of Wight,233882.6691,860,618,453,450,188,2569,171368.9536,averageTerraced,South East,453
-Isle of Wight,233882.6691,860,618,453,450,188,2569,142949.4333,averageFlats,South East,450
-Isle of Wight,233882.6691,860,618,453,450,188,2569,273634.7872,averageOther,South East,188
-County Durham,140147.028,1572,2073,3106,290,419,7460,223625.9459,averageDetached,North East,1572
-County Durham,140147.028,1572,2073,3106,290,419,7460,117360.2161,averageSemi-Detached,North East,2073
-County Durham,140147.028,1572,2073,3106,290,419,7460,78109.89247,averageTerraced,North East,3106
-County Durham,140147.028,1572,2073,3106,290,419,7460,83133.13103,averageFlats,North East,290
-County Durham,140147.028,1572,2073,3106,290,419,7460,439024.2959,averageOther,North East,419
-Cheshire East,274913.0905,2139,1834,1612,622,303,6510,388939.9252,averageDetached,North West,2139
-Cheshire East,274913.0905,2139,1834,1612,622,303,6510,208415.9471,averageSemi-Detached,North West,1834
-Cheshire East,274913.0905,2139,1834,1612,622,303,6510,167102.4082,averageTerraced,North West,1612
-Cheshire East,274913.0905,2139,1834,1612,622,303,6510,145861.926,averageFlats,North West,622
-Cheshire East,274913.0905,2139,1834,1612,622,303,6510,710929.6106,averageOther,North West,303
-Cheshire West and Chester,251683.0681,1597,1706,1165,443,229,5140,329833.8804,averageDetached,North West,1597
-Cheshire West and Chester,251683.0681,1597,1706,1165,443,229,5140,189995.2145,averageSemi-Detached,North West,1706
-Cheshire West and Chester,251683.0681,1597,1706,1165,443,229,5140,150208.8429,averageTerraced,North West,1165
-Cheshire West and Chester,251683.0681,1597,1706,1165,443,229,5140,140828.0384,averageFlats,North West,443
-Cheshire West and Chester,251683.0681,1597,1706,1165,443,229,5140,896918.3581,averageOther,North West,229
-Shropshire,251904.5517,1859,1327,949,394,370,4899,310799.4185,averageDetached,West Midlands,1859
-Shropshire,251904.5517,1859,1327,949,394,370,4899,186582.682,averageSemi-Detached,West Midlands,1327
-Shropshire,251904.5517,1859,1327,949,394,370,4899,168935.5416,averageTerraced,West Midlands,949
-Shropshire,251904.5517,1859,1327,949,394,370,4899,157664.3832,averageFlats,West Midlands,394
-Shropshire,251904.5517,1859,1327,949,394,370,4899,503430.9865,averageOther,West Midlands,370
-Cornwall,267415.7881,3379,1931,2730,1052,863,9955,341010.1749,averageDetached,South West,3379
-Cornwall,267415.7881,3379,1931,2730,1052,863,9955,208005.3351,averageSemi-Detached,South West,1931
-Cornwall,267415.7881,3379,1931,2730,1052,863,9955,190553.8725,averageTerraced,South West,2730
-Cornwall,267415.7881,3379,1931,2730,1052,863,9955,180254.404,averageFlats,South West,1052
-Cornwall,267415.7881,3379,1931,2730,1052,863,9955,461590.7103,averageOther,South West,863
-Isles of Scilly,374828.3448,1,5,3,12,8,29,417500,averageDetached,South West,1
-Isles of Scilly,374828.3448,1,5,3,12,8,29,380000,averageSemi-Detached,South West,5
-Isles of Scilly,374828.3448,1,5,3,12,8,29,326666.6667,averageTerraced,South West,3
-Isles of Scilly,374828.3448,1,5,3,12,8,29,252500,averageFlats,South West,12
-Isles of Scilly,374828.3448,1,5,3,12,8,29,567815.25,averageOther,South West,8
-Wiltshire,316404.1089,2445,1823,1977,936,430,7611,410134.6192,averageDetached,South West,2445
-Wiltshire,316404.1089,2445,1823,1977,936,430,7611,265039.4849,averageSemi-Detached,South West,1823
-Wiltshire,316404.1089,2445,1823,1977,936,430,7611,223231.6874,averageTerraced,South West,1977
-Wiltshire,316404.1089,2445,1823,1977,936,430,7611,164424.4167,averageFlats,South West,936
-Wiltshire,316404.1089,2445,1823,1977,936,430,7611,760407.5535,averageOther,South West,430
-Bedford,333828.6299,691,758,701,420,135,2705,414955.5702,averageDetached,East of England,691
-Bedford,333828.6299,691,758,701,420,135,2705,271223.81,averageSemi-Detached,East of England,758
-Bedford,333828.6299,691,758,701,420,135,2705,228753.1598,averageTerraced,East of England,701
-Bedford,333828.6299,691,758,701,420,135,2705,150736.5952,averageFlats,East of England,420
-Bedford,333828.6299,691,758,701,420,135,2705,1385327.126,averageOther,East of England,135
-Central Bedfordshire,357363.9586,1141,1275,1368,665,168,4617,458639.4084,averageDetached,East of England,1141
-Central Bedfordshire,357363.9586,1141,1275,1368,665,168,4617,301792.1184,averageSemi-Detached,East of England,1275
-Central Bedfordshire,357363.9586,1141,1275,1368,665,168,4617,253027.4189,averageTerraced,East of England,1368
-Central Bedfordshire,357363.9586,1141,1275,1368,665,168,4617,169279.3173,averageFlats,East of England,665
-Central Bedfordshire,357363.9586,1141,1275,1368,665,168,4617,1685384.679,averageOther,East of England,168
-Northumberland,209474.776,1438,1293,1382,454,339,4906,296887.1975,averageDetached,North East,1438
-Northumberland,209474.776,1438,1293,1382,454,339,4906,154663.1214,averageSemi-Detached,North East,1293
-Northumberland,209474.776,1438,1293,1382,454,339,4906,132024.6194,averageTerraced,North East,1382
-Northumberland,209474.776,1438,1293,1382,454,339,4906,115421.7137,averageFlats,North East,454
-Northumberland,209474.776,1438,1293,1382,454,339,4906,489441.1888,averageOther,North East,339
-"Bournemouth, Christchurch and Poole",283838.5713,928,374,200,1753,200,3455,391412.4968,averageDetached,South West,928
-"Bournemouth, Christchurch and Poole",283838.5713,928,374,200,1753,200,3455,270897.3556,averageSemi-Detached,South West,374
-"Bournemouth, Christchurch and Poole",283838.5713,928,374,200,1753,200,3455,250978.335,averageTerraced,South West,200
-"Bournemouth, Christchurch and Poole",283838.5713,928,374,200,1753,200,3455,195976.2002,averageFlats,South West,1753
-"Bournemouth, Christchurch and Poole",283838.5713,928,374,200,1753,200,3455,611869.55,averageOther,South West,200
-Dorset,330604.0046,2740,1253,1626,1297,415,7331,431805.1383,averageDetached,South West,2740
-Dorset,330604.0046,2740,1253,1626,1297,415,7331,280402.4653,averageSemi-Detached,South West,1253
-Dorset,330604.0046,2740,1253,1626,1297,415,7331,240370.3721,averageTerraced,South West,1626
-Dorset,330604.0046,2740,1253,1626,1297,415,7331,194500.0308,averageFlats,South West,1297
-Dorset,330604.0046,2740,1253,1626,1297,415,7331,592912.8313,averageOther,South West,415
-Buckinghamshire,495185.7319,2310,2016,1651,1541,495,8013,752424.055,averageDetached,South East,2310
-Buckinghamshire,495185.7319,2310,2016,1651,1541,495,8013,401404.4772,averageSemi-Detached,South East,2016
-Buckinghamshire,495185.7319,2310,2016,1651,1541,495,8013,344078.5197,averageTerraced,South East,1651
-Buckinghamshire,495185.7319,2310,2016,1651,1541,495,8013,266528.5438,averageFlats,South East,1541
-Buckinghamshire,495185.7319,2310,2016,1651,1541,495,8013,892521.5253,averageOther,South East,495
-North Northamptonshire,237926.4129,1643,1795,1802,431,682,6353,307918.3737,averageDetached,East Midlands,1643
-North Northamptonshire,237926.4129,1643,1795,1802,431,682,6353,188313.7643,averageSemi-Detached,East Midlands,1795
-North Northamptonshire,237926.4129,1643,1795,1802,431,682,6353,154896.5988,averageTerraced,East Midlands,1802
-North Northamptonshire,237926.4129,1643,1795,1802,431,682,6353,104570.3248,averageFlats,East Midlands,431
-North Northamptonshire,237926.4129,1643,1795,1802,431,682,6353,503548.2771,averageOther,East Midlands,682
-West Northamptonshire,346192.8641,1330,817,547,157,196,3047,400833.682,averageDetached,East Midlands,1330
-West Northamptonshire,346192.8641,1330,817,547,157,196,3047,250245.0306,averageSemi-Detached,East Midlands,817
-West Northamptonshire,346192.8641,1330,817,547,157,196,3047,221529.17,averageTerraced,East Midlands,547
-West Northamptonshire,346192.8641,1330,817,547,157,196,3047,146789.707,averageFlats,East Midlands,157
-West Northamptonshire,346192.8641,1330,817,547,157,196,3047,883001.1735,averageOther,East Midlands,196
-Bolton,180651.9957,624,1083,1436,318,251,3712,272861.6571,averageDetached,North West,624
-Bolton,180651.9957,624,1083,1436,318,251,3712,140673.7054,averageSemi-Detached,North West,1083
-Bolton,180651.9957,624,1083,1436,318,251,3712,118728.9735,averageTerraced,North West,1436
-Bolton,180651.9957,624,1083,1436,318,251,3712,91725.78931,averageFlats,North West,318
-Bolton,180651.9957,624,1083,1436,318,251,3712,590841.8486,averageOther,North West,251
-Bury,174010.6605,485,899,963,381,126,2854,288137.6103,averageDetached,North West,485
-Bury,174010.6605,485,899,963,381,126,2854,172218.6396,averageSemi-Detached,North West,899
-Bury,174010.6605,485,899,963,381,126,2854,124029.5327,averageTerraced,North West,963
-Bury,174010.6605,485,899,963,381,126,2854,137382.9081,averageFlats,North West,381
-Bury,174010.6605,485,899,963,381,126,2854,240252.373,averageOther,North West,126
-Manchester,272349.8611,282,1589,2140,2263,435,6709,328981.9113,averageDetached,North West,282
-Manchester,272349.8611,282,1589,2140,2263,435,6709,199199.5966,averageSemi-Detached,North West,1589
-Manchester,272349.8611,282,1589,2140,2263,435,6709,145972.2804,averageTerraced,North West,2140
-Manchester,272349.8611,282,1589,2140,2263,435,6709,170894.3305,averageFlats,North West,2263
-Manchester,272349.8611,282,1589,2140,2263,435,6709,1652366.92,averageOther,North West,435
-Oldham,149654.6645,358,923,1189,92,171,2733,278516.1676,averageDetached,North West,358
-Oldham,149654.6645,358,923,1189,92,171,2733,149187.1896,averageSemi-Detached,North West,923
-Oldham,149654.6645,358,923,1189,92,171,2733,97525.69722,averageTerraced,North West,1189
-Oldham,149654.6645,358,923,1189,92,171,2733,113736.5217,averageFlats,North West,92
-Oldham,149654.6645,358,923,1189,92,171,2733,264186.0819,averageOther,North West,171
-Rochdale,166686.7609,454,800,946,205,192,2597,246507.5595,averageDetached,North West,454
-Rochdale,166686.7609,454,800,946,205,192,2597,135309.5738,averageSemi-Detached,North West,800
-Rochdale,166686.7609,454,800,946,205,192,2597,105435.2907,averageTerraced,North West,946
-Rochdale,166686.7609,454,800,946,205,192,2597,69877.80488,averageFlats,North West,205
-Rochdale,166686.7609,454,800,946,205,192,2597,513836.9375,averageOther,North West,192
-Salford,200572.1505,356,1074,1213,1594,281,4518,289870.7303,averageDetached,North West,356
-Salford,200572.1505,356,1074,1213,1594,281,4518,172289.2654,averageSemi-Detached,North West,1074
-Salford,200572.1505,356,1074,1213,1594,281,4518,130431.1913,averageTerraced,North West,1213
-Salford,200572.1505,356,1074,1213,1594,281,4518,163920.3588,averageFlats,North West,1594
-Salford,200572.1505,356,1074,1213,1594,281,4518,706228.605,averageOther,North West,281
-Stockport,264439.188,862,1698,1183,479,204,4426,380176.1671,averageDetached,North West,862
-Stockport,264439.188,862,1698,1183,479,204,4426,229443.9912,averageSemi-Detached,North West,1698
-Stockport,264439.188,862,1698,1183,479,204,4426,158690.4497,averageTerraced,North West,1183
-Stockport,264439.188,862,1698,1183,479,204,4426,128198.3716,averageFlats,North West,479
-Stockport,264439.188,862,1698,1183,479,204,4426,999815.0539,averageOther,North West,204
-Tameside,148480.5723,387,1031,1310,130,142,3000,262487.0284,averageDetached,North West,387
-Tameside,148480.5723,387,1031,1310,130,142,3000,152278.9554,averageSemi-Detached,North West,1031
-Tameside,148480.5723,387,1031,1310,130,142,3000,111605.2809,averageTerraced,North West,1310
-Tameside,148480.5723,387,1031,1310,130,142,3000,86789.34615,averageFlats,North West,130
-Tameside,148480.5723,387,1031,1310,130,142,3000,206859.8662,averageOther,North West,142
-Trafford,336358.05,454,1237,799,581,166,3237,603297.2533,averageDetached,North West,454
-Trafford,336358.05,454,1237,799,581,166,3237,297136.5707,averageSemi-Detached,North West,1237
-Trafford,336358.05,454,1237,799,581,166,3237,235014.3755,averageTerraced,North West,799
-Trafford,336358.05,454,1237,799,581,166,3237,178927.1756,averageFlats,North West,581
-Trafford,336358.05,454,1237,799,581,166,3237,937367.1205,averageOther,North West,166
-Wigan,156111.1548,826,1656,1463,155,266,4366,230812.9044,averageDetached,North West,826
-Wigan,156111.1548,826,1656,1463,155,266,4366,133484.1021,averageSemi-Detached,North West,1656
-Wigan,156111.1548,826,1656,1463,155,266,4366,97394.07314,averageTerraced,North West,1463
-Wigan,156111.1548,826,1656,1463,155,266,4366,80724.16129,averageFlats,North West,155
-Wigan,156111.1548,826,1656,1463,155,266,4366,431881.188,averageOther,North West,266
-Knowsley,154428.6736,267,680,434,82,78,1541,213603.7528,averageDetached,North West,267
-Knowsley,154428.6736,267,680,434,82,78,1541,134267.2191,averageSemi-Detached,North West,680
-Knowsley,154428.6736,267,680,434,82,78,1541,88934.92857,averageTerraced,North West,434
-Knowsley,154428.6736,267,680,434,82,78,1541,77067.80488,averageFlats,North West,82
-Knowsley,154428.6736,267,680,434,82,78,1541,573376.359,averageOther,North West,78
-Liverpool,181772.2138,452,1452,2627,1581,669,6781,297464.6615,averageDetached,North West,452
-Liverpool,181772.2138,452,1452,2627,1581,669,6781,171583.5868,averageSemi-Detached,North West,1452
-Liverpool,181772.2138,452,1452,2627,1581,669,6781,100000.2927,averageTerraced,North West,2627
-Liverpool,181772.2138,452,1452,2627,1581,669,6781,112245.2891,averageFlats,North West,1581
-Liverpool,181772.2138,452,1452,2627,1581,669,6781,611126.1824,averageOther,North West,669
-St. Helens,150879.2337,454,879,722,90,264,2409,240624.9714,averageDetached,North West,454
-St. Helens,150879.2337,454,879,722,90,264,2409,140199.1593,averageSemi-Detached,North West,879
-St. Helens,150879.2337,454,879,722,90,264,2409,92376.84626,averageTerraced,North West,722
-St. Helens,150879.2337,454,879,722,90,264,2409,78465.97778,averageFlats,North West,90
-St. Helens,150879.2337,454,879,722,90,264,2409,216785.0568,averageOther,North West,264
-Sefton,201762.391,611,1498,672,611,258,3650,336551.6219,averageDetached,North West,611
-Sefton,201762.391,611,1498,672,611,258,3650,171879.1509,averageSemi-Detached,North West,1498
-Sefton,201762.391,611,1498,672,611,258,3650,106936.0551,averageTerraced,North West,672
-Sefton,201762.391,611,1498,672,611,258,3650,122037.7119,averageFlats,North West,611
-Sefton,201762.391,611,1498,672,611,258,3650,491855.2209,averageOther,North West,258
-Wirral,193474.9772,744,1793,1199,504,182,4422,329773.0269,averageDetached,North West,744
-Wirral,193474.9772,744,1793,1199,504,182,4422,173948.7027,averageSemi-Detached,North West,1793
-Wirral,193474.9772,744,1793,1199,504,182,4422,111112.5955,averageTerraced,North West,1199
-Wirral,193474.9772,744,1793,1199,504,182,4422,117009.6171,averageFlats,North West,504
-Wirral,193474.9772,744,1793,1199,504,182,4422,583012.8791,averageOther,North West,182
-Barnsley,139605.2436,813,1188,1023,176,154,3354,220001.6765,averageDetached,Yorkshire and the Humber,813
-Barnsley,139605.2436,813,1188,1023,176,154,3354,112743.6911,averageSemi-Detached,Yorkshire and the Humber,1188
-Barnsley,139605.2436,813,1188,1023,176,154,3354,90900.54252,averageTerraced,Yorkshire and the Humber,1023
-Barnsley,139605.2436,813,1188,1023,176,154,3354,69215.65909,averageFlats,Yorkshire and the Humber,176
-Barnsley,139605.2436,813,1188,1023,176,154,3354,326376.026,averageOther,Yorkshire and the Humber,154
-Doncaster,164642.7994,1049,1637,971,103,183,3943,219094.6044,averageDetached,Yorkshire and the Humber,1049
-Doncaster,164642.7994,1049,1637,971,103,183,3943,120636.0464,averageSemi-Detached,Yorkshire and the Humber,1637
-Doncaster,164642.7994,1049,1637,971,103,183,3943,89444.92482,averageTerraced,Yorkshire and the Humber,971
-Doncaster,164642.7994,1049,1637,971,103,183,3943,90426.26214,averageFlats,Yorkshire and the Humber,103
-Doncaster,164642.7994,1049,1637,971,103,183,3943,686940.8907,averageOther,Yorkshire and the Humber,183
-Rotherham,172651.7977,823,1399,711,157,163,3253,231239.6002,averageDetached,Yorkshire and the Humber,823
-Rotherham,172651.7977,823,1399,711,157,163,3253,124939.96,averageSemi-Detached,Yorkshire and the Humber,1399
-Rotherham,172651.7977,823,1399,711,157,163,3253,91501.27004,averageTerraced,Yorkshire and the Humber,711
-Rotherham,172651.7977,823,1399,711,157,163,3253,116614.3503,averageFlats,Yorkshire and the Humber,157
-Rotherham,172651.7977,823,1399,711,157,163,3253,694289.8589,averageOther,Yorkshire and the Humber,163
-Sheffield,247700.9649,987,2200,2150,1035,440,6812,314538.8845,averageDetached,Yorkshire and the Humber,987
-Sheffield,247700.9649,987,2200,2150,1035,440,6812,172270.5823,averageSemi-Detached,Yorkshire and the Humber,2200
-Sheffield,247700.9649,987,2200,2150,1035,440,6812,138173.6958,averageTerraced,Yorkshire and the Humber,2150
-Sheffield,247700.9649,987,2200,2150,1035,440,6812,124086.8126,averageFlats,Yorkshire and the Humber,1035
-Sheffield,247700.9649,987,2200,2150,1035,440,6812,1300887.536,averageOther,Yorkshire and the Humber,440
-Newcastle upon Tyne,229044.1404,370,947,1099,868,476,3760,304742.0946,averageDetached,North East,370
-Newcastle upon Tyne,229044.1404,370,947,1099,868,476,3760,183339.2883,averageSemi-Detached,North East,947
-Newcastle upon Tyne,229044.1404,370,947,1099,868,476,3760,177587.3749,averageTerraced,North East,1099
-Newcastle upon Tyne,229044.1404,370,947,1099,868,476,3760,139852.9194,averageFlats,North East,868
-Newcastle upon Tyne,229044.1404,370,947,1099,868,476,3760,542580.3109,averageOther,North East,476
-North Tyneside,187409.0087,490,997,946,606,162,3201,278950.6286,averageDetached,North East,490
-North Tyneside,187409.0087,490,997,946,606,162,3201,179409.8576,averageSemi-Detached,North East,997
-North Tyneside,187409.0087,490,997,946,606,162,3201,161507.5338,averageTerraced,North East,946
-North Tyneside,187409.0087,490,997,946,606,162,3201,109560.6485,averageFlats,North East,606
-North Tyneside,187409.0087,490,997,946,606,162,3201,402215.5617,averageOther,North East,162
-South Tyneside,148052.3211,205,549,548,245,138,1685,274523.4878,averageDetached,North East,205
-South Tyneside,148052.3211,205,549,548,245,138,1685,147775.0401,averageSemi-Detached,North East,549
-South Tyneside,148052.3211,205,549,548,245,138,1685,113949.3266,averageTerraced,North East,548
-South Tyneside,148052.3211,205,549,548,245,138,1685,82346.93878,averageFlats,North East,245
-South Tyneside,148052.3211,205,549,548,245,138,1685,213355.9275,averageOther,North East,138
-Sunderland,146649.056,494,1084,1103,321,213,3215,226481.5668,averageDetached,North East,494
-Sunderland,146649.056,494,1084,1103,321,213,3215,129972.9068,averageSemi-Detached,North East,1084
-Sunderland,146649.056,494,1084,1103,321,213,3215,95664.7806,averageTerraced,North East,1103
-Sunderland,146649.056,494,1084,1103,321,213,3215,68277.63551,averageFlats,North East,321
-Sunderland,146649.056,494,1084,1103,321,213,3215,428492.0939,averageOther,North East,213
-Birmingham,251830.8611,1136,3567,4190,2180,755,11828,385310.272,averageDetached,West Midlands,1136
-Birmingham,251830.8611,1136,3567,4190,2180,755,11828,195330.0684,averageSemi-Detached,West Midlands,3567
-Birmingham,251830.8611,1136,3567,4190,2180,755,11828,153222.0289,averageTerraced,West Midlands,4190
-Birmingham,251830.8611,1136,3567,4190,2180,755,11828,145032.4018,averageFlats,West Midlands,2180
-Birmingham,251830.8611,1136,3567,4190,2180,755,11828,1173549.225,averageOther,West Midlands,755
-Coventry,201051.045,431,1086,2083,586,148,4334,321038.761,averageDetached,West Midlands,431
-Coventry,201051.045,431,1086,2083,586,148,4334,193698.9899,averageSemi-Detached,West Midlands,1086
-Coventry,201051.045,431,1086,2083,586,148,4334,152755.977,averageTerraced,West Midlands,2083
-Coventry,201051.045,431,1086,2083,586,148,4334,120253.8447,averageFlats,West Midlands,586
-Coventry,201051.045,431,1086,2083,586,148,4334,905209.2365,averageOther,West Midlands,148
-Dudley,185343.1554,824,1455,926,321,154,3680,259407.9163,averageDetached,West Midlands,824
-Dudley,185343.1554,824,1455,926,321,154,3680,156844.8371,averageSemi-Detached,West Midlands,1455
-Dudley,185343.1554,824,1455,926,321,154,3680,139134.0551,averageTerraced,West Midlands,926
-Dudley,185343.1554,824,1455,926,321,154,3680,97583.69159,averageFlats,West Midlands,321
-Dudley,185343.1554,824,1455,926,321,154,3680,519084.0974,averageOther,West Midlands,154
-Sandwell,165406.0577,364,1196,1085,291,185,3121,216784.3379,averageDetached,West Midlands,364
-Sandwell,165406.0577,364,1196,1085,291,185,3121,142493.0727,averageSemi-Detached,West Midlands,1196
-Sandwell,165406.0577,364,1196,1085,291,185,3121,139346.2664,averageTerraced,West Midlands,1085
-Sandwell,165406.0577,364,1196,1085,291,185,3121,79055.31959,averageFlats,West Midlands,291
-Sandwell,165406.0577,364,1196,1085,291,185,3121,501109.7027,averageOther,West Midlands,185
-Solihull,349199.9348,759,997,597,594,103,3050,508343.7839,averageDetached,West Midlands,759
-Solihull,349199.9348,759,997,597,594,103,3050,267871.4664,averageSemi-Detached,West Midlands,997
-Solihull,349199.9348,759,997,597,594,103,3050,212925.4757,averageTerraced,West Midlands,597
-Solihull,349199.9348,759,997,597,594,103,3050,171624.5741,averageFlats,West Midlands,594
-Solihull,349199.9348,759,997,597,594,103,3050,1777645.738,averageOther,West Midlands,103
-Walsall,191985.411,579,1137,853,292,149,3010,279276.4145,averageDetached,West Midlands,579
-Walsall,191985.411,579,1137,853,292,149,3010,155507.5215,averageSemi-Detached,West Midlands,1137
-Walsall,191985.411,579,1137,853,292,149,3010,123418.0516,averageTerraced,West Midlands,853
-Walsall,191985.411,579,1137,853,292,149,3010,96415.17466,averageFlats,West Midlands,292
-Walsall,191985.411,579,1137,853,292,149,3010,710967.5302,averageOther,West Midlands,149
-Wolverhampton,170841.8553,504,1115,672,279,125,2695,254938.3988,averageDetached,West Midlands,504
-Wolverhampton,170841.8553,504,1115,672,279,125,2695,138086.8565,averageSemi-Detached,West Midlands,1115
-Wolverhampton,170841.8553,504,1115,672,279,125,2695,112983.0908,averageTerraced,West Midlands,672
-Wolverhampton,170841.8553,504,1115,672,279,125,2695,95205.86738,averageFlats,West Midlands,279
-Wolverhampton,170841.8553,504,1115,672,279,125,2695,603807.424,averageOther,West Midlands,125
-Bradford,160899.08,1027,2160,2518,619,1079,7403,293006.9942,averageDetached,Yorkshire and the Humber,1027
-Bradford,160899.08,1027,2160,2518,619,1079,7403,147170.4829,averageSemi-Detached,Yorkshire and the Humber,2160
-Bradford,160899.08,1027,2160,2518,619,1079,7403,114862.72,averageTerraced,Yorkshire and the Humber,2518
-Bradford,160899.08,1027,2160,2518,619,1079,7403,106000.3393,averageFlats,Yorkshire and the Humber,619
-Bradford,160899.08,1027,2160,2518,619,1079,7403,201567.1214,averageOther,Yorkshire and the Humber,1079
-Calderdale,182805.0928,434,747,1381,175,206,2943,316880.318,averageDetached,Yorkshire and the Humber,434
-Calderdale,182805.0928,434,747,1381,175,206,2943,159168.0268,averageSemi-Detached,Yorkshire and the Humber,747
-Calderdale,182805.0928,434,747,1381,175,206,2943,112482.6401,averageTerraced,Yorkshire and the Humber,1381
-Calderdale,182805.0928,434,747,1381,175,206,2943,113510.7429,averageFlats,Yorkshire and the Humber,175
-Calderdale,182805.0928,434,747,1381,175,206,2943,516349.068,averageOther,Yorkshire and the Humber,206
-Kirklees,170515.7648,1223,1589,2029,333,416,5590,271582.3074,averageDetached,Yorkshire and the Humber,1223
-Kirklees,170515.7648,1223,1589,2029,333,416,5590,148617.056,averageSemi-Detached,Yorkshire and the Humber,1589
-Kirklees,170515.7648,1223,1589,2029,333,416,5590,114256.5683,averageTerraced,Yorkshire and the Humber,2029
-Kirklees,170515.7648,1223,1589,2029,333,416,5590,92595.8018,averageFlats,Yorkshire and the Humber,333
-Kirklees,170515.7648,1223,1589,2029,333,416,5590,293808.851,averageOther,Yorkshire and the Humber,416
-Leeds,234081.1634,1746,3831,3452,1785,490,11304,363914.3511,averageDetached,Yorkshire and the Humber,1746
-Leeds,234081.1634,1746,3831,3452,1785,490,11304,191584.3229,averageSemi-Detached,Yorkshire and the Humber,3831
-Leeds,234081.1634,1746,3831,3452,1785,490,11304,145802.3722,averageTerraced,Yorkshire and the Humber,3452
-Leeds,234081.1634,1746,3831,3452,1785,490,11304,139930.7905,averageFlats,Yorkshire and the Humber,1785
-Leeds,234081.1634,1746,3831,3452,1785,490,11304,1068598.414,averageOther,Yorkshire and the Humber,490
-Wakefield,170940.5659,1327,1967,1505,221,195,5215,242832.6895,averageDetached,Yorkshire and the Humber,1327
-Wakefield,170940.5659,1327,1967,1505,221,195,5215,136905.0605,averageSemi-Detached,Yorkshire and the Humber,1967
-Wakefield,170940.5659,1327,1967,1505,221,195,5215,106951.6179,averageTerraced,Yorkshire and the Humber,1505
-Wakefield,170940.5659,1327,1967,1505,221,195,5215,89133.55656,averageFlats,Yorkshire and the Humber,221
-Wakefield,170940.5659,1327,1967,1505,221,195,5215,611605.7282,averageOther,Yorkshire and the Humber,195
-Gateshead,177604.0974,256,818,793,468,171,2506,250694.9023,averageDetached,North East,256
-Gateshead,177604.0974,256,818,793,468,171,2506,147390.5416,averageSemi-Detached,North East,818
-Gateshead,177604.0974,256,818,793,468,171,2506,124903.0214,averageTerraced,North East,793
-Gateshead,177604.0974,256,818,793,468,171,2506,104999.0513,averageFlats,North East,468
-Gateshead,177604.0974,256,818,793,468,171,2506,655817.883,averageOther,North East,171
-City of London,6828867.576,0,0,2,104,97,203,0,averageDetached,London,0
-City of London,6828867.576,0,0,2,104,97,203,0,averageSemi-Detached,London,0
-City of London,6828867.576,0,0,2,104,97,203,2146500,averageTerraced,London,2
-City of London,6828867.576,0,0,2,104,97,203,957475.0481,averageFlats,London,104
-City of London,6828867.576,0,0,2,104,97,203,13220512.51,averageOther,London,97
-Barking and Dagenham,312383.1275,13,204,1144,410,64,1835,409423.0769,averageDetached,London,13
-Barking and Dagenham,312383.1275,13,204,1144,410,64,1835,364576.7892,averageSemi-Detached,London,204
-Barking and Dagenham,312383.1275,13,204,1144,410,64,1835,320817.5997,averageTerraced,London,1144
-Barking and Dagenham,312383.1275,13,204,1144,410,64,1835,216456.8195,averageFlats,London,410
-Barking and Dagenham,312383.1275,13,204,1144,410,64,1835,590066.3125,averageOther,London,64
-Barnet,652271.9238,284,763,669,2083,244,4043,1490789.542,averageDetached,London,284
-Barnet,652271.9238,284,763,669,2083,244,4043,775923.5007,averageSemi-Detached,London,763
-Barnet,652271.9238,284,763,669,2083,244,4043,593713.9492,averageTerraced,London,669
-Barnet,652271.9238,284,763,669,2083,244,4043,415064.1719,averageFlats,London,2083
-Barnet,652271.9238,284,763,669,2083,244,4043,1475197.643,averageOther,London,244
-Bexley,376968.4594,155,958,999,746,109,2967,550884.4323,averageDetached,London,155
-Bexley,376968.4594,155,958,999,746,109,2967,411126.4916,averageSemi-Detached,London,958
-Bexley,376968.4594,155,958,999,746,109,2967,333658.8128,averageTerraced,London,999
-Bexley,376968.4594,155,958,999,746,109,2967,222340.5402,averageFlats,London,746
-Bexley,376968.4594,155,958,999,746,109,2967,1284660.147,averageOther,London,109
-Brent,679926.4162,71,305,392,1530,201,2499,1104590.845,averageDetached,London,71
-Brent,679926.4162,71,305,392,1530,201,2499,736312.0689,averageSemi-Detached,London,305
-Brent,679926.4162,71,305,392,1530,201,2499,716675.2321,averageTerraced,London,392
-Brent,679926.4162,71,305,392,1530,201,2499,420150.1203,averageFlats,London,1530
-Brent,679926.4162,71,305,392,1530,201,2499,2350092.577,averageOther,London,201
-Bromley,570900.4882,618,984,972,1454,183,4211,846778.1165,averageDetached,London,618
-Bromley,570900.4882,618,984,972,1454,183,4211,537806.6809,averageSemi-Detached,London,984
-Bromley,570900.4882,618,984,972,1454,183,4211,442908.0936,averageTerraced,London,972
-Bromley,570900.4882,618,984,972,1454,183,4211,330738.7105,averageFlats,London,1454
-Bromley,570900.4882,618,984,972,1454,183,4211,2405194.284,averageOther,London,183
-Camden,1464200.279,40,51,182,1531,295,2099,5197638.85,averageDetached,London,40
-Camden,1464200.279,40,51,182,1531,295,2099,3209268.627,averageSemi-Detached,London,51
-Camden,1464200.279,40,51,182,1531,295,2099,1983573.44,averageTerraced,London,182
-Camden,1464200.279,40,51,182,1531,295,2099,811026.3423,averageFlats,London,1531
-Camden,1464200.279,40,51,182,1531,295,2099,3725716.732,averageOther,London,295
-Croydon,446637.1774,431,737,1114,2125,255,4662,690847.413,averageDetached,London,431
-Croydon,446637.1774,431,737,1114,2125,255,4662,481413.9457,averageSemi-Detached,London,737
-Croydon,446637.1774,431,737,1114,2125,255,4662,383143.2469,averageTerraced,London,1114
-Croydon,446637.1774,431,737,1114,2125,255,4662,285849.3911,averageFlats,London,2125
-Croydon,446637.1774,431,737,1114,2125,255,4662,1550641.863,averageOther,London,255
-Ealing,928263.1128,77,411,728,1406,258,2880,1355157.143,averageDetached,London,77
-Ealing,928263.1128,77,411,728,1406,258,2880,723247.8467,averageSemi-Detached,London,411
-Ealing,928263.1128,77,411,728,1406,258,2880,618093.7679,averageTerraced,London,728
-Ealing,928263.1128,77,411,728,1406,258,2880,439710.2354,averageFlats,London,1406
-Ealing,928263.1128,77,411,728,1406,258,2880,4665081.186,averageOther,London,258
-Enfield,488454.8948,122,443,1017,1072,179,2833,1092279.516,averageDetached,London,122
-Enfield,488454.8948,122,443,1017,1072,179,2833,606206.1783,averageSemi-Detached,London,443
-Enfield,488454.8948,122,443,1017,1072,179,2833,443851.3658,averageTerraced,London,1017
-Enfield,488454.8948,122,443,1017,1072,179,2833,309414.3563,averageFlats,London,1072
-Enfield,488454.8948,122,443,1017,1072,179,2833,1111152.235,averageOther,London,179
-Greenwich,505129.025,64,326,907,1763,138,3198,933706.9531,averageDetached,London,64
-Greenwich,505129.025,64,326,907,1763,138,3198,529397.5767,averageSemi-Detached,London,326
-Greenwich,505129.025,64,326,907,1763,138,3198,457831.2161,averageTerraced,London,907
-Greenwich,505129.025,64,326,907,1763,138,3198,408708.0743,averageFlats,London,1763
-Greenwich,505129.025,64,326,907,1763,138,3198,1791713.906,averageOther,London,138
-Hackney,772976.07,7,26,327,1690,192,2242,2060857.143,averageDetached,London,7
-Hackney,772976.07,7,26,327,1690,192,2242,1157042.308,averageSemi-Detached,London,26
-Hackney,772976.07,7,26,327,1690,192,2242,998673.5321,averageTerraced,London,327
-Hackney,772976.07,7,26,327,1690,192,2242,516636.7621,averageFlats,London,1690
-Hackney,772976.07,7,26,327,1690,192,2242,2545942.063,averageOther,London,192
-Hammersmith and Fulham,1021593.947,8,28,400,1241,192,1869,1596875,averageDetached,London,8
-Hammersmith and Fulham,1021593.947,8,28,400,1241,192,1869,1716519.821,averageSemi-Detached,London,28
-Hammersmith and Fulham,1021593.947,8,28,400,1241,192,1869,1441182.55,averageTerraced,London,400
-Hammersmith and Fulham,1021593.947,8,28,400,1241,192,1869,766509.3247,averageFlats,London,1241
-Hammersmith and Fulham,1021593.947,8,28,400,1241,192,1869,1670887.708,averageOther,London,192
-Haringey,644851.5993,33,112,623,1010,211,1989,1821974.97,averageDetached,London,33
-Haringey,644851.5993,33,112,623,1010,211,1989,1076607.884,averageSemi-Detached,London,112
-Haringey,644851.5993,33,112,623,1010,211,1989,751439.8941,averageTerraced,London,623
-Haringey,644851.5993,33,112,623,1010,211,1989,444809.2782,averageFlats,London,1010
-Haringey,644851.5993,33,112,623,1010,211,1989,874408.2891,averageOther,London,211
-Harrow,574239.6992,156,513,443,661,135,1908,1030646.635,averageDetached,London,156
-Harrow,574239.6992,156,513,443,661,135,1908,581506.4932,averageSemi-Detached,London,513
-Harrow,574239.6992,156,513,443,661,135,1908,499467.5553,averageTerraced,London,443
-Harrow,574239.6992,156,513,443,661,135,1908,345296.7716,averageFlats,London,661
-Harrow,574239.6992,156,513,443,661,135,1908,1385558.126,averageOther,London,135
-Havering,392454.9731,292,1034,911,866,126,3229,647960.7363,averageDetached,London,292
-Havering,392454.9731,292,1034,911,866,126,3229,414664.3433,averageSemi-Detached,London,1034
-Havering,392454.9731,292,1034,911,866,126,3229,355201.5554,averageTerraced,London,911
-Havering,392454.9731,292,1034,911,866,126,3229,244286.4261,averageFlats,London,866
-Havering,392454.9731,292,1034,911,866,126,3229,905785.5556,averageOther,London,126
-Hillingdon,544681.7443,298,770,696,1066,158,2988,809707.2148,averageDetached,London,298
-Hillingdon,544681.7443,298,770,696,1066,158,2988,489938.6143,averageSemi-Detached,London,770
-Hillingdon,544681.7443,298,770,696,1066,158,2988,435632.4626,averageTerraced,London,696
-Hillingdon,544681.7443,298,770,696,1066,158,2988,292276.4719,averageFlats,London,1066
-Hillingdon,544681.7443,298,770,696,1066,158,2988,2494915.544,averageOther,London,158
-Hounslow,662988.633,62,439,550,1242,151,2444,940314.3548,averageDetached,London,62
-Hounslow,662988.633,62,439,550,1242,151,2444,622899.5467,averageSemi-Detached,London,439
-Hounslow,662988.633,62,439,550,1242,151,2444,564170.7764,averageTerraced,London,550
-Hounslow,662988.633,62,439,550,1242,151,2444,349927.818,averageFlats,London,1242
-Hounslow,662988.633,62,439,550,1242,151,2444,3600579.808,averageOther,London,151
-Islington,882766.3509,5,24,269,1240,206,1744,2537480,averageDetached,London,5
-Islington,882766.3509,5,24,269,1240,206,1744,1829789.583,averageSemi-Detached,London,24
-Islington,882766.3509,5,24,269,1240,206,1744,1337192.022,averageTerraced,London,269
-Islington,882766.3509,5,24,269,1240,206,1744,601021.8774,averageFlats,London,1240
-Islington,882766.3509,5,24,269,1240,206,1744,1834807.689,averageOther,London,206
-Kensington and Chelsea,2196349.744,7,19,272,1176,210,1684,15635714.29,averageDetached,London,7
-Kensington and Chelsea,2196349.744,7,19,272,1176,210,1684,5436421.053,averageSemi-Detached,London,19
-Kensington and Chelsea,2196349.744,7,19,272,1176,210,1684,4160846.077,averageTerraced,London,272
-Kensington and Chelsea,2196349.744,7,19,272,1176,210,1684,1517538.87,averageFlats,London,1176
-Kensington and Chelsea,2196349.744,7,19,272,1176,210,1684,2712072.024,averageOther,London,210
-Kingston upon Thames,662103.0672,175,470,335,648,112,1740,1074432.943,averageDetached,London,175
-Kingston upon Thames,662103.0672,175,470,335,648,112,1740,643556.6787,averageSemi-Detached,London,470
-Kingston upon Thames,662103.0672,175,470,335,648,112,1740,515022.9493,averageTerraced,London,335
-Kingston upon Thames,662103.0672,175,470,335,648,112,1740,375041.9306,averageFlats,London,648
-Kingston upon Thames,662103.0672,175,470,335,648,112,1740,2196447.089,averageOther,London,112
-Lambeth,658333.9484,26,152,566,2222,270,3236,1343346.154,averageDetached,London,26
-Lambeth,658333.9484,26,152,566,2222,270,3236,983178.6053,averageSemi-Detached,London,152
-Lambeth,658333.9484,26,152,566,2222,270,3236,854397.6431,averageTerraced,London,566
-Lambeth,658333.9484,26,152,566,2222,270,3236,484799.671,averageFlats,London,2222
-Lambeth,658333.9484,26,152,566,2222,270,3236,1426609.533,averageOther,London,270
-Lewisham,490055.831,31,234,936,1719,217,3137,1084294.387,averageDetached,London,31
-Lewisham,490055.831,31,234,936,1719,217,3137,625816.547,averageSemi-Detached,London,234
-Lewisham,490055.831,31,234,936,1719,217,3137,534050.8857,averageTerraced,London,936
-Lewisham,490055.831,31,234,936,1719,217,3137,354753.5375,averageFlats,London,1719
-Lewisham,490055.831,31,234,936,1719,217,3137,1140820.203,averageOther,London,217
-Merton,651911.9372,92,232,896,842,137,2199,2302137.348,averageDetached,London,92
-Merton,651911.9372,92,232,896,842,137,2199,820999.7457,averageSemi-Detached,London,232
-Merton,651911.9372,92,232,896,842,137,2199,596661.1641,averageTerraced,London,896
-Merton,651911.9372,92,232,896,842,137,2199,378835.0986,averageFlats,London,842
-Merton,651911.9372,92,232,896,842,137,2199,1297067.277,averageOther,London,137
-Newham,421161.1188,11,32,893,1921,148,3005,631909.0909,averageDetached,London,11
-Newham,421161.1188,11,32,893,1921,148,3005,432800,averageSemi-Detached,London,32
-Newham,421161.1188,11,32,893,1921,148,3005,424936.6282,averageTerraced,London,893
-Newham,421161.1188,11,32,893,1921,148,3005,346559.9412,averageFlats,London,1921
-Newham,421161.1188,11,32,893,1921,148,3005,1348503.419,averageOther,London,148
-Redbridge,471865.6199,95,415,1023,872,168,2573,774022.0947,averageDetached,London,95
-Redbridge,471865.6199,95,415,1023,872,168,2573,560321.3325,averageSemi-Detached,London,415
-Redbridge,471865.6199,95,415,1023,872,168,2573,462369.7986,averageTerraced,London,1023
-Redbridge,471865.6199,95,415,1023,872,168,2573,293816.8463,averageFlats,London,872
-Redbridge,471865.6199,95,415,1023,872,168,2573,1064477.345,averageOther,London,168
-Richmond upon Thames,844574.6991,135,436,740,951,201,2463,1513246.489,averageDetached,London,135
-Richmond upon Thames,844574.6991,135,436,740,951,201,2463,1040584.016,averageSemi-Detached,London,436
-Richmond upon Thames,844574.6991,135,436,740,951,201,2463,848948.4811,averageTerraced,London,740
-Richmond upon Thames,844574.6991,135,436,740,951,201,2463,502092.4648,averageFlats,London,951
-Richmond upon Thames,844574.6991,135,436,740,951,201,2463,1574590.881,averageOther,London,201
-Southwark,834655.2036,26,86,455,2131,229,2927,1667653.846,averageDetached,London,26
-Southwark,834655.2036,26,86,455,2131,229,2927,1163390.244,averageSemi-Detached,London,86
-Southwark,834655.2036,26,86,455,2131,229,2927,812312.7253,averageTerraced,London,455
-Southwark,834655.2036,26,86,455,2131,229,2927,585024.984,averageFlats,London,2131
-Southwark,834655.2036,26,86,455,2131,229,2927,2983994.275,averageOther,London,229
-Sutton,428602.1212,212,583,681,1230,100,2806,777280.6132,averageDetached,London,212
-Sutton,428602.1212,212,583,681,1230,100,2806,491163.5009,averageSemi-Detached,London,583
-Sutton,428602.1212,212,583,681,1230,100,2806,399297.6828,averageTerraced,London,681
-Sutton,428602.1212,212,583,681,1230,100,2806,276868.9585,averageFlats,London,1230
-Sutton,428602.1212,212,583,681,1230,100,2806,1390552,averageOther,London,100
-Tower Hamlets,592488.1127,6,10,175,3426,235,3852,1386666.667,averageDetached,London,6
-Tower Hamlets,592488.1127,6,10,175,3426,235,3852,882700,averageSemi-Detached,London,10
-Tower Hamlets,592488.1127,6,10,175,3426,235,3852,876862.7943,averageTerraced,London,175
-Tower Hamlets,592488.1127,6,10,175,3426,235,3852,489730.5289,averageFlats,London,3426
-Tower Hamlets,592488.1127,6,10,175,3426,235,3852,1846167.783,averageOther,London,235
-Waltham Forest,487932.5379,24,226,1160,1171,202,2783,692541.6667,averageDetached,London,24
-Waltham Forest,487932.5379,24,226,1160,1171,202,2783,551297.7257,averageSemi-Detached,London,226
-Waltham Forest,487932.5379,24,226,1160,1171,202,2783,514898.5647,averageTerraced,London,1160
-Waltham Forest,487932.5379,24,226,1160,1171,202,2783,340039.4167,averageFlats,London,1171
-Waltham Forest,487932.5379,24,226,1160,1171,202,2783,1095215.223,averageOther,London,202
-Wandsworth,861109.8633,34,135,1000,3007,278,4454,2851764.706,averageDetached,London,34
-Wandsworth,861109.8633,34,135,1000,3007,278,4454,1491050.393,averageSemi-Detached,London,135
-Wandsworth,861109.8633,34,135,1000,3007,278,4454,992425.132,averageTerraced,London,1000
-Wandsworth,861109.8633,34,135,1000,3007,278,4454,662772.133,averageFlats,London,3007
-Wandsworth,861109.8633,34,135,1000,3007,278,4454,1984714.36,averageOther,London,278
-Westminster,2465001.42,12,18,212,2341,525,3108,5642625,averageDetached,London,12
-Westminster,2465001.42,12,18,212,2341,525,3108,3952422.222,averageSemi-Detached,London,18
-Westminster,2465001.42,12,18,212,2341,525,3108,3097948.557,averageTerraced,London,212
-Westminster,2465001.42,12,18,212,2341,525,3108,1511462.625,averageFlats,London,2341
-Westminster,2465001.42,12,18,212,2341,525,3108,6337657.552,averageOther,London,525
-Cambridgeshire,346694.6149,3079,2290,2316,1301,505,9491,407735.4346,averageDetached,East of England,3079
-Cambridgeshire,346694.6149,3079,2290,2316,1301,505,9491,288397.0603,averageSemi-Detached,East of England,2290
-Cambridgeshire,346694.6149,3079,2290,2316,1301,505,9491,282342.7068,averageTerraced,East of England,2316
-Cambridgeshire,346694.6149,3079,2290,2316,1301,505,9491,252280.5757,averageFlats,East of England,1301
-Cambridgeshire,346694.6149,3079,2290,2316,1301,505,9491,777245.903,averageOther,East of England,505
-Cumbria,194963.2019,1873,2142,2729,555,558,7857,293870.9231,averageDetached,North West,1873
-Cumbria,194963.2019,1873,2142,2729,555,558,7857,167257.0079,averageSemi-Detached,North West,2142
-Cumbria,194963.2019,1873,2142,2729,555,558,7857,123402.4397,averageTerraced,North West,2729
-Cumbria,194963.2019,1873,2142,2729,555,558,7857,136541.7964,averageFlats,North West,555
-Cumbria,194963.2019,1873,2142,2729,555,558,7857,377410.7025,averageOther,North West,558
-Derbyshire,218409.2303,3924,4014,2909,582,622,12051,275413.9207,averageDetached,East Midlands,3924
-Derbyshire,218409.2303,3924,4014,2909,582,622,12051,155072.4571,averageSemi-Detached,East Midlands,4014
-Derbyshire,218409.2303,3924,4014,2909,582,622,12051,127756.5442,averageTerraced,East Midlands,2909
-Derbyshire,218409.2303,3924,4014,2909,582,622,12051,150385.9588,averageFlats,East Midlands,582
-Derbyshire,218409.2303,3924,4014,2909,582,622,12051,755138.5064,averageOther,East Midlands,622
-Devon,292666.6885,4610,2614,3916,1737,1158,14035,371038.01,averageDetached,South West,4610
-Devon,292666.6885,4610,2614,3916,1737,1158,14035,244987.1021,averageSemi-Detached,South West,2614
-Devon,292666.6885,4610,2614,3916,1737,1158,14035,212666.7352,averageTerraced,South West,3916
-Devon,292666.6885,4610,2614,3916,1737,1158,14035,173727.2395,averageFlats,South West,1737
-Devon,292666.6885,4610,2614,3916,1737,1158,14035,537243.7927,averageOther,South West,1158
-East Sussex,307870.3584,2549,1861,1942,2413,645,9410,446523.4625,averageDetached,South East,2549
-East Sussex,307870.3584,2549,1861,1942,2413,645,9410,293713.2633,averageSemi-Detached,South East,1861
-East Sussex,307870.3584,2549,1861,1942,2413,645,9410,256412.7925,averageTerraced,South East,1942
-East Sussex,307870.3584,2549,1861,1942,2413,645,9410,174074.2308,averageFlats,South East,2413
-East Sussex,307870.3584,2549,1861,1942,2413,645,9410,456242.8248,averageOther,South East,645
-Essex,372368.173,6452,5655,5080,4012,1018,22217,477160.7271,averageDetached,South East,6452
-Essex,372368.173,6452,5655,5080,4012,1018,22217,322612.7703,averageSemi-Detached,South East,5655
-Essex,372368.173,6452,5655,5080,4012,1018,22217,276259.2894,averageTerraced,South East,5080
-Essex,372368.173,6452,5655,5080,4012,1018,22217,194405.3557,averageFlats,South East,4012
-Essex,372368.173,6452,5655,5080,4012,1018,22217,1165555.987,averageOther,South East,1018
-Gloucestershire,324457.6578,2823,3055,2483,1431,667,10459,421287.3897,averageDetached,South West,2823
-Gloucestershire,324457.6578,2823,3055,2483,1431,667,10459,245757.9928,averageSemi-Detached,South West,3055
-Gloucestershire,324457.6578,2823,3055,2483,1431,667,10459,220862.9207,averageTerraced,South West,2483
-Gloucestershire,324457.6578,2823,3055,2483,1431,667,10459,168388.3201,averageFlats,South West,1431
-Gloucestershire,324457.6578,2823,3055,2483,1431,667,10459,995579.2444,averageOther,South West,667
-Hampshire,374744.9142,5960,4401,5226,3711,965,20263,513976.4456,averageDetached,South East,5960
-Hampshire,374744.9142,5960,4401,5226,3711,965,20263,317212.5721,averageSemi-Detached,South East,4401
-Hampshire,374744.9142,5960,4401,5226,3711,965,20263,269357.7331,averageTerraced,South East,5226
-Hampshire,374744.9142,5960,4401,5226,3711,965,20263,193289.4223,averageFlats,South East,3711
-Hampshire,374744.9142,5960,4401,5226,3711,965,20263,1045744.55,averageOther,South East,965
-Hertfordshire,470360.3732,2586,2981,4225,4025,688,14505,778503.4795,averageDetached,East of England,2586
-Hertfordshire,470360.3732,2586,2981,4225,4025,688,14505,478834.3979,averageSemi-Detached,East of England,2981
-Hertfordshire,470360.3732,2586,2981,4225,4025,688,14505,362598.0876,averageTerraced,East of England,4225
-Hertfordshire,470360.3732,2586,2981,4225,4025,688,14505,254841.2507,averageFlats,East of England,4025
-Hertfordshire,470360.3732,2586,2981,4225,4025,688,14505,1198036.222,averageOther,East of England,688
-Kent,333292.634,5180,6179,7037,4449,1472,24317,493433.3398,averageDetached,South East,5180
-Kent,333292.634,5180,6179,7037,4449,1472,24317,309275.5245,averageSemi-Detached,South East,6179
-Kent,333292.634,5180,6179,7037,4449,1472,24317,256502.8423,averageTerraced,South East,7037
-Kent,333292.634,5180,6179,7037,4449,1472,24317,185523.0537,averageFlats,South East,4449
-Kent,333292.634,5180,6179,7037,4449,1472,24317,684290.93,averageOther,South East,1472
-Lancashire,187350.3693,4194,5416,6107,1423,1185,18325,272101.747,averageDetached,North West,4194
-Lancashire,187350.3693,4194,5416,6107,1423,1185,18325,157968.9042,averageSemi-Detached,North West,5416
-Lancashire,187350.3693,4194,5416,6107,1423,1185,18325,114392.5869,averageTerraced,North West,6107
-Lancashire,187350.3693,4194,5416,6107,1423,1185,18325,114761.6992,averageFlats,North West,1423
-Lancashire,187350.3693,4194,5416,6107,1423,1185,18325,484843.6962,averageOther,North West,1185
-Leicestershire,239708.7183,4191,3561,2239,630,516,11137,309127.4001,averageDetached,East Midlands,4191
-Leicestershire,239708.7183,4191,3561,2239,630,516,11137,185139.1042,averageSemi-Detached,East Midlands,3561
-Leicestershire,239708.7183,4191,3561,2239,630,516,11137,154465.7575,averageTerraced,East Midlands,2239
-Leicestershire,239708.7183,4191,3561,2239,630,516,11137,134833.9667,averageFlats,East Midlands,630
-Leicestershire,239708.7183,4191,3561,2239,630,516,11137,550404.0349,averageOther,East Midlands,516
-Lincolnshire,206873.4499,5568,3128,2446,513,688,12343,235617.6999,averageDetached,East Midlands,5568
-Lincolnshire,206873.4499,5568,3128,2446,513,688,12343,150845.4783,averageSemi-Detached,East Midlands,3128
-Lincolnshire,206873.4499,5568,3128,2446,513,688,12343,133200.5977,averageTerraced,East Midlands,2446
-Lincolnshire,206873.4499,5568,3128,2446,513,688,12343,116963.4211,averageFlats,East Midlands,513
-Lincolnshire,206873.4499,5568,3128,2446,513,688,12343,557941.9855,averageOther,East Midlands,688
-Norfolk,261054.7776,5592,3437,3543,1283,908,14763,315193.9426,averageDetached,East of England,5592
-Norfolk,261054.7776,5592,3437,3543,1283,908,14763,208137.9348,averageSemi-Detached,East of England,3437
-Norfolk,261054.7776,5592,3437,3543,1283,908,14763,176584.9997,averageTerraced,East of England,3543
-Norfolk,261054.7776,5592,3437,3543,1283,908,14763,147741.8114,averageFlats,East of England,1283
-Norfolk,261054.7776,5592,3437,3543,1283,908,14763,617647.2192,averageOther,East of England,908
-North Yorkshire,262791.2585,3098,2619,2491,1107,730,10045,345388.3405,averageDetached,Yorkshire and the Humber,3098
-North Yorkshire,262791.2585,3098,2619,2491,1107,730,10045,209210.9637,averageSemi-Detached,Yorkshire and the Humber,2619
-North Yorkshire,262791.2585,3098,2619,2491,1107,730,10045,181835.9643,averageTerraced,Yorkshire and the Humber,2491
-North Yorkshire,262791.2585,3098,2619,2491,1107,730,10045,162981.8591,averageFlats,Yorkshire and the Humber,1107
-North Yorkshire,262791.2585,3098,2619,2491,1107,730,10045,532092.1836,averageOther,Yorkshire and the Humber,730
-Nottinghamshire,200279.3552,4671,4472,2525,723,528,12919,264867.1651,averageDetached,East Midlands,4671
-Nottinghamshire,200279.3552,4671,4472,2525,723,528,12919,150755.3772,averageSemi-Detached,East Midlands,4472
-Nottinghamshire,200279.3552,4671,4472,2525,723,528,12919,120884.0919,averageTerraced,East Midlands,2525
-Nottinghamshire,200279.3552,4671,4472,2525,723,528,12919,136256.3416,averageFlats,East Midlands,723
-Nottinghamshire,200279.3552,4671,4472,2525,723,528,12919,515702.1742,averageOther,East Midlands,528
-Oxfordshire,462675.2215,2458,2511,2271,1343,494,9077,575770.4626,averageDetached,South East,2458
-Oxfordshire,462675.2215,2458,2511,2271,1343,494,9077,365236.4409,averageSemi-Detached,South East,2511
-Oxfordshire,462675.2215,2458,2511,2271,1343,494,9077,332468.7248,averageTerraced,South East,2271
-Oxfordshire,462675.2215,2458,2511,2271,1343,494,9077,254987.7126,averageFlats,South East,1343
-Oxfordshire,462675.2215,2458,2511,2271,1343,494,9077,1558432.215,averageOther,South East,494
-Somerset,276744.0846,2740,2250,2750,952,619,9311,360128.5839,averageDetached,South West,2740
-Somerset,276744.0846,2740,2250,2750,952,619,9311,218257.1884,averageSemi-Detached,South West,2250
-Somerset,276744.0846,2740,2250,2750,952,619,9311,186773.3949,averageTerraced,South West,2750
-Somerset,276744.0846,2740,2250,2750,952,619,9311,128476.1534,averageFlats,South West,952
-Somerset,276744.0846,2740,2250,2750,952,619,9311,747975.8384,averageOther,South West,619
-Staffordshire,225687.025,4128,4234,2766,902,613,12643,295839.259,averageDetached,West Midlands,4128
-Staffordshire,225687.025,4128,4234,2766,902,613,12643,164876.9247,averageSemi-Detached,West Midlands,4234
-Staffordshire,225687.025,4128,4234,2766,902,613,12643,140211.2802,averageTerraced,West Midlands,2766
-Staffordshire,225687.025,4128,4234,2766,902,613,12643,110788.6242,averageFlats,West Midlands,902
-Staffordshire,225687.025,4128,4234,2766,902,613,12643,728045.6069,averageOther,West Midlands,613
-Suffolk,294662.4975,3868,2901,3080,1008,610,11467,360946.7133,averageDetached,East of England,3868
-Suffolk,294662.4975,3868,2901,3080,1008,610,11467,229353.8073,averageSemi-Detached,East of England,2901
-Suffolk,294662.4975,3868,2901,3080,1008,610,11467,194125.461,averageTerraced,East of England,3080
-Suffolk,294662.4975,3868,2901,3080,1008,610,11467,150276.8373,averageFlats,East of England,1008
-Suffolk,294662.4975,3868,2901,3080,1008,610,11467,931167.3852,averageOther,East of England,610
-Surrey,555550.4759,4411,4064,2852,4146,1244,16717,866160.509,averageDetached,South East,4411
-Surrey,555550.4759,4411,4064,2852,4146,1244,16717,476500.281,averageSemi-Detached,South East,4064
-Surrey,555550.4759,4411,4064,2852,4146,1244,16717,404711.5207,averageTerraced,South East,2852
-Surrey,555550.4759,4411,4064,2852,4146,1244,16717,297993.8234,averageFlats,South East,4146
-Surrey,555550.4759,4411,4064,2852,4146,1244,16717,916629.0273,averageOther,South East,1244
-Warwickshire,316440.6603,2496,2572,2288,1098,443,8897,399518.1631,averageDetached,West Midlands,2496
-Warwickshire,316440.6603,2496,2572,2288,1098,443,8897,233538.4545,averageSemi-Detached,West Midlands,2572
-Warwickshire,316440.6603,2496,2572,2288,1098,443,8897,204971.3304,averageTerraced,West Midlands,2288
-Warwickshire,316440.6603,2496,2572,2288,1098,443,8897,173596.3415,averageFlats,West Midlands,1098
-Warwickshire,316440.6603,2496,2572,2288,1098,443,8897,1259438.212,averageOther,West Midlands,443
-West Sussex,395339.4473,3552,2943,3085,3251,826,13657,542687.8956,averageDetached,South East,3552
-West Sussex,395339.4473,3552,2943,3085,3251,826,13657,345587.8502,averageSemi-Detached,South East,2943
-West Sussex,395339.4473,3552,2943,3085,3251,826,13657,302296.8606,averageTerraced,South East,3085
-West Sussex,395339.4473,3552,2943,3085,3251,826,13657,204915.1658,averageFlats,South East,3251
-West Sussex,395339.4473,3552,2943,3085,3251,826,13657,1035948.384,averageOther,South East,826
-Worcestershire,270965.9339,3062,2414,1905,867,499,8747,360809.5278,averageDetached,West Midlands,3062
-Worcestershire,270965.9339,3062,2414,1905,867,499,8747,211100.8119,averageSemi-Detached,West Midlands,2414
-Worcestershire,270965.9339,3062,2414,1905,867,499,8747,172645.5307,averageTerraced,West Midlands,1905
-Worcestershire,270965.9339,3062,2414,1905,867,499,8747,137359.1488,averageFlats,West Midlands,867
-Worcestershire,270965.9339,3062,2414,1905,867,499,8747,616759.0621,averageOther,West Midlands,499
-Isle of Anglesey,202618.6555,453,174,204,28,96,955,230509.3046,averageDetached,Wales,453
-Isle of Anglesey,202618.6555,453,174,204,28,96,955,145798.5575,averageSemi-Detached,Wales,174
-Isle of Anglesey,202618.6555,453,174,204,28,96,955,119870.8676,averageTerraced,Wales,204
-Isle of Anglesey,202618.6555,453,174,204,28,96,955,146348.2143,averageFlats,Wales,28
-Isle of Anglesey,202618.6555,453,174,204,28,96,955,366247.3438,averageOther,Wales,96
-Gwynedd,184433.9484,505,308,613,97,242,1765,246711.2812,averageDetached,Wales,505
-Gwynedd,184433.9484,505,308,613,97,242,1765,158424.5292,averageSemi-Detached,Wales,308
-Gwynedd,184433.9484,505,308,613,97,242,1765,124843.0473,averageTerraced,Wales,613
-Gwynedd,184433.9484,505,308,613,97,242,1765,111010.9175,averageFlats,Wales,97
-Gwynedd,184433.9484,505,308,613,97,242,1765,267955.0413,averageOther,Wales,242
-Conwy,177624.4333,712,576,273,294,222,2077,231048.7008,averageDetached,Wales,712
-Conwy,177624.4333,712,576,273,294,222,2077,151535.7361,averageSemi-Detached,Wales,576
-Conwy,177624.4333,712,576,273,294,222,2077,126832.6007,averageTerraced,Wales,273
-Conwy,177624.4333,712,576,273,294,222,2077,116799.4898,averageFlats,Wales,294
-Conwy,177624.4333,712,576,273,294,222,2077,216983.509,averageOther,Wales,222
-Denbighshire,174848.2427,529,355,187,35,85,1191,194671.5974,averageDetached,Wales,529
-Denbighshire,174848.2427,529,355,187,35,85,1191,131986.8451,averageSemi-Detached,Wales,355
-Denbighshire,174848.2427,529,355,187,35,85,1191,113428.6257,averageTerraced,Wales,187
-Denbighshire,174848.2427,529,355,187,35,85,1191,87902.94286,averageFlats,Wales,35
-Denbighshire,174848.2427,529,355,187,35,85,1191,401410.5412,averageOther,Wales,85
-Flintshire,191417.6006,798,801,318,55,96,2068,224496.7644,averageDetached,Wales,798
-Flintshire,191417.6006,798,801,318,55,96,2068,141021.201,averageSemi-Detached,Wales,801
-Flintshire,191417.6006,798,801,318,55,96,2068,117819.2138,averageTerraced,Wales,318
-Flintshire,191417.6006,798,801,318,55,96,2068,109929.4909,averageFlats,Wales,55
-Flintshire,191417.6006,798,801,318,55,96,2068,627422.5625,averageOther,Wales,96
-Wrexham,179009.7189,511,523,316,89,94,1533,238092.9139,averageDetached,Wales,511
-Wrexham,179009.7189,511,523,316,89,94,1533,141606.1989,averageSemi-Detached,Wales,523
-Wrexham,179009.7189,511,523,316,89,94,1533,115020.7247,averageTerraced,Wales,316
-Wrexham,179009.7189,511,523,316,89,94,1533,95932.47191,averageFlats,Wales,89
-Wrexham,179009.7189,511,523,316,89,94,1533,359700.4149,averageOther,Wales,94
-Ceredigion,203143.1092,419,173,158,45,112,907,231271.8234,averageDetached,Wales,419
-Ceredigion,203143.1092,419,173,158,45,112,907,153580.2428,averageSemi-Detached,Wales,173
-Ceredigion,203143.1092,419,173,158,45,112,907,142920.5696,averageTerraced,Wales,158
-Ceredigion,203143.1092,419,173,158,45,112,907,138249.4444,averageFlats,Wales,45
-Ceredigion,203143.1092,419,173,158,45,112,907,285498.6518,averageOther,Wales,112
-Pembrokeshire,195520.5289,739,350,350,117,193,1749,237186.7185,averageDetached,Wales,739
-Pembrokeshire,195520.5289,739,350,350,117,193,1749,144856.4971,averageSemi-Detached,Wales,350
-Pembrokeshire,195520.5289,739,350,350,117,193,1749,132085.9943,averageTerraced,Wales,350
-Pembrokeshire,195520.5289,739,350,350,117,193,1749,134002.4359,averageFlats,Wales,117
-Pembrokeshire,195520.5289,739,350,350,117,193,1749,280187.8912,averageOther,Wales,193
-Carmarthenshire,161032.6787,1036,778,612,35,272,2733,204300.5743,averageDetached,Wales,1036
-Carmarthenshire,161032.6787,1036,778,612,35,272,2733,117211.1054,averageSemi-Detached,Wales,778
-Carmarthenshire,161032.6787,1036,778,612,35,272,2733,98767.33987,averageTerraced,Wales,612
-Carmarthenshire,161032.6787,1036,778,612,35,272,2733,109381.2857,averageFlats,Wales,35
-Carmarthenshire,161032.6787,1036,778,612,35,272,2733,268318.8199,averageOther,Wales,272
-Swansea,176849.0454,747,965,916,317,186,3131,249703.5462,averageDetached,Wales,747
-Swansea,176849.0454,747,965,916,317,186,3131,149767.8777,averageSemi-Detached,Wales,965
-Swansea,176849.0454,747,965,916,317,186,3131,115151.7467,averageTerraced,Wales,916
-Swansea,176849.0454,747,965,916,317,186,3131,129919.6372,averageFlats,Wales,317
-Swansea,176849.0454,747,965,916,317,186,3131,408582.1774,averageOther,Wales,186
-Neath Port Talbot,139792.9225,384,686,605,53,78,1806,196331.3516,averageDetached,Wales,384
-Neath Port Talbot,139792.9225,384,686,605,53,78,1806,110302.6531,averageSemi-Detached,Wales,686
-Neath Port Talbot,139792.9225,384,686,605,53,78,1806,85900.22314,averageTerraced,Wales,605
-Neath Port Talbot,139792.9225,384,686,605,53,78,1806,72680.24528,averageFlats,Wales,53
-Neath Port Talbot,139792.9225,384,686,605,53,78,1806,584429.1154,averageOther,Wales,78
-Bridgend,162116.1455,535,674,584,78,81,1952,235695.3215,averageDetached,Wales,535
-Bridgend,162116.1455,535,674,584,78,81,1952,147093.2226,averageSemi-Detached,Wales,674
-Bridgend,162116.1455,535,674,584,78,81,1952,102069.1062,averageTerraced,Wales,584
-Bridgend,162116.1455,535,674,584,78,81,1952,112768.6282,averageFlats,Wales,78
-Bridgend,162116.1455,535,674,584,78,81,1952,281587.358,averageOther,Wales,81
-Vale of Glamorgan,247441.4665,555,482,681,229,85,2032,355149.409,averageDetached,Wales,555
-Vale of Glamorgan,247441.4665,555,482,681,229,85,2032,214998.556,averageSemi-Detached,Wales,482
-Vale of Glamorgan,247441.4665,555,482,681,229,85,2032,175234.743,averageTerraced,Wales,681
-Vale of Glamorgan,247441.4665,555,482,681,229,85,2032,147898.6026,averageFlats,Wales,229
-Vale of Glamorgan,247441.4665,555,482,681,229,85,2032,574825.8118,averageOther,Wales,85
-Cardiff,280251.3672,567,1167,1756,1079,232,4801,370886.7601,averageDetached,Wales,567
-Cardiff,280251.3672,567,1167,1756,1079,232,4801,233479.8063,averageSemi-Detached,Wales,1167
-Cardiff,280251.3672,567,1167,1756,1079,232,4801,194360.7659,averageTerraced,Wales,1756
-Cardiff,280251.3672,567,1167,1756,1079,232,4801,139745.8526,averageFlats,Wales,1079
-Cardiff,280251.3672,567,1167,1756,1079,232,4801,1597585.375,averageOther,Wales,232
-Rhondda Cynon Taf,134992.1188,525,732,1661,64,141,3123,223815.2895,averageDetached,Wales,525
-Rhondda Cynon Taf,134992.1188,525,732,1661,64,141,3123,132326.1161,averageSemi-Detached,Wales,732
-Rhondda Cynon Taf,134992.1188,525,732,1661,64,141,3123,81113.83745,averageTerraced,Wales,1661
-Rhondda Cynon Taf,134992.1188,525,732,1661,64,141,3123,81462.34375,averageFlats,Wales,64
-Rhondda Cynon Taf,134992.1188,525,732,1661,64,141,3123,477099.0709,averageOther,Wales,141
-Caerphilly,145605.3977,412,768,867,51,117,2215,223521.8568,averageDetached,Wales,412
-Caerphilly,145605.3977,412,768,867,51,117,2215,126861.8242,averageSemi-Detached,Wales,768
-Caerphilly,145605.3977,412,768,867,51,117,2215,97899.05075,averageTerraced,Wales,867
-Caerphilly,145605.3977,412,768,867,51,117,2215,94801.96078,averageFlats,Wales,51
-Caerphilly,145605.3977,412,768,867,51,117,2215,369929,averageOther,Wales,117
-Blaenau Gwent,105248.6878,88,143,461,12,52,756,181467.6932,averageDetached,Wales,88
-Blaenau Gwent,105248.6878,88,143,461,12,52,756,113552.8322,averageSemi-Detached,Wales,143
-Blaenau Gwent,105248.6878,88,143,461,12,52,756,71389.31887,averageTerraced,Wales,461
-Blaenau Gwent,105248.6878,88,143,461,12,52,756,39370.83333,averageFlats,Wales,12
-Blaenau Gwent,105248.6878,88,143,461,12,52,756,268805.1923,averageOther,Wales,52
-Torfaen,147120.4632,281,291,491,45,60,1168,233468.7829,averageDetached,Wales,281
-Torfaen,147120.4632,281,291,491,45,60,1168,134487.9381,averageSemi-Detached,Wales,291
-Torfaen,147120.4632,281,291,491,45,60,1168,105399.9185,averageTerraced,Wales,491
-Torfaen,147120.4632,281,291,491,45,60,1168,70952,averageFlats,Wales,45
-Torfaen,147120.4632,281,291,491,45,60,1168,202529.7167,averageOther,Wales,60
-Monmouthshire,284736.9104,600,363,230,81,87,1361,338814.4717,averageDetached,Wales,600
-Monmouthshire,284736.9104,600,363,230,81,87,1361,194567.0275,averageSemi-Detached,Wales,363
-Monmouthshire,284736.9104,600,363,230,81,87,1361,172417.3,averageTerraced,Wales,230
-Monmouthshire,284736.9104,600,363,230,81,87,1361,135680.8642,averageFlats,Wales,81
-Monmouthshire,284736.9104,600,363,230,81,87,1361,723727.4943,averageOther,Wales,87
-Newport,220677.4452,653,756,805,244,96,2554,284186.3844,averageDetached,Wales,653
-Newport,220677.4452,653,756,805,244,96,2554,163405.6323,averageSemi-Detached,Wales,756
-Newport,220677.4452,653,756,805,244,96,2554,119925.3752,averageTerraced,Wales,805
-Newport,220677.4452,653,756,805,244,96,2554,96026.7582,averageFlats,Wales,244
-Newport,220677.4452,653,756,805,244,96,2554,1401368.458,averageOther,Wales,96
-Powys,205333.8177,771,366,351,40,233,1761,243101.5447,averageDetached,Wales,771
-Powys,205333.8177,771,366,351,40,233,1761,156989.7322,averageSemi-Detached,Wales,366
-Powys,205333.8177,771,366,351,40,233,1761,130440.3647,averageTerraced,Wales,351
-Powys,205333.8177,771,366,351,40,233,1761,94598.75,averageFlats,Wales,40
-Powys,205333.8177,771,366,351,40,233,1761,288132.1974,averageOther,Wales,233
-Merthyr Tydfil,116891.9733,148,126,378,15,44,711,212384.9054,averageDetached,Wales,148
-Merthyr Tydfil,116891.9733,148,126,378,15,44,711,121418.6111,averageSemi-Detached,Wales,126
-Merthyr Tydfil,116891.9733,148,126,378,15,44,711,73866.09259,averageTerraced,Wales,378
-Merthyr Tydfil,116891.9733,148,126,378,15,44,711,72799.66667,averageFlats,Wales,15
-Merthyr Tydfil,116891.9733,148,126,378,15,44,711,167388.7273,averageOther,Wales,44
+﻿Unique,Average,Detached,Semi-Detached,Terraced,Flats,Other,Total,averagesValue,averages,regions,numberSold,Type
+Hartlepool,135812.4666,261,371,411,47,78,1168,232198.5479,averageDetached,North East,261,Detached
+Hartlepool,135812.4666,261,371,411,47,78,1168,124036.4501,averageSemi-Detached,North East,371,Semi-Detached
+Hartlepool,135812.4666,261,371,411,47,78,1168,63770.43309,averageTerraced,North East,411,Terraced
+Hartlepool,135812.4666,261,371,411,47,78,1168,93711.70213,averageFlats,North East,47,Flats
+Hartlepool,135812.4666,261,371,411,47,78,1168,274275.8846,averageOther,North East,78,Other
+Middlesbrough,143658.2619,359,625,590,69,60,1703,236621.6379,averageDetached,North East,359,Detached
+Middlesbrough,143658.2619,359,625,590,69,60,1703,132168.3728,averageSemi-Detached,North East,625,Semi-Detached
+Middlesbrough,143658.2619,359,625,590,69,60,1703,70079.18983,averageTerraced,North East,590,Terraced
+Middlesbrough,143658.2619,359,625,590,69,60,1703,77092.75362,averageFlats,North East,69,Flats
+Middlesbrough,143658.2619,359,625,590,69,60,1703,507191.6167,averageOther,North East,60,Other
+Redcar and Cleveland,139082.778,380,712,496,91,69,1748,220058.0263,averageDetached,North East,380,Detached
+Redcar and Cleveland,139082.778,380,712,496,91,69,1748,125599.9789,averageSemi-Detached,North East,712,Semi-Detached
+Redcar and Cleveland,139082.778,380,712,496,91,69,1748,86642.44556,averageTerraced,North East,496,Terraced
+Redcar and Cleveland,139082.778,380,712,496,91,69,1748,105884.3736,averageFlats,North East,91,Flats
+Redcar and Cleveland,139082.778,380,712,496,91,69,1748,253004.7826,averageOther,North East,69,Other
+Stockton-on-Tees,177457.2493,787,1042,665,83,115,2692,247012.4612,averageDetached,North East,787,Detached
+Stockton-on-Tees,177457.2493,787,1042,665,83,115,2692,129569.4443,averageSemi-Detached,North East,1042,Semi-Detached
+Stockton-on-Tees,177457.2493,787,1042,665,83,115,2692,94857.57594,averageTerraced,North East,665,Terraced
+Stockton-on-Tees,177457.2493,787,1042,665,83,115,2692,102772.9759,averageFlats,North East,83,Flats
+Stockton-on-Tees,177457.2493,787,1042,665,83,115,2692,666906.9739,averageOther,North East,115,Other
+Darlington,161999.1167,294,530,455,88,72,1439,231001.7007,averageDetached,North East,294,Detached
+Darlington,161999.1167,294,530,455,88,72,1439,145969.2302,averageSemi-Detached,North East,530,Semi-Detached
+Darlington,161999.1167,294,530,455,88,72,1439,107001.9692,averageTerraced,North East,455,Terraced
+Darlington,161999.1167,294,530,455,88,72,1439,108419.3182,averageFlats,North East,88,Flats
+Darlington,161999.1167,294,530,455,88,72,1439,411274.1806,averageOther,North East,72,Other
+Halton,176444.3516,370,475,517,68,86,1516,255789.327,averageDetached,North West,370,Detached
+Halton,176444.3516,370,475,517,68,86,1516,144144.2716,averageSemi-Detached,North West,475,Semi-Detached
+Halton,176444.3516,370,475,517,68,86,1516,96958.07544,averageTerraced,North West,517,Terraced
+Halton,176444.3516,370,475,517,68,86,1516,80714.61765,averageFlats,North West,68,Flats
+Halton,176444.3516,370,475,517,68,86,1516,567013.2326,averageOther,North West,86,Other
+Warrington,245841.0646,674,1058,761,213,142,2848,332008.2626,averageDetached,North West,674,Detached
+Warrington,245841.0646,674,1058,761,213,142,2848,185337.5794,averageSemi-Detached,North West,1058,Semi-Detached
+Warrington,245841.0646,674,1058,761,213,142,2848,134625.9001,averageTerraced,North West,761,Terraced
+Warrington,245841.0646,674,1058,761,213,142,2848,112329.9577,averageFlats,North West,213,Flats
+Warrington,245841.0646,674,1058,761,213,142,2848,1083929.81,averageOther,North West,142,Other
+Blackburn with Darwen,176948.038,241,395,802,44,96,1578,233506.2822,averageDetached,North West,241,Detached
+Blackburn with Darwen,176948.038,241,395,802,44,96,1578,135392.9747,averageSemi-Detached,North West,395,Semi-Detached
+Blackburn with Darwen,176948.038,241,395,802,44,96,1578,98859.72569,averageTerraced,North West,802,Terraced
+Blackburn with Darwen,176948.038,241,395,802,44,96,1578,89975,averageFlats,North West,44,Flats
+Blackburn with Darwen,176948.038,241,395,802,44,96,1578,898170.4688,averageOther,North West,96,Other
+Blackpool,130557.6397,155,835,776,176,159,2101,206403.2323,averageDetached,North West,155,Detached
+Blackpool,130557.6397,155,835,776,176,159,2101,123825.4144,averageSemi-Detached,North West,835,Semi-Detached
+Blackpool,130557.6397,155,835,776,176,159,2101,97223.72036,averageTerraced,North West,776,Terraced
+Blackpool,130557.6397,155,835,776,176,159,2101,75438.64205,averageFlats,North West,176,Flats
+Blackpool,130557.6397,155,835,776,176,159,2101,315673.4025,averageOther,North West,159,Other
+"Kingston upon Hull, City of",260771.6512,258,818,1106,136,225,2543,202810.5775,averageDetached,Yorkshire and the Humber,258,Detached
+"Kingston upon Hull, City of",260771.6512,258,818,1106,136,225,2543,128529.3753,averageSemi-Detached,Yorkshire and the Humber,818,Semi-Detached
+"Kingston upon Hull, City of",260771.6512,258,818,1106,136,225,2543,106473.6184,averageTerraced,Yorkshire and the Humber,1106,Terraced
+"Kingston upon Hull, City of",260771.6512,258,818,1106,136,225,2543,107821.6029,averageFlats,Yorkshire and the Humber,136,Flats
+"Kingston upon Hull, City of",260771.6512,258,818,1106,136,225,2543,1658918.182,averageOther,Yorkshire and the Humber,225,Other
+East Riding of Yorkshire,207393.8313,1896,1878,1322,428,243,5767,274616.0775,averageDetached,Yorkshire and the Humber,1896,Detached
+East Riding of Yorkshire,207393.8313,1896,1878,1322,428,243,5767,162027.9803,averageSemi-Detached,Yorkshire and the Humber,1878,Semi-Detached
+East Riding of Yorkshire,207393.8313,1896,1878,1322,428,243,5767,130728.2148,averageTerraced,Yorkshire and the Humber,1322,Terraced
+East Riding of Yorkshire,207393.8313,1896,1878,1322,428,243,5767,114106.6192,averageFlats,Yorkshire and the Humber,428,Flats
+East Riding of Yorkshire,207393.8313,1896,1878,1322,428,243,5767,614894.0823,averageOther,Yorkshire and the Humber,243,Other
+North East Lincolnshire,136434.7387,537,796,812,126,106,2377,206036.879,averageDetached,Yorkshire and the Humber,537,Detached
+North East Lincolnshire,136434.7387,537,796,812,126,106,2377,133280.3291,averageSemi-Detached,Yorkshire and the Humber,796,Semi-Detached
+North East Lincolnshire,136434.7387,537,796,812,126,106,2377,80330.70567,averageTerraced,Yorkshire and the Humber,812,Terraced
+North East Lincolnshire,136434.7387,537,796,812,126,106,2377,111782.9206,averageFlats,Yorkshire and the Humber,126,Flats
+North East Lincolnshire,136434.7387,537,796,812,126,106,2377,266596.6698,averageOther,Yorkshire and the Humber,106,Other
+North Lincolnshire,162585.4947,910,907,380,59,101,2357,201649.5495,averageDetached,Yorkshire and the Humber,910,Detached
+North Lincolnshire,162585.4947,910,907,380,59,101,2357,114022.4675,averageSemi-Detached,Yorkshire and the Humber,907,Semi-Detached
+North Lincolnshire,162585.4947,910,907,380,59,101,2357,96663.91316,averageTerraced,Yorkshire and the Humber,380,Terraced
+North Lincolnshire,162585.4947,910,907,380,59,101,2357,67903.45763,averageFlats,Yorkshire and the Humber,59,Flats
+North Lincolnshire,162585.4947,910,907,380,59,101,2357,550058.9307,averageOther,Yorkshire and the Humber,101,Other
+York,314505.1405,509,873,811,588,158,2939,372699.5521,averageDetached,Yorkshire and the Humber,509,Detached
+York,314505.1405,509,873,811,588,158,2939,242076.1226,averageSemi-Detached,Yorkshire and the Humber,873,Semi-Detached
+York,314505.1405,509,873,811,588,158,2939,250596.0049,averageTerraced,Yorkshire and the Humber,811,Terraced
+York,314505.1405,509,873,811,588,158,2939,235272.8605,averageFlats,Yorkshire and the Humber,588,Flats
+York,314505.1405,509,873,811,588,158,2939,1150128.348,averageOther,Yorkshire and the Humber,158,Other
+Derby,198081.2046,807,1187,860,289,126,3269,251985.3742,averageDetached,East Midlands,807,Detached
+Derby,198081.2046,807,1187,860,289,126,3269,149367.1247,averageSemi-Detached,East Midlands,1187,Semi-Detached
+Derby,198081.2046,807,1187,860,289,126,3269,118832.6209,averageTerraced,East Midlands,860,Terraced
+Derby,198081.2046,807,1187,860,289,126,3269,113866.7578,averageFlats,East Midlands,289,Flats
+Derby,198081.2046,807,1187,860,289,126,3269,1045816.96,averageOther,East Midlands,126,Other
+Leicester,207405.8857,356,998,1311,538,602,3805,292534.0562,averageDetached,East Midlands,356,Detached
+Leicester,207405.8857,356,998,1311,538,602,3805,175766.3567,averageSemi-Detached,East Midlands,998,Semi-Detached
+Leicester,207405.8857,356,998,1311,538,602,3805,149098.1312,averageTerraced,East Midlands,1311,Terraced
+Leicester,207405.8857,356,998,1311,538,602,3805,117448.4052,averageFlats,East Midlands,538,Flats
+Leicester,207405.8857,356,998,1311,538,602,3805,416889.6262,averageOther,East Midlands,602,Other
+Rutland,313529.2544,264,141,159,29,36,629,392117.8561,averageDetached,East Midlands,264,Detached
+Rutland,313529.2544,264,141,159,29,36,629,240875,averageSemi-Detached,East Midlands,141,Semi-Detached
+Rutland,313529.2544,264,141,159,29,36,629,230891.8868,averageTerraced,East Midlands,159,Terraced
+Rutland,313529.2544,264,141,159,29,36,629,147538.1034,averageFlats,East Midlands,29,Flats
+Rutland,313529.2544,264,141,159,29,36,629,520472.1389,averageOther,East Midlands,36,Other
+Nottingham,221201.0582,556,1033,1276,575,217,3657,250343.7212,averageDetached,East Midlands,556,Detached
+Nottingham,221201.0582,556,1033,1276,575,217,3657,148178.7222,averageSemi-Detached,East Midlands,1033,Semi-Detached
+Nottingham,221201.0582,556,1033,1276,575,217,3657,114283.6826,averageTerraced,East Midlands,1276,Terraced
+Nottingham,221201.0582,556,1033,1276,575,217,3657,126291.5478,averageFlats,East Midlands,575,Flats
+Nottingham,221201.0582,556,1033,1276,575,217,3657,1374326.829,averageOther,East Midlands,217,Other
+"Herefordshire, County of",400813.6367,1328,964,858,522,311,3983,435857.8178,averageDetached,West Midlands,1328,Detached
+"Herefordshire, County of",400813.6367,1328,964,858,522,311,3983,326319.1245,averageSemi-Detached,West Midlands,964,Semi-Detached
+"Herefordshire, County of",400813.6367,1328,964,858,522,311,3983,267534.5629,averageTerraced,West Midlands,858,Terraced
+"Herefordshire, County of",400813.6367,1328,964,858,522,311,3983,274178.1111,averageFlats,West Midlands,522,Flats
+"Herefordshire, County of",400813.6367,1328,964,858,522,311,3983,1062328.836,averageOther,West Midlands,311,Other
+Telford and Wrekin,182661.943,887,792,645,145,128,2597,246697.4419,averageDetached,West Midlands,887,Detached
+Telford and Wrekin,182661.943,887,792,645,145,128,2597,147160.202,averageSemi-Detached,West Midlands,792,Semi-Detached
+Telford and Wrekin,182661.943,887,792,645,145,128,2597,125468.9876,averageTerraced,West Midlands,645,Terraced
+Telford and Wrekin,182661.943,887,792,645,145,128,2597,84135.64138,averageFlats,West Midlands,145,Flats
+Telford and Wrekin,182661.943,887,792,645,145,128,2597,358393.6719,averageOther,West Midlands,128,Other
+Stoke-on-Trent,147358.9989,569,1376,1347,102,173,3567,205062.9525,averageDetached,West Midlands,569,Detached
+Stoke-on-Trent,147358.9989,569,1376,1347,102,173,3567,115327.1483,averageSemi-Detached,West Midlands,1376,Semi-Detached
+Stoke-on-Trent,147358.9989,569,1376,1347,102,173,3567,78008.61915,averageTerraced,West Midlands,1347,Terraced
+Stoke-on-Trent,147358.9989,569,1376,1347,102,173,3567,77872.83333,averageFlats,West Midlands,102,Flats
+Stoke-on-Trent,147358.9989,569,1376,1347,102,173,3567,793282.8555,averageOther,West Midlands,173,Other
+Bath and North East Somerset,432289.0161,594,628,888,458,164,2732,524790.9327,averageDetached,South West,594,Detached
+Bath and North East Somerset,432289.0161,594,628,888,458,164,2732,334607.7468,averageSemi-Detached,South West,628,Semi-Detached
+Bath and North East Somerset,432289.0161,594,628,888,458,164,2732,351566.7218,averageTerraced,South West,888,Terraced
+Bath and North East Somerset,432289.0161,594,628,888,458,164,2732,298699.3341,averageFlats,South West,458,Flats
+Bath and North East Somerset,432289.0161,594,628,888,458,164,2732,1281454.689,averageOther,South West,164,Other
+"Bristol, City of",333367.5588,269,1273,2637,2146,341,6666,516278.9851,averageDetached,South West,269,Detached
+"Bristol, City of",333367.5588,269,1273,2637,2146,341,6666,319595.9914,averageSemi-Detached,South West,1273,Semi-Detached
+"Bristol, City of",333367.5588,269,1273,2637,2146,341,6666,298550.5047,averageTerraced,South West,2637,Terraced
+"Bristol, City of",333367.5588,269,1273,2637,2146,341,6666,231888.0252,averageFlats,South West,2146,Flats
+"Bristol, City of",333367.5588,269,1273,2637,2146,341,6666,1148369.56,averageOther,South West,341,Other
+North Somerset,283339.1395,898,902,717,829,166,3512,392515.0947,averageDetached,South West,898,Detached
+North Somerset,283339.1395,898,902,717,829,166,3512,252387.5089,averageSemi-Detached,South West,902,Semi-Detached
+North Somerset,283339.1395,898,902,717,829,166,3512,222243.0962,averageTerraced,South West,717,Terraced
+North Somerset,283339.1395,898,902,717,829,166,3512,171084.1098,averageFlats,South West,829,Flats
+North Somerset,283339.1395,898,902,717,829,166,3512,685409.2952,averageOther,South West,166,Other
+South Gloucestershire,310098.6681,890,1161,1239,593,163,4046,395774.409,averageDetached,South West,890,Detached
+South Gloucestershire,310098.6681,890,1161,1239,593,163,4046,272250.9871,averageSemi-Detached,South West,1161,Semi-Detached
+South Gloucestershire,310098.6681,890,1161,1239,593,163,4046,235124.912,averageTerraced,South West,1239,Terraced
+South Gloucestershire,310098.6681,890,1161,1239,593,163,4046,170400.1012,averageFlats,South West,593,Flats
+South Gloucestershire,310098.6681,890,1161,1239,593,163,4046,1189997.331,averageOther,South West,163,Other
+Plymouth,228459.0288,412,922,1626,676,189,3825,299796.585,averageDetached,South West,412,Detached
+Plymouth,228459.0288,412,922,1626,676,189,3825,190640.5011,averageSemi-Detached,South West,922,Semi-Detached
+Plymouth,228459.0288,412,922,1626,676,189,3825,165757.5,averageTerraced,South West,1626,Terraced
+Plymouth,228459.0288,412,922,1626,676,189,3825,129874.0636,averageFlats,South West,676,Flats
+Plymouth,228459.0288,412,922,1626,676,189,3825,1149484.063,averageOther,South West,189,Other
+Torbay,229424.9557,590,543,706,717,128,2684,317308.7271,averageDetached,South West,590,Detached
+Torbay,229424.9557,590,543,706,717,128,2684,211186.6814,averageSemi-Detached,South West,543,Semi-Detached
+Torbay,229424.9557,590,543,706,717,128,2684,180572.4504,averageTerraced,South West,706,Terraced
+Torbay,229424.9557,590,543,706,717,128,2684,137942.9038,averageFlats,South West,717,Flats
+Torbay,229424.9557,590,543,706,717,128,2684,683600.4063,averageOther,South West,128,Other
+Swindon,245750.7587,764,909,1368,695,123,3859,341826.6545,averageDetached,South West,764,Detached
+Swindon,245750.7587,764,909,1368,695,123,3859,236621.1199,averageSemi-Detached,South West,909,Semi-Detached
+Swindon,245750.7587,764,909,1368,695,123,3859,189504.7332,averageTerraced,South West,1368,Terraced
+Swindon,245750.7587,764,909,1368,695,123,3859,137734.9324,averageFlats,South West,695,Flats
+Swindon,245750.7587,764,909,1368,695,123,3859,952355.7967,averageOther,South West,123,Other
+Peterborough,231853.9668,784,795,885,365,150,2979,287462.4911,averageDetached,East of England,784,Detached
+Peterborough,231853.9668,784,795,885,365,150,2979,177108.1723,averageSemi-Detached,East of England,795,Semi-Detached
+Peterborough,231853.9668,784,795,885,365,150,2979,142041.826,averageTerraced,East of England,885,Terraced
+Peterborough,231853.9668,784,795,885,365,150,2979,106471.6411,averageFlats,East of England,365,Flats
+Peterborough,231853.9668,784,795,885,365,150,2979,1066348.08,averageOther,East of England,150,Other
+Luton,251296.8322,218,855,701,503,250,2527,372033.9725,averageDetached,East of England,218,Detached
+Luton,251296.8322,218,855,701,503,250,2527,265300.552,averageSemi-Detached,East of England,855,Semi-Detached
+Luton,251296.8322,218,855,701,503,250,2527,222680.5592,averageTerraced,East of England,701,Terraced
+Luton,251296.8322,218,855,701,503,250,2527,132782.0755,averageFlats,East of England,503,Flats
+Luton,251296.8322,218,855,701,503,250,2527,416813.044,averageOther,East of England,250,Other
+Southend-on-Sea,286643.1074,366,685,600,1164,165,2980,493858.5246,averageDetached,East of England,366,Detached
+Southend-on-Sea,286643.1074,366,685,600,1164,165,2980,335798.9401,averageSemi-Detached,East of England,685,Semi-Detached
+Southend-on-Sea,286643.1074,366,685,600,1164,165,2980,276527.06,averageTerraced,East of England,600,Terraced
+Southend-on-Sea,286643.1074,366,685,600,1164,165,2980,189369.5902,averageFlats,East of England,1164,Flats
+Southend-on-Sea,286643.1074,366,685,600,1164,165,2980,345936.5273,averageOther,East of England,165,Other
+Thurrock,331189.3003,311,747,863,598,88,2607,432791.4855,averageDetached,East of England,311,Detached
+Thurrock,331189.3003,311,747,863,598,88,2607,315912.5328,averageSemi-Detached,East of England,747,Semi-Detached
+Thurrock,331189.3003,311,747,863,598,88,2607,265168.1356,averageTerraced,East of England,863,Terraced
+Thurrock,331189.3003,311,747,863,598,88,2607,173863.7793,averageFlats,East of England,598,Flats
+Thurrock,331189.3003,311,747,863,598,88,2607,1818352.852,averageOther,East of England,88,Other
+Medway,250587.8815,480,1008,1923,590,144,4145,392761.6833,averageDetached,South East,480,Detached
+Medway,250587.8815,480,1008,1923,590,144,4145,271568.3988,averageSemi-Detached,South East,1008,Semi-Detached
+Medway,250587.8815,480,1008,1923,590,144,4145,215796.8627,averageTerraced,South East,1923,Terraced
+Medway,250587.8815,480,1008,1923,590,144,4145,168061.9136,averageFlats,South East,590,Flats
+Medway,250587.8815,480,1008,1923,590,144,4145,432543.8819,averageOther,South East,144,Other
+Bracknell Forest,500638.5792,387,359,549,356,79,1730,614645,averageDetached,South East,387,Detached
+Bracknell Forest,500638.5792,387,359,549,356,79,1730,397716.0446,averageSemi-Detached,South East,359,Semi-Detached
+Bracknell Forest,500638.5792,387,359,549,356,79,1730,330083.8506,averageTerraced,South East,549,Terraced
+Bracknell Forest,500638.5792,387,359,549,356,79,1730,238196.4888,averageFlats,South East,356,Flats
+Bracknell Forest,500638.5792,387,359,549,356,79,1730,2777760.544,averageOther,South East,79,Other
+West Berkshire,487576.8554,591,503,429,328,148,1999,597215.6396,averageDetached,South East,591,Detached
+West Berkshire,487576.8554,591,503,429,328,148,1999,349983.6223,averageSemi-Detached,South East,503,Semi-Detached
+West Berkshire,487576.8554,591,503,429,328,148,1999,298689.1282,averageTerraced,South East,429,Terraced
+West Berkshire,487576.8554,591,503,429,328,148,1999,229855.3628,averageFlats,South East,328,Flats
+West Berkshire,487576.8554,591,503,429,328,148,1999,1636079.284,averageOther,South East,148,Other
+Reading,401260.165,172,436,701,755,106,2170,572675.8837,averageDetached,South East,172,Detached
+Reading,401260.165,172,436,701,755,106,2170,380111.6537,averageSemi-Detached,South East,436,Semi-Detached
+Reading,401260.165,172,436,701,755,106,2170,311965.368,averageTerraced,South East,701,Terraced
+Reading,401260.165,172,436,701,755,106,2170,237325.0358,averageFlats,South East,755,Flats
+Reading,401260.165,172,436,701,755,106,2170,1968278.302,averageOther,South East,106,Other
+Slough,435270.6912,101,289,394,566,62,1412,536229.4554,averageDetached,South East,101,Detached
+Slough,435270.6912,101,289,394,566,62,1412,412199.5121,averageSemi-Detached,South East,289,Semi-Detached
+Slough,435270.6912,101,289,394,566,62,1412,334985.6624,averageTerraced,South East,394,Terraced
+Slough,435270.6912,101,289,394,566,62,1412,224438.8445,averageFlats,South East,566,Flats
+Slough,435270.6912,101,289,394,566,62,1412,2940332.984,averageOther,South East,62,Other
+Windsor and Maidenhead,710357.5317,458,402,385,436,147,1828,935525.3406,averageDetached,South East,458,Detached
+Windsor and Maidenhead,710357.5317,458,402,385,436,147,1828,502492.107,averageSemi-Detached,South East,402,Semi-Detached
+Windsor and Maidenhead,710357.5317,458,402,385,436,147,1828,496764.4597,averageTerraced,South East,385,Terraced
+Windsor and Maidenhead,710357.5317,458,402,385,436,147,1828,384907.5826,averageFlats,South East,436,Flats
+Windsor and Maidenhead,710357.5317,458,402,385,436,147,1828,2101953.143,averageOther,South East,147,Other
+Wokingham,477717.9863,795,573,447,373,80,2268,618244.7182,averageDetached,South East,795,Detached
+Wokingham,477717.9863,795,573,447,373,80,2268,415296.7365,averageSemi-Detached,South East,573,Semi-Detached
+Wokingham,477717.9863,795,573,447,373,80,2268,347449.311,averageTerraced,South East,447,Terraced
+Wokingham,477717.9863,795,573,447,373,80,2268,259011.4424,averageFlats,South East,373,Flats
+Wokingham,477717.9863,795,573,447,373,80,2268,1275921.275,averageOther,South East,80,Other
+Milton Keynes,327274.0382,985,938,1047,875,130,3975,426725.9807,averageDetached,South East,985,Detached
+Milton Keynes,327274.0382,985,938,1047,875,130,3975,270747.9392,averageSemi-Detached,South East,938,Semi-Detached
+Milton Keynes,327274.0382,985,938,1047,875,130,3975,227587.2684,averageTerraced,South East,1047,Terraced
+Milton Keynes,327274.0382,985,938,1047,875,130,3975,169198.0949,averageFlats,South East,875,Flats
+Milton Keynes,327274.0382,985,938,1047,875,130,3975,1848426.469,averageOther,South East,130,Other
+Brighton and Hove,413506.4739,378,618,907,2017,269,4189,681196.7963,averageDetached,South East,378,Detached
+Brighton and Hove,413506.4739,378,618,907,2017,269,4189,439233.4045,averageSemi-Detached,South East,618,Semi-Detached
+Brighton and Hove,413506.4739,378,618,907,2017,269,4189,457369.1907,averageTerraced,South East,907,Terraced
+Brighton and Hove,413506.4739,378,618,907,2017,269,4189,304015.1349,averageFlats,South East,2017,Flats
+Brighton and Hove,413506.4739,378,618,907,2017,269,4189,651329.3792,averageOther,South East,269,Other
+Portsmouth,252926.0914,116,308,1587,882,148,3041,433738.4828,averageDetached,South East,116,Detached
+Portsmouth,252926.0914,116,308,1587,882,148,3041,281337.039,averageSemi-Detached,South East,308,Semi-Detached
+Portsmouth,252926.0914,116,308,1587,882,148,3041,215992.8859,averageTerraced,South East,1587,Terraced
+Portsmouth,252926.0914,116,308,1587,882,148,3041,162474.5896,averageFlats,South East,882,Flats
+Portsmouth,252926.0914,116,308,1587,882,148,3041,987158.6081,averageOther,South East,148,Other
+Southampton,348394.1229,415,726,754,1085,210,3190,325826.7253,averageDetached,South East,415,Detached
+Southampton,348394.1229,415,726,754,1085,210,3190,250198.719,averageSemi-Detached,South East,726,Semi-Detached
+Southampton,348394.1229,415,726,754,1085,210,3190,210804.8011,averageTerraced,South East,754,Terraced
+Southampton,348394.1229,415,726,754,1085,210,3190,158491.6571,averageFlats,South East,1085,Flats
+Southampton,348394.1229,415,726,754,1085,210,3190,2207641.062,averageOther,South East,210,Other
+Isle of Wight,233882.6691,860,618,453,450,188,2569,325499.5988,averageDetached,South East,860,Detached
+Isle of Wight,233882.6691,860,618,453,450,188,2569,206333.6586,averageSemi-Detached,South East,618,Semi-Detached
+Isle of Wight,233882.6691,860,618,453,450,188,2569,171368.9536,averageTerraced,South East,453,Terraced
+Isle of Wight,233882.6691,860,618,453,450,188,2569,142949.4333,averageFlats,South East,450,Flats
+Isle of Wight,233882.6691,860,618,453,450,188,2569,273634.7872,averageOther,South East,188,Other
+County Durham,140147.028,1572,2073,3106,290,419,7460,223625.9459,averageDetached,North East,1572,Detached
+County Durham,140147.028,1572,2073,3106,290,419,7460,117360.2161,averageSemi-Detached,North East,2073,Semi-Detached
+County Durham,140147.028,1572,2073,3106,290,419,7460,78109.89247,averageTerraced,North East,3106,Terraced
+County Durham,140147.028,1572,2073,3106,290,419,7460,83133.13103,averageFlats,North East,290,Flats
+County Durham,140147.028,1572,2073,3106,290,419,7460,439024.2959,averageOther,North East,419,Other
+Cheshire East,274913.0905,2139,1834,1612,622,303,6510,388939.9252,averageDetached,North West,2139,Detached
+Cheshire East,274913.0905,2139,1834,1612,622,303,6510,208415.9471,averageSemi-Detached,North West,1834,Semi-Detached
+Cheshire East,274913.0905,2139,1834,1612,622,303,6510,167102.4082,averageTerraced,North West,1612,Terraced
+Cheshire East,274913.0905,2139,1834,1612,622,303,6510,145861.926,averageFlats,North West,622,Flats
+Cheshire East,274913.0905,2139,1834,1612,622,303,6510,710929.6106,averageOther,North West,303,Other
+Cheshire West and Chester,251683.0681,1597,1706,1165,443,229,5140,329833.8804,averageDetached,North West,1597,Detached
+Cheshire West and Chester,251683.0681,1597,1706,1165,443,229,5140,189995.2145,averageSemi-Detached,North West,1706,Semi-Detached
+Cheshire West and Chester,251683.0681,1597,1706,1165,443,229,5140,150208.8429,averageTerraced,North West,1165,Terraced
+Cheshire West and Chester,251683.0681,1597,1706,1165,443,229,5140,140828.0384,averageFlats,North West,443,Flats
+Cheshire West and Chester,251683.0681,1597,1706,1165,443,229,5140,896918.3581,averageOther,North West,229,Other
+Shropshire,251904.5517,1859,1327,949,394,370,4899,310799.4185,averageDetached,West Midlands,1859,Detached
+Shropshire,251904.5517,1859,1327,949,394,370,4899,186582.682,averageSemi-Detached,West Midlands,1327,Semi-Detached
+Shropshire,251904.5517,1859,1327,949,394,370,4899,168935.5416,averageTerraced,West Midlands,949,Terraced
+Shropshire,251904.5517,1859,1327,949,394,370,4899,157664.3832,averageFlats,West Midlands,394,Flats
+Shropshire,251904.5517,1859,1327,949,394,370,4899,503430.9865,averageOther,West Midlands,370,Other
+Cornwall,267415.7881,3379,1931,2730,1052,863,9955,341010.1749,averageDetached,South West,3379,Detached
+Cornwall,267415.7881,3379,1931,2730,1052,863,9955,208005.3351,averageSemi-Detached,South West,1931,Semi-Detached
+Cornwall,267415.7881,3379,1931,2730,1052,863,9955,190553.8725,averageTerraced,South West,2730,Terraced
+Cornwall,267415.7881,3379,1931,2730,1052,863,9955,180254.404,averageFlats,South West,1052,Flats
+Cornwall,267415.7881,3379,1931,2730,1052,863,9955,461590.7103,averageOther,South West,863,Other
+Isles of Scilly,374828.3448,1,5,3,12,8,29,417500,averageDetached,South West,1,Detached
+Isles of Scilly,374828.3448,1,5,3,12,8,29,380000,averageSemi-Detached,South West,5,Semi-Detached
+Isles of Scilly,374828.3448,1,5,3,12,8,29,326666.6667,averageTerraced,South West,3,Terraced
+Isles of Scilly,374828.3448,1,5,3,12,8,29,252500,averageFlats,South West,12,Flats
+Isles of Scilly,374828.3448,1,5,3,12,8,29,567815.25,averageOther,South West,8,Other
+Wiltshire,316404.1089,2445,1823,1977,936,430,7611,410134.6192,averageDetached,South West,2445,Detached
+Wiltshire,316404.1089,2445,1823,1977,936,430,7611,265039.4849,averageSemi-Detached,South West,1823,Semi-Detached
+Wiltshire,316404.1089,2445,1823,1977,936,430,7611,223231.6874,averageTerraced,South West,1977,Terraced
+Wiltshire,316404.1089,2445,1823,1977,936,430,7611,164424.4167,averageFlats,South West,936,Flats
+Wiltshire,316404.1089,2445,1823,1977,936,430,7611,760407.5535,averageOther,South West,430,Other
+Bedford,333828.6299,691,758,701,420,135,2705,414955.5702,averageDetached,East of England,691,Detached
+Bedford,333828.6299,691,758,701,420,135,2705,271223.81,averageSemi-Detached,East of England,758,Semi-Detached
+Bedford,333828.6299,691,758,701,420,135,2705,228753.1598,averageTerraced,East of England,701,Terraced
+Bedford,333828.6299,691,758,701,420,135,2705,150736.5952,averageFlats,East of England,420,Flats
+Bedford,333828.6299,691,758,701,420,135,2705,1385327.126,averageOther,East of England,135,Other
+Central Bedfordshire,357363.9586,1141,1275,1368,665,168,4617,458639.4084,averageDetached,East of England,1141,Detached
+Central Bedfordshire,357363.9586,1141,1275,1368,665,168,4617,301792.1184,averageSemi-Detached,East of England,1275,Semi-Detached
+Central Bedfordshire,357363.9586,1141,1275,1368,665,168,4617,253027.4189,averageTerraced,East of England,1368,Terraced
+Central Bedfordshire,357363.9586,1141,1275,1368,665,168,4617,169279.3173,averageFlats,East of England,665,Flats
+Central Bedfordshire,357363.9586,1141,1275,1368,665,168,4617,1685384.679,averageOther,East of England,168,Other
+Northumberland,209474.776,1438,1293,1382,454,339,4906,296887.1975,averageDetached,North East,1438,Detached
+Northumberland,209474.776,1438,1293,1382,454,339,4906,154663.1214,averageSemi-Detached,North East,1293,Semi-Detached
+Northumberland,209474.776,1438,1293,1382,454,339,4906,132024.6194,averageTerraced,North East,1382,Terraced
+Northumberland,209474.776,1438,1293,1382,454,339,4906,115421.7137,averageFlats,North East,454,Flats
+Northumberland,209474.776,1438,1293,1382,454,339,4906,489441.1888,averageOther,North East,339,Other
+"Bournemouth, Christchurch and Poole",283838.5713,928,374,200,1753,200,3455,391412.4968,averageDetached,South West,928,Detached
+"Bournemouth, Christchurch and Poole",283838.5713,928,374,200,1753,200,3455,270897.3556,averageSemi-Detached,South West,374,Semi-Detached
+"Bournemouth, Christchurch and Poole",283838.5713,928,374,200,1753,200,3455,250978.335,averageTerraced,South West,200,Terraced
+"Bournemouth, Christchurch and Poole",283838.5713,928,374,200,1753,200,3455,195976.2002,averageFlats,South West,1753,Flats
+"Bournemouth, Christchurch and Poole",283838.5713,928,374,200,1753,200,3455,611869.55,averageOther,South West,200,Other
+Dorset,330604.0046,2740,1253,1626,1297,415,7331,431805.1383,averageDetached,South West,2740,Detached
+Dorset,330604.0046,2740,1253,1626,1297,415,7331,280402.4653,averageSemi-Detached,South West,1253,Semi-Detached
+Dorset,330604.0046,2740,1253,1626,1297,415,7331,240370.3721,averageTerraced,South West,1626,Terraced
+Dorset,330604.0046,2740,1253,1626,1297,415,7331,194500.0308,averageFlats,South West,1297,Flats
+Dorset,330604.0046,2740,1253,1626,1297,415,7331,592912.8313,averageOther,South West,415,Other
+Buckinghamshire,495185.7319,2310,2016,1651,1541,495,8013,752424.055,averageDetached,South East,2310,Detached
+Buckinghamshire,495185.7319,2310,2016,1651,1541,495,8013,401404.4772,averageSemi-Detached,South East,2016,Semi-Detached
+Buckinghamshire,495185.7319,2310,2016,1651,1541,495,8013,344078.5197,averageTerraced,South East,1651,Terraced
+Buckinghamshire,495185.7319,2310,2016,1651,1541,495,8013,266528.5438,averageFlats,South East,1541,Flats
+Buckinghamshire,495185.7319,2310,2016,1651,1541,495,8013,892521.5253,averageOther,South East,495,Other
+North Northamptonshire,237926.4129,1643,1795,1802,431,682,6353,307918.3737,averageDetached,East Midlands,1643,Detached
+North Northamptonshire,237926.4129,1643,1795,1802,431,682,6353,188313.7643,averageSemi-Detached,East Midlands,1795,Semi-Detached
+North Northamptonshire,237926.4129,1643,1795,1802,431,682,6353,154896.5988,averageTerraced,East Midlands,1802,Terraced
+North Northamptonshire,237926.4129,1643,1795,1802,431,682,6353,104570.3248,averageFlats,East Midlands,431,Flats
+North Northamptonshire,237926.4129,1643,1795,1802,431,682,6353,503548.2771,averageOther,East Midlands,682,Other
+West Northamptonshire,346192.8641,1330,817,547,157,196,3047,400833.682,averageDetached,East Midlands,1330,Detached
+West Northamptonshire,346192.8641,1330,817,547,157,196,3047,250245.0306,averageSemi-Detached,East Midlands,817,Semi-Detached
+West Northamptonshire,346192.8641,1330,817,547,157,196,3047,221529.17,averageTerraced,East Midlands,547,Terraced
+West Northamptonshire,346192.8641,1330,817,547,157,196,3047,146789.707,averageFlats,East Midlands,157,Flats
+West Northamptonshire,346192.8641,1330,817,547,157,196,3047,883001.1735,averageOther,East Midlands,196,Other
+Bolton,180651.9957,624,1083,1436,318,251,3712,272861.6571,averageDetached,North West,624,Detached
+Bolton,180651.9957,624,1083,1436,318,251,3712,140673.7054,averageSemi-Detached,North West,1083,Semi-Detached
+Bolton,180651.9957,624,1083,1436,318,251,3712,118728.9735,averageTerraced,North West,1436,Terraced
+Bolton,180651.9957,624,1083,1436,318,251,3712,91725.78931,averageFlats,North West,318,Flats
+Bolton,180651.9957,624,1083,1436,318,251,3712,590841.8486,averageOther,North West,251,Other
+Bury,174010.6605,485,899,963,381,126,2854,288137.6103,averageDetached,North West,485,Detached
+Bury,174010.6605,485,899,963,381,126,2854,172218.6396,averageSemi-Detached,North West,899,Semi-Detached
+Bury,174010.6605,485,899,963,381,126,2854,124029.5327,averageTerraced,North West,963,Terraced
+Bury,174010.6605,485,899,963,381,126,2854,137382.9081,averageFlats,North West,381,Flats
+Bury,174010.6605,485,899,963,381,126,2854,240252.373,averageOther,North West,126,Other
+Manchester,272349.8611,282,1589,2140,2263,435,6709,328981.9113,averageDetached,North West,282,Detached
+Manchester,272349.8611,282,1589,2140,2263,435,6709,199199.5966,averageSemi-Detached,North West,1589,Semi-Detached
+Manchester,272349.8611,282,1589,2140,2263,435,6709,145972.2804,averageTerraced,North West,2140,Terraced
+Manchester,272349.8611,282,1589,2140,2263,435,6709,170894.3305,averageFlats,North West,2263,Flats
+Manchester,272349.8611,282,1589,2140,2263,435,6709,1652366.92,averageOther,North West,435,Other
+Oldham,149654.6645,358,923,1189,92,171,2733,278516.1676,averageDetached,North West,358,Detached
+Oldham,149654.6645,358,923,1189,92,171,2733,149187.1896,averageSemi-Detached,North West,923,Semi-Detached
+Oldham,149654.6645,358,923,1189,92,171,2733,97525.69722,averageTerraced,North West,1189,Terraced
+Oldham,149654.6645,358,923,1189,92,171,2733,113736.5217,averageFlats,North West,92,Flats
+Oldham,149654.6645,358,923,1189,92,171,2733,264186.0819,averageOther,North West,171,Other
+Rochdale,166686.7609,454,800,946,205,192,2597,246507.5595,averageDetached,North West,454,Detached
+Rochdale,166686.7609,454,800,946,205,192,2597,135309.5738,averageSemi-Detached,North West,800,Semi-Detached
+Rochdale,166686.7609,454,800,946,205,192,2597,105435.2907,averageTerraced,North West,946,Terraced
+Rochdale,166686.7609,454,800,946,205,192,2597,69877.80488,averageFlats,North West,205,Flats
+Rochdale,166686.7609,454,800,946,205,192,2597,513836.9375,averageOther,North West,192,Other
+Salford,200572.1505,356,1074,1213,1594,281,4518,289870.7303,averageDetached,North West,356,Detached
+Salford,200572.1505,356,1074,1213,1594,281,4518,172289.2654,averageSemi-Detached,North West,1074,Semi-Detached
+Salford,200572.1505,356,1074,1213,1594,281,4518,130431.1913,averageTerraced,North West,1213,Terraced
+Salford,200572.1505,356,1074,1213,1594,281,4518,163920.3588,averageFlats,North West,1594,Flats
+Salford,200572.1505,356,1074,1213,1594,281,4518,706228.605,averageOther,North West,281,Other
+Stockport,264439.188,862,1698,1183,479,204,4426,380176.1671,averageDetached,North West,862,Detached
+Stockport,264439.188,862,1698,1183,479,204,4426,229443.9912,averageSemi-Detached,North West,1698,Semi-Detached
+Stockport,264439.188,862,1698,1183,479,204,4426,158690.4497,averageTerraced,North West,1183,Terraced
+Stockport,264439.188,862,1698,1183,479,204,4426,128198.3716,averageFlats,North West,479,Flats
+Stockport,264439.188,862,1698,1183,479,204,4426,999815.0539,averageOther,North West,204,Other
+Tameside,148480.5723,387,1031,1310,130,142,3000,262487.0284,averageDetached,North West,387,Detached
+Tameside,148480.5723,387,1031,1310,130,142,3000,152278.9554,averageSemi-Detached,North West,1031,Semi-Detached
+Tameside,148480.5723,387,1031,1310,130,142,3000,111605.2809,averageTerraced,North West,1310,Terraced
+Tameside,148480.5723,387,1031,1310,130,142,3000,86789.34615,averageFlats,North West,130,Flats
+Tameside,148480.5723,387,1031,1310,130,142,3000,206859.8662,averageOther,North West,142,Other
+Trafford,336358.05,454,1237,799,581,166,3237,603297.2533,averageDetached,North West,454,Detached
+Trafford,336358.05,454,1237,799,581,166,3237,297136.5707,averageSemi-Detached,North West,1237,Semi-Detached
+Trafford,336358.05,454,1237,799,581,166,3237,235014.3755,averageTerraced,North West,799,Terraced
+Trafford,336358.05,454,1237,799,581,166,3237,178927.1756,averageFlats,North West,581,Flats
+Trafford,336358.05,454,1237,799,581,166,3237,937367.1205,averageOther,North West,166,Other
+Wigan,156111.1548,826,1656,1463,155,266,4366,230812.9044,averageDetached,North West,826,Detached
+Wigan,156111.1548,826,1656,1463,155,266,4366,133484.1021,averageSemi-Detached,North West,1656,Semi-Detached
+Wigan,156111.1548,826,1656,1463,155,266,4366,97394.07314,averageTerraced,North West,1463,Terraced
+Wigan,156111.1548,826,1656,1463,155,266,4366,80724.16129,averageFlats,North West,155,Flats
+Wigan,156111.1548,826,1656,1463,155,266,4366,431881.188,averageOther,North West,266,Other
+Knowsley,154428.6736,267,680,434,82,78,1541,213603.7528,averageDetached,North West,267,Detached
+Knowsley,154428.6736,267,680,434,82,78,1541,134267.2191,averageSemi-Detached,North West,680,Semi-Detached
+Knowsley,154428.6736,267,680,434,82,78,1541,88934.92857,averageTerraced,North West,434,Terraced
+Knowsley,154428.6736,267,680,434,82,78,1541,77067.80488,averageFlats,North West,82,Flats
+Knowsley,154428.6736,267,680,434,82,78,1541,573376.359,averageOther,North West,78,Other
+Liverpool,181772.2138,452,1452,2627,1581,669,6781,297464.6615,averageDetached,North West,452,Detached
+Liverpool,181772.2138,452,1452,2627,1581,669,6781,171583.5868,averageSemi-Detached,North West,1452,Semi-Detached
+Liverpool,181772.2138,452,1452,2627,1581,669,6781,100000.2927,averageTerraced,North West,2627,Terraced
+Liverpool,181772.2138,452,1452,2627,1581,669,6781,112245.2891,averageFlats,North West,1581,Flats
+Liverpool,181772.2138,452,1452,2627,1581,669,6781,611126.1824,averageOther,North West,669,Other
+St. Helens,150879.2337,454,879,722,90,264,2409,240624.9714,averageDetached,North West,454,Detached
+St. Helens,150879.2337,454,879,722,90,264,2409,140199.1593,averageSemi-Detached,North West,879,Semi-Detached
+St. Helens,150879.2337,454,879,722,90,264,2409,92376.84626,averageTerraced,North West,722,Terraced
+St. Helens,150879.2337,454,879,722,90,264,2409,78465.97778,averageFlats,North West,90,Flats
+St. Helens,150879.2337,454,879,722,90,264,2409,216785.0568,averageOther,North West,264,Other
+Sefton,201762.391,611,1498,672,611,258,3650,336551.6219,averageDetached,North West,611,Detached
+Sefton,201762.391,611,1498,672,611,258,3650,171879.1509,averageSemi-Detached,North West,1498,Semi-Detached
+Sefton,201762.391,611,1498,672,611,258,3650,106936.0551,averageTerraced,North West,672,Terraced
+Sefton,201762.391,611,1498,672,611,258,3650,122037.7119,averageFlats,North West,611,Flats
+Sefton,201762.391,611,1498,672,611,258,3650,491855.2209,averageOther,North West,258,Other
+Wirral,193474.9772,744,1793,1199,504,182,4422,329773.0269,averageDetached,North West,744,Detached
+Wirral,193474.9772,744,1793,1199,504,182,4422,173948.7027,averageSemi-Detached,North West,1793,Semi-Detached
+Wirral,193474.9772,744,1793,1199,504,182,4422,111112.5955,averageTerraced,North West,1199,Terraced
+Wirral,193474.9772,744,1793,1199,504,182,4422,117009.6171,averageFlats,North West,504,Flats
+Wirral,193474.9772,744,1793,1199,504,182,4422,583012.8791,averageOther,North West,182,Other
+Barnsley,139605.2436,813,1188,1023,176,154,3354,220001.6765,averageDetached,Yorkshire and the Humber,813,Detached
+Barnsley,139605.2436,813,1188,1023,176,154,3354,112743.6911,averageSemi-Detached,Yorkshire and the Humber,1188,Semi-Detached
+Barnsley,139605.2436,813,1188,1023,176,154,3354,90900.54252,averageTerraced,Yorkshire and the Humber,1023,Terraced
+Barnsley,139605.2436,813,1188,1023,176,154,3354,69215.65909,averageFlats,Yorkshire and the Humber,176,Flats
+Barnsley,139605.2436,813,1188,1023,176,154,3354,326376.026,averageOther,Yorkshire and the Humber,154,Other
+Doncaster,164642.7994,1049,1637,971,103,183,3943,219094.6044,averageDetached,Yorkshire and the Humber,1049,Detached
+Doncaster,164642.7994,1049,1637,971,103,183,3943,120636.0464,averageSemi-Detached,Yorkshire and the Humber,1637,Semi-Detached
+Doncaster,164642.7994,1049,1637,971,103,183,3943,89444.92482,averageTerraced,Yorkshire and the Humber,971,Terraced
+Doncaster,164642.7994,1049,1637,971,103,183,3943,90426.26214,averageFlats,Yorkshire and the Humber,103,Flats
+Doncaster,164642.7994,1049,1637,971,103,183,3943,686940.8907,averageOther,Yorkshire and the Humber,183,Other
+Rotherham,172651.7977,823,1399,711,157,163,3253,231239.6002,averageDetached,Yorkshire and the Humber,823,Detached
+Rotherham,172651.7977,823,1399,711,157,163,3253,124939.96,averageSemi-Detached,Yorkshire and the Humber,1399,Semi-Detached
+Rotherham,172651.7977,823,1399,711,157,163,3253,91501.27004,averageTerraced,Yorkshire and the Humber,711,Terraced
+Rotherham,172651.7977,823,1399,711,157,163,3253,116614.3503,averageFlats,Yorkshire and the Humber,157,Flats
+Rotherham,172651.7977,823,1399,711,157,163,3253,694289.8589,averageOther,Yorkshire and the Humber,163,Other
+Sheffield,247700.9649,987,2200,2150,1035,440,6812,314538.8845,averageDetached,Yorkshire and the Humber,987,Detached
+Sheffield,247700.9649,987,2200,2150,1035,440,6812,172270.5823,averageSemi-Detached,Yorkshire and the Humber,2200,Semi-Detached
+Sheffield,247700.9649,987,2200,2150,1035,440,6812,138173.6958,averageTerraced,Yorkshire and the Humber,2150,Terraced
+Sheffield,247700.9649,987,2200,2150,1035,440,6812,124086.8126,averageFlats,Yorkshire and the Humber,1035,Flats
+Sheffield,247700.9649,987,2200,2150,1035,440,6812,1300887.536,averageOther,Yorkshire and the Humber,440,Other
+Newcastle upon Tyne,229044.1404,370,947,1099,868,476,3760,304742.0946,averageDetached,North East,370,Detached
+Newcastle upon Tyne,229044.1404,370,947,1099,868,476,3760,183339.2883,averageSemi-Detached,North East,947,Semi-Detached
+Newcastle upon Tyne,229044.1404,370,947,1099,868,476,3760,177587.3749,averageTerraced,North East,1099,Terraced
+Newcastle upon Tyne,229044.1404,370,947,1099,868,476,3760,139852.9194,averageFlats,North East,868,Flats
+Newcastle upon Tyne,229044.1404,370,947,1099,868,476,3760,542580.3109,averageOther,North East,476,Other
+North Tyneside,187409.0087,490,997,946,606,162,3201,278950.6286,averageDetached,North East,490,Detached
+North Tyneside,187409.0087,490,997,946,606,162,3201,179409.8576,averageSemi-Detached,North East,997,Semi-Detached
+North Tyneside,187409.0087,490,997,946,606,162,3201,161507.5338,averageTerraced,North East,946,Terraced
+North Tyneside,187409.0087,490,997,946,606,162,3201,109560.6485,averageFlats,North East,606,Flats
+North Tyneside,187409.0087,490,997,946,606,162,3201,402215.5617,averageOther,North East,162,Other
+South Tyneside,148052.3211,205,549,548,245,138,1685,274523.4878,averageDetached,North East,205,Detached
+South Tyneside,148052.3211,205,549,548,245,138,1685,147775.0401,averageSemi-Detached,North East,549,Semi-Detached
+South Tyneside,148052.3211,205,549,548,245,138,1685,113949.3266,averageTerraced,North East,548,Terraced
+South Tyneside,148052.3211,205,549,548,245,138,1685,82346.93878,averageFlats,North East,245,Flats
+South Tyneside,148052.3211,205,549,548,245,138,1685,213355.9275,averageOther,North East,138,Other
+Sunderland,146649.056,494,1084,1103,321,213,3215,226481.5668,averageDetached,North East,494,Detached
+Sunderland,146649.056,494,1084,1103,321,213,3215,129972.9068,averageSemi-Detached,North East,1084,Semi-Detached
+Sunderland,146649.056,494,1084,1103,321,213,3215,95664.7806,averageTerraced,North East,1103,Terraced
+Sunderland,146649.056,494,1084,1103,321,213,3215,68277.63551,averageFlats,North East,321,Flats
+Sunderland,146649.056,494,1084,1103,321,213,3215,428492.0939,averageOther,North East,213,Other
+Birmingham,251830.8611,1136,3567,4190,2180,755,11828,385310.272,averageDetached,West Midlands,1136,Detached
+Birmingham,251830.8611,1136,3567,4190,2180,755,11828,195330.0684,averageSemi-Detached,West Midlands,3567,Semi-Detached
+Birmingham,251830.8611,1136,3567,4190,2180,755,11828,153222.0289,averageTerraced,West Midlands,4190,Terraced
+Birmingham,251830.8611,1136,3567,4190,2180,755,11828,145032.4018,averageFlats,West Midlands,2180,Flats
+Birmingham,251830.8611,1136,3567,4190,2180,755,11828,1173549.225,averageOther,West Midlands,755,Other
+Coventry,201051.045,431,1086,2083,586,148,4334,321038.761,averageDetached,West Midlands,431,Detached
+Coventry,201051.045,431,1086,2083,586,148,4334,193698.9899,averageSemi-Detached,West Midlands,1086,Semi-Detached
+Coventry,201051.045,431,1086,2083,586,148,4334,152755.977,averageTerraced,West Midlands,2083,Terraced
+Coventry,201051.045,431,1086,2083,586,148,4334,120253.8447,averageFlats,West Midlands,586,Flats
+Coventry,201051.045,431,1086,2083,586,148,4334,905209.2365,averageOther,West Midlands,148,Other
+Dudley,185343.1554,824,1455,926,321,154,3680,259407.9163,averageDetached,West Midlands,824,Detached
+Dudley,185343.1554,824,1455,926,321,154,3680,156844.8371,averageSemi-Detached,West Midlands,1455,Semi-Detached
+Dudley,185343.1554,824,1455,926,321,154,3680,139134.0551,averageTerraced,West Midlands,926,Terraced
+Dudley,185343.1554,824,1455,926,321,154,3680,97583.69159,averageFlats,West Midlands,321,Flats
+Dudley,185343.1554,824,1455,926,321,154,3680,519084.0974,averageOther,West Midlands,154,Other
+Sandwell,165406.0577,364,1196,1085,291,185,3121,216784.3379,averageDetached,West Midlands,364,Detached
+Sandwell,165406.0577,364,1196,1085,291,185,3121,142493.0727,averageSemi-Detached,West Midlands,1196,Semi-Detached
+Sandwell,165406.0577,364,1196,1085,291,185,3121,139346.2664,averageTerraced,West Midlands,1085,Terraced
+Sandwell,165406.0577,364,1196,1085,291,185,3121,79055.31959,averageFlats,West Midlands,291,Flats
+Sandwell,165406.0577,364,1196,1085,291,185,3121,501109.7027,averageOther,West Midlands,185,Other
+Solihull,349199.9348,759,997,597,594,103,3050,508343.7839,averageDetached,West Midlands,759,Detached
+Solihull,349199.9348,759,997,597,594,103,3050,267871.4664,averageSemi-Detached,West Midlands,997,Semi-Detached
+Solihull,349199.9348,759,997,597,594,103,3050,212925.4757,averageTerraced,West Midlands,597,Terraced
+Solihull,349199.9348,759,997,597,594,103,3050,171624.5741,averageFlats,West Midlands,594,Flats
+Solihull,349199.9348,759,997,597,594,103,3050,1777645.738,averageOther,West Midlands,103,Other
+Walsall,191985.411,579,1137,853,292,149,3010,279276.4145,averageDetached,West Midlands,579,Detached
+Walsall,191985.411,579,1137,853,292,149,3010,155507.5215,averageSemi-Detached,West Midlands,1137,Semi-Detached
+Walsall,191985.411,579,1137,853,292,149,3010,123418.0516,averageTerraced,West Midlands,853,Terraced
+Walsall,191985.411,579,1137,853,292,149,3010,96415.17466,averageFlats,West Midlands,292,Flats
+Walsall,191985.411,579,1137,853,292,149,3010,710967.5302,averageOther,West Midlands,149,Other
+Wolverhampton,170841.8553,504,1115,672,279,125,2695,254938.3988,averageDetached,West Midlands,504,Detached
+Wolverhampton,170841.8553,504,1115,672,279,125,2695,138086.8565,averageSemi-Detached,West Midlands,1115,Semi-Detached
+Wolverhampton,170841.8553,504,1115,672,279,125,2695,112983.0908,averageTerraced,West Midlands,672,Terraced
+Wolverhampton,170841.8553,504,1115,672,279,125,2695,95205.86738,averageFlats,West Midlands,279,Flats
+Wolverhampton,170841.8553,504,1115,672,279,125,2695,603807.424,averageOther,West Midlands,125,Other
+Bradford,160899.08,1027,2160,2518,619,1079,7403,293006.9942,averageDetached,Yorkshire and the Humber,1027,Detached
+Bradford,160899.08,1027,2160,2518,619,1079,7403,147170.4829,averageSemi-Detached,Yorkshire and the Humber,2160,Semi-Detached
+Bradford,160899.08,1027,2160,2518,619,1079,7403,114862.72,averageTerraced,Yorkshire and the Humber,2518,Terraced
+Bradford,160899.08,1027,2160,2518,619,1079,7403,106000.3393,averageFlats,Yorkshire and the Humber,619,Flats
+Bradford,160899.08,1027,2160,2518,619,1079,7403,201567.1214,averageOther,Yorkshire and the Humber,1079,Other
+Calderdale,182805.0928,434,747,1381,175,206,2943,316880.318,averageDetached,Yorkshire and the Humber,434,Detached
+Calderdale,182805.0928,434,747,1381,175,206,2943,159168.0268,averageSemi-Detached,Yorkshire and the Humber,747,Semi-Detached
+Calderdale,182805.0928,434,747,1381,175,206,2943,112482.6401,averageTerraced,Yorkshire and the Humber,1381,Terraced
+Calderdale,182805.0928,434,747,1381,175,206,2943,113510.7429,averageFlats,Yorkshire and the Humber,175,Flats
+Calderdale,182805.0928,434,747,1381,175,206,2943,516349.068,averageOther,Yorkshire and the Humber,206,Other
+Kirklees,170515.7648,1223,1589,2029,333,416,5590,271582.3074,averageDetached,Yorkshire and the Humber,1223,Detached
+Kirklees,170515.7648,1223,1589,2029,333,416,5590,148617.056,averageSemi-Detached,Yorkshire and the Humber,1589,Semi-Detached
+Kirklees,170515.7648,1223,1589,2029,333,416,5590,114256.5683,averageTerraced,Yorkshire and the Humber,2029,Terraced
+Kirklees,170515.7648,1223,1589,2029,333,416,5590,92595.8018,averageFlats,Yorkshire and the Humber,333,Flats
+Kirklees,170515.7648,1223,1589,2029,333,416,5590,293808.851,averageOther,Yorkshire and the Humber,416,Other
+Leeds,234081.1634,1746,3831,3452,1785,490,11304,363914.3511,averageDetached,Yorkshire and the Humber,1746,Detached
+Leeds,234081.1634,1746,3831,3452,1785,490,11304,191584.3229,averageSemi-Detached,Yorkshire and the Humber,3831,Semi-Detached
+Leeds,234081.1634,1746,3831,3452,1785,490,11304,145802.3722,averageTerraced,Yorkshire and the Humber,3452,Terraced
+Leeds,234081.1634,1746,3831,3452,1785,490,11304,139930.7905,averageFlats,Yorkshire and the Humber,1785,Flats
+Leeds,234081.1634,1746,3831,3452,1785,490,11304,1068598.414,averageOther,Yorkshire and the Humber,490,Other
+Wakefield,170940.5659,1327,1967,1505,221,195,5215,242832.6895,averageDetached,Yorkshire and the Humber,1327,Detached
+Wakefield,170940.5659,1327,1967,1505,221,195,5215,136905.0605,averageSemi-Detached,Yorkshire and the Humber,1967,Semi-Detached
+Wakefield,170940.5659,1327,1967,1505,221,195,5215,106951.6179,averageTerraced,Yorkshire and the Humber,1505,Terraced
+Wakefield,170940.5659,1327,1967,1505,221,195,5215,89133.55656,averageFlats,Yorkshire and the Humber,221,Flats
+Wakefield,170940.5659,1327,1967,1505,221,195,5215,611605.7282,averageOther,Yorkshire and the Humber,195,Other
+Gateshead,177604.0974,256,818,793,468,171,2506,250694.9023,averageDetached,North East,256,Detached
+Gateshead,177604.0974,256,818,793,468,171,2506,147390.5416,averageSemi-Detached,North East,818,Semi-Detached
+Gateshead,177604.0974,256,818,793,468,171,2506,124903.0214,averageTerraced,North East,793,Terraced
+Gateshead,177604.0974,256,818,793,468,171,2506,104999.0513,averageFlats,North East,468,Flats
+Gateshead,177604.0974,256,818,793,468,171,2506,655817.883,averageOther,North East,171,Other
+City of London,6828867.576,0,0,2,104,97,203,0,averageDetached,London,0,Detached
+City of London,6828867.576,0,0,2,104,97,203,0,averageSemi-Detached,London,0,Semi-Detached
+City of London,6828867.576,0,0,2,104,97,203,2146500,averageTerraced,London,2,Terraced
+City of London,6828867.576,0,0,2,104,97,203,957475.0481,averageFlats,London,104,Flats
+City of London,6828867.576,0,0,2,104,97,203,13220512.51,averageOther,London,97,Other
+Barking and Dagenham,312383.1275,13,204,1144,410,64,1835,409423.0769,averageDetached,London,13,Detached
+Barking and Dagenham,312383.1275,13,204,1144,410,64,1835,364576.7892,averageSemi-Detached,London,204,Semi-Detached
+Barking and Dagenham,312383.1275,13,204,1144,410,64,1835,320817.5997,averageTerraced,London,1144,Terraced
+Barking and Dagenham,312383.1275,13,204,1144,410,64,1835,216456.8195,averageFlats,London,410,Flats
+Barking and Dagenham,312383.1275,13,204,1144,410,64,1835,590066.3125,averageOther,London,64,Other
+Barnet,652271.9238,284,763,669,2083,244,4043,1490789.542,averageDetached,London,284,Detached
+Barnet,652271.9238,284,763,669,2083,244,4043,775923.5007,averageSemi-Detached,London,763,Semi-Detached
+Barnet,652271.9238,284,763,669,2083,244,4043,593713.9492,averageTerraced,London,669,Terraced
+Barnet,652271.9238,284,763,669,2083,244,4043,415064.1719,averageFlats,London,2083,Flats
+Barnet,652271.9238,284,763,669,2083,244,4043,1475197.643,averageOther,London,244,Other
+Bexley,376968.4594,155,958,999,746,109,2967,550884.4323,averageDetached,London,155,Detached
+Bexley,376968.4594,155,958,999,746,109,2967,411126.4916,averageSemi-Detached,London,958,Semi-Detached
+Bexley,376968.4594,155,958,999,746,109,2967,333658.8128,averageTerraced,London,999,Terraced
+Bexley,376968.4594,155,958,999,746,109,2967,222340.5402,averageFlats,London,746,Flats
+Bexley,376968.4594,155,958,999,746,109,2967,1284660.147,averageOther,London,109,Other
+Brent,679926.4162,71,305,392,1530,201,2499,1104590.845,averageDetached,London,71,Detached
+Brent,679926.4162,71,305,392,1530,201,2499,736312.0689,averageSemi-Detached,London,305,Semi-Detached
+Brent,679926.4162,71,305,392,1530,201,2499,716675.2321,averageTerraced,London,392,Terraced
+Brent,679926.4162,71,305,392,1530,201,2499,420150.1203,averageFlats,London,1530,Flats
+Brent,679926.4162,71,305,392,1530,201,2499,2350092.577,averageOther,London,201,Other
+Bromley,570900.4882,618,984,972,1454,183,4211,846778.1165,averageDetached,London,618,Detached
+Bromley,570900.4882,618,984,972,1454,183,4211,537806.6809,averageSemi-Detached,London,984,Semi-Detached
+Bromley,570900.4882,618,984,972,1454,183,4211,442908.0936,averageTerraced,London,972,Terraced
+Bromley,570900.4882,618,984,972,1454,183,4211,330738.7105,averageFlats,London,1454,Flats
+Bromley,570900.4882,618,984,972,1454,183,4211,2405194.284,averageOther,London,183,Other
+Camden,1464200.279,40,51,182,1531,295,2099,5197638.85,averageDetached,London,40,Detached
+Camden,1464200.279,40,51,182,1531,295,2099,3209268.627,averageSemi-Detached,London,51,Semi-Detached
+Camden,1464200.279,40,51,182,1531,295,2099,1983573.44,averageTerraced,London,182,Terraced
+Camden,1464200.279,40,51,182,1531,295,2099,811026.3423,averageFlats,London,1531,Flats
+Camden,1464200.279,40,51,182,1531,295,2099,3725716.732,averageOther,London,295,Other
+Croydon,446637.1774,431,737,1114,2125,255,4662,690847.413,averageDetached,London,431,Detached
+Croydon,446637.1774,431,737,1114,2125,255,4662,481413.9457,averageSemi-Detached,London,737,Semi-Detached
+Croydon,446637.1774,431,737,1114,2125,255,4662,383143.2469,averageTerraced,London,1114,Terraced
+Croydon,446637.1774,431,737,1114,2125,255,4662,285849.3911,averageFlats,London,2125,Flats
+Croydon,446637.1774,431,737,1114,2125,255,4662,1550641.863,averageOther,London,255,Other
+Ealing,928263.1128,77,411,728,1406,258,2880,1355157.143,averageDetached,London,77,Detached
+Ealing,928263.1128,77,411,728,1406,258,2880,723247.8467,averageSemi-Detached,London,411,Semi-Detached
+Ealing,928263.1128,77,411,728,1406,258,2880,618093.7679,averageTerraced,London,728,Terraced
+Ealing,928263.1128,77,411,728,1406,258,2880,439710.2354,averageFlats,London,1406,Flats
+Ealing,928263.1128,77,411,728,1406,258,2880,4665081.186,averageOther,London,258,Other
+Enfield,488454.8948,122,443,1017,1072,179,2833,1092279.516,averageDetached,London,122,Detached
+Enfield,488454.8948,122,443,1017,1072,179,2833,606206.1783,averageSemi-Detached,London,443,Semi-Detached
+Enfield,488454.8948,122,443,1017,1072,179,2833,443851.3658,averageTerraced,London,1017,Terraced
+Enfield,488454.8948,122,443,1017,1072,179,2833,309414.3563,averageFlats,London,1072,Flats
+Enfield,488454.8948,122,443,1017,1072,179,2833,1111152.235,averageOther,London,179,Other
+Greenwich,505129.025,64,326,907,1763,138,3198,933706.9531,averageDetached,London,64,Detached
+Greenwich,505129.025,64,326,907,1763,138,3198,529397.5767,averageSemi-Detached,London,326,Semi-Detached
+Greenwich,505129.025,64,326,907,1763,138,3198,457831.2161,averageTerraced,London,907,Terraced
+Greenwich,505129.025,64,326,907,1763,138,3198,408708.0743,averageFlats,London,1763,Flats
+Greenwich,505129.025,64,326,907,1763,138,3198,1791713.906,averageOther,London,138,Other
+Hackney,772976.07,7,26,327,1690,192,2242,2060857.143,averageDetached,London,7,Detached
+Hackney,772976.07,7,26,327,1690,192,2242,1157042.308,averageSemi-Detached,London,26,Semi-Detached
+Hackney,772976.07,7,26,327,1690,192,2242,998673.5321,averageTerraced,London,327,Terraced
+Hackney,772976.07,7,26,327,1690,192,2242,516636.7621,averageFlats,London,1690,Flats
+Hackney,772976.07,7,26,327,1690,192,2242,2545942.063,averageOther,London,192,Other
+Hammersmith and Fulham,1021593.947,8,28,400,1241,192,1869,1596875,averageDetached,London,8,Detached
+Hammersmith and Fulham,1021593.947,8,28,400,1241,192,1869,1716519.821,averageSemi-Detached,London,28,Semi-Detached
+Hammersmith and Fulham,1021593.947,8,28,400,1241,192,1869,1441182.55,averageTerraced,London,400,Terraced
+Hammersmith and Fulham,1021593.947,8,28,400,1241,192,1869,766509.3247,averageFlats,London,1241,Flats
+Hammersmith and Fulham,1021593.947,8,28,400,1241,192,1869,1670887.708,averageOther,London,192,Other
+Haringey,644851.5993,33,112,623,1010,211,1989,1821974.97,averageDetached,London,33,Detached
+Haringey,644851.5993,33,112,623,1010,211,1989,1076607.884,averageSemi-Detached,London,112,Semi-Detached
+Haringey,644851.5993,33,112,623,1010,211,1989,751439.8941,averageTerraced,London,623,Terraced
+Haringey,644851.5993,33,112,623,1010,211,1989,444809.2782,averageFlats,London,1010,Flats
+Haringey,644851.5993,33,112,623,1010,211,1989,874408.2891,averageOther,London,211,Other
+Harrow,574239.6992,156,513,443,661,135,1908,1030646.635,averageDetached,London,156,Detached
+Harrow,574239.6992,156,513,443,661,135,1908,581506.4932,averageSemi-Detached,London,513,Semi-Detached
+Harrow,574239.6992,156,513,443,661,135,1908,499467.5553,averageTerraced,London,443,Terraced
+Harrow,574239.6992,156,513,443,661,135,1908,345296.7716,averageFlats,London,661,Flats
+Harrow,574239.6992,156,513,443,661,135,1908,1385558.126,averageOther,London,135,Other
+Havering,392454.9731,292,1034,911,866,126,3229,647960.7363,averageDetached,London,292,Detached
+Havering,392454.9731,292,1034,911,866,126,3229,414664.3433,averageSemi-Detached,London,1034,Semi-Detached
+Havering,392454.9731,292,1034,911,866,126,3229,355201.5554,averageTerraced,London,911,Terraced
+Havering,392454.9731,292,1034,911,866,126,3229,244286.4261,averageFlats,London,866,Flats
+Havering,392454.9731,292,1034,911,866,126,3229,905785.5556,averageOther,London,126,Other
+Hillingdon,544681.7443,298,770,696,1066,158,2988,809707.2148,averageDetached,London,298,Detached
+Hillingdon,544681.7443,298,770,696,1066,158,2988,489938.6143,averageSemi-Detached,London,770,Semi-Detached
+Hillingdon,544681.7443,298,770,696,1066,158,2988,435632.4626,averageTerraced,London,696,Terraced
+Hillingdon,544681.7443,298,770,696,1066,158,2988,292276.4719,averageFlats,London,1066,Flats
+Hillingdon,544681.7443,298,770,696,1066,158,2988,2494915.544,averageOther,London,158,Other
+Hounslow,662988.633,62,439,550,1242,151,2444,940314.3548,averageDetached,London,62,Detached
+Hounslow,662988.633,62,439,550,1242,151,2444,622899.5467,averageSemi-Detached,London,439,Semi-Detached
+Hounslow,662988.633,62,439,550,1242,151,2444,564170.7764,averageTerraced,London,550,Terraced
+Hounslow,662988.633,62,439,550,1242,151,2444,349927.818,averageFlats,London,1242,Flats
+Hounslow,662988.633,62,439,550,1242,151,2444,3600579.808,averageOther,London,151,Other
+Islington,882766.3509,5,24,269,1240,206,1744,2537480,averageDetached,London,5,Detached
+Islington,882766.3509,5,24,269,1240,206,1744,1829789.583,averageSemi-Detached,London,24,Semi-Detached
+Islington,882766.3509,5,24,269,1240,206,1744,1337192.022,averageTerraced,London,269,Terraced
+Islington,882766.3509,5,24,269,1240,206,1744,601021.8774,averageFlats,London,1240,Flats
+Islington,882766.3509,5,24,269,1240,206,1744,1834807.689,averageOther,London,206,Other
+Kensington and Chelsea,2196349.744,7,19,272,1176,210,1684,15635714.29,averageDetached,London,7,Detached
+Kensington and Chelsea,2196349.744,7,19,272,1176,210,1684,5436421.053,averageSemi-Detached,London,19,Semi-Detached
+Kensington and Chelsea,2196349.744,7,19,272,1176,210,1684,4160846.077,averageTerraced,London,272,Terraced
+Kensington and Chelsea,2196349.744,7,19,272,1176,210,1684,1517538.87,averageFlats,London,1176,Flats
+Kensington and Chelsea,2196349.744,7,19,272,1176,210,1684,2712072.024,averageOther,London,210,Other
+Kingston upon Thames,662103.0672,175,470,335,648,112,1740,1074432.943,averageDetached,London,175,Detached
+Kingston upon Thames,662103.0672,175,470,335,648,112,1740,643556.6787,averageSemi-Detached,London,470,Semi-Detached
+Kingston upon Thames,662103.0672,175,470,335,648,112,1740,515022.9493,averageTerraced,London,335,Terraced
+Kingston upon Thames,662103.0672,175,470,335,648,112,1740,375041.9306,averageFlats,London,648,Flats
+Kingston upon Thames,662103.0672,175,470,335,648,112,1740,2196447.089,averageOther,London,112,Other
+Lambeth,658333.9484,26,152,566,2222,270,3236,1343346.154,averageDetached,London,26,Detached
+Lambeth,658333.9484,26,152,566,2222,270,3236,983178.6053,averageSemi-Detached,London,152,Semi-Detached
+Lambeth,658333.9484,26,152,566,2222,270,3236,854397.6431,averageTerraced,London,566,Terraced
+Lambeth,658333.9484,26,152,566,2222,270,3236,484799.671,averageFlats,London,2222,Flats
+Lambeth,658333.9484,26,152,566,2222,270,3236,1426609.533,averageOther,London,270,Other
+Lewisham,490055.831,31,234,936,1719,217,3137,1084294.387,averageDetached,London,31,Detached
+Lewisham,490055.831,31,234,936,1719,217,3137,625816.547,averageSemi-Detached,London,234,Semi-Detached
+Lewisham,490055.831,31,234,936,1719,217,3137,534050.8857,averageTerraced,London,936,Terraced
+Lewisham,490055.831,31,234,936,1719,217,3137,354753.5375,averageFlats,London,1719,Flats
+Lewisham,490055.831,31,234,936,1719,217,3137,1140820.203,averageOther,London,217,Other
+Merton,651911.9372,92,232,896,842,137,2199,2302137.348,averageDetached,London,92,Detached
+Merton,651911.9372,92,232,896,842,137,2199,820999.7457,averageSemi-Detached,London,232,Semi-Detached
+Merton,651911.9372,92,232,896,842,137,2199,596661.1641,averageTerraced,London,896,Terraced
+Merton,651911.9372,92,232,896,842,137,2199,378835.0986,averageFlats,London,842,Flats
+Merton,651911.9372,92,232,896,842,137,2199,1297067.277,averageOther,London,137,Other
+Newham,421161.1188,11,32,893,1921,148,3005,631909.0909,averageDetached,London,11,Detached
+Newham,421161.1188,11,32,893,1921,148,3005,432800,averageSemi-Detached,London,32,Semi-Detached
+Newham,421161.1188,11,32,893,1921,148,3005,424936.6282,averageTerraced,London,893,Terraced
+Newham,421161.1188,11,32,893,1921,148,3005,346559.9412,averageFlats,London,1921,Flats
+Newham,421161.1188,11,32,893,1921,148,3005,1348503.419,averageOther,London,148,Other
+Redbridge,471865.6199,95,415,1023,872,168,2573,774022.0947,averageDetached,London,95,Detached
+Redbridge,471865.6199,95,415,1023,872,168,2573,560321.3325,averageSemi-Detached,London,415,Semi-Detached
+Redbridge,471865.6199,95,415,1023,872,168,2573,462369.7986,averageTerraced,London,1023,Terraced
+Redbridge,471865.6199,95,415,1023,872,168,2573,293816.8463,averageFlats,London,872,Flats
+Redbridge,471865.6199,95,415,1023,872,168,2573,1064477.345,averageOther,London,168,Other
+Richmond upon Thames,844574.6991,135,436,740,951,201,2463,1513246.489,averageDetached,London,135,Detached
+Richmond upon Thames,844574.6991,135,436,740,951,201,2463,1040584.016,averageSemi-Detached,London,436,Semi-Detached
+Richmond upon Thames,844574.6991,135,436,740,951,201,2463,848948.4811,averageTerraced,London,740,Terraced
+Richmond upon Thames,844574.6991,135,436,740,951,201,2463,502092.4648,averageFlats,London,951,Flats
+Richmond upon Thames,844574.6991,135,436,740,951,201,2463,1574590.881,averageOther,London,201,Other
+Southwark,834655.2036,26,86,455,2131,229,2927,1667653.846,averageDetached,London,26,Detached
+Southwark,834655.2036,26,86,455,2131,229,2927,1163390.244,averageSemi-Detached,London,86,Semi-Detached
+Southwark,834655.2036,26,86,455,2131,229,2927,812312.7253,averageTerraced,London,455,Terraced
+Southwark,834655.2036,26,86,455,2131,229,2927,585024.984,averageFlats,London,2131,Flats
+Southwark,834655.2036,26,86,455,2131,229,2927,2983994.275,averageOther,London,229,Other
+Sutton,428602.1212,212,583,681,1230,100,2806,777280.6132,averageDetached,London,212,Detached
+Sutton,428602.1212,212,583,681,1230,100,2806,491163.5009,averageSemi-Detached,London,583,Semi-Detached
+Sutton,428602.1212,212,583,681,1230,100,2806,399297.6828,averageTerraced,London,681,Terraced
+Sutton,428602.1212,212,583,681,1230,100,2806,276868.9585,averageFlats,London,1230,Flats
+Sutton,428602.1212,212,583,681,1230,100,2806,1390552,averageOther,London,100,Other
+Tower Hamlets,592488.1127,6,10,175,3426,235,3852,1386666.667,averageDetached,London,6,Detached
+Tower Hamlets,592488.1127,6,10,175,3426,235,3852,882700,averageSemi-Detached,London,10,Semi-Detached
+Tower Hamlets,592488.1127,6,10,175,3426,235,3852,876862.7943,averageTerraced,London,175,Terraced
+Tower Hamlets,592488.1127,6,10,175,3426,235,3852,489730.5289,averageFlats,London,3426,Flats
+Tower Hamlets,592488.1127,6,10,175,3426,235,3852,1846167.783,averageOther,London,235,Other
+Waltham Forest,487932.5379,24,226,1160,1171,202,2783,692541.6667,averageDetached,London,24,Detached
+Waltham Forest,487932.5379,24,226,1160,1171,202,2783,551297.7257,averageSemi-Detached,London,226,Semi-Detached
+Waltham Forest,487932.5379,24,226,1160,1171,202,2783,514898.5647,averageTerraced,London,1160,Terraced
+Waltham Forest,487932.5379,24,226,1160,1171,202,2783,340039.4167,averageFlats,London,1171,Flats
+Waltham Forest,487932.5379,24,226,1160,1171,202,2783,1095215.223,averageOther,London,202,Other
+Wandsworth,861109.8633,34,135,1000,3007,278,4454,2851764.706,averageDetached,London,34,Detached
+Wandsworth,861109.8633,34,135,1000,3007,278,4454,1491050.393,averageSemi-Detached,London,135,Semi-Detached
+Wandsworth,861109.8633,34,135,1000,3007,278,4454,992425.132,averageTerraced,London,1000,Terraced
+Wandsworth,861109.8633,34,135,1000,3007,278,4454,662772.133,averageFlats,London,3007,Flats
+Wandsworth,861109.8633,34,135,1000,3007,278,4454,1984714.36,averageOther,London,278,Other
+Westminster,2465001.42,12,18,212,2341,525,3108,5642625,averageDetached,London,12,Detached
+Westminster,2465001.42,12,18,212,2341,525,3108,3952422.222,averageSemi-Detached,London,18,Semi-Detached
+Westminster,2465001.42,12,18,212,2341,525,3108,3097948.557,averageTerraced,London,212,Terraced
+Westminster,2465001.42,12,18,212,2341,525,3108,1511462.625,averageFlats,London,2341,Flats
+Westminster,2465001.42,12,18,212,2341,525,3108,6337657.552,averageOther,London,525,Other
+Cambridgeshire,346694.6149,3079,2290,2316,1301,505,9491,407735.4346,averageDetached,East of England,3079,Detached
+Cambridgeshire,346694.6149,3079,2290,2316,1301,505,9491,288397.0603,averageSemi-Detached,East of England,2290,Semi-Detached
+Cambridgeshire,346694.6149,3079,2290,2316,1301,505,9491,282342.7068,averageTerraced,East of England,2316,Terraced
+Cambridgeshire,346694.6149,3079,2290,2316,1301,505,9491,252280.5757,averageFlats,East of England,1301,Flats
+Cambridgeshire,346694.6149,3079,2290,2316,1301,505,9491,777245.903,averageOther,East of England,505,Other
+Cumbria,194963.2019,1873,2142,2729,555,558,7857,293870.9231,averageDetached,North West,1873,Detached
+Cumbria,194963.2019,1873,2142,2729,555,558,7857,167257.0079,averageSemi-Detached,North West,2142,Semi-Detached
+Cumbria,194963.2019,1873,2142,2729,555,558,7857,123402.4397,averageTerraced,North West,2729,Terraced
+Cumbria,194963.2019,1873,2142,2729,555,558,7857,136541.7964,averageFlats,North West,555,Flats
+Cumbria,194963.2019,1873,2142,2729,555,558,7857,377410.7025,averageOther,North West,558,Other
+Derbyshire,218409.2303,3924,4014,2909,582,622,12051,275413.9207,averageDetached,East Midlands,3924,Detached
+Derbyshire,218409.2303,3924,4014,2909,582,622,12051,155072.4571,averageSemi-Detached,East Midlands,4014,Semi-Detached
+Derbyshire,218409.2303,3924,4014,2909,582,622,12051,127756.5442,averageTerraced,East Midlands,2909,Terraced
+Derbyshire,218409.2303,3924,4014,2909,582,622,12051,150385.9588,averageFlats,East Midlands,582,Flats
+Derbyshire,218409.2303,3924,4014,2909,582,622,12051,755138.5064,averageOther,East Midlands,622,Other
+Devon,292666.6885,4610,2614,3916,1737,1158,14035,371038.01,averageDetached,South West,4610,Detached
+Devon,292666.6885,4610,2614,3916,1737,1158,14035,244987.1021,averageSemi-Detached,South West,2614,Semi-Detached
+Devon,292666.6885,4610,2614,3916,1737,1158,14035,212666.7352,averageTerraced,South West,3916,Terraced
+Devon,292666.6885,4610,2614,3916,1737,1158,14035,173727.2395,averageFlats,South West,1737,Flats
+Devon,292666.6885,4610,2614,3916,1737,1158,14035,537243.7927,averageOther,South West,1158,Other
+East Sussex,307870.3584,2549,1861,1942,2413,645,9410,446523.4625,averageDetached,South East,2549,Detached
+East Sussex,307870.3584,2549,1861,1942,2413,645,9410,293713.2633,averageSemi-Detached,South East,1861,Semi-Detached
+East Sussex,307870.3584,2549,1861,1942,2413,645,9410,256412.7925,averageTerraced,South East,1942,Terraced
+East Sussex,307870.3584,2549,1861,1942,2413,645,9410,174074.2308,averageFlats,South East,2413,Flats
+East Sussex,307870.3584,2549,1861,1942,2413,645,9410,456242.8248,averageOther,South East,645,Other
+Essex,372368.173,6452,5655,5080,4012,1018,22217,477160.7271,averageDetached,South East,6452,Detached
+Essex,372368.173,6452,5655,5080,4012,1018,22217,322612.7703,averageSemi-Detached,South East,5655,Semi-Detached
+Essex,372368.173,6452,5655,5080,4012,1018,22217,276259.2894,averageTerraced,South East,5080,Terraced
+Essex,372368.173,6452,5655,5080,4012,1018,22217,194405.3557,averageFlats,South East,4012,Flats
+Essex,372368.173,6452,5655,5080,4012,1018,22217,1165555.987,averageOther,South East,1018,Other
+Gloucestershire,324457.6578,2823,3055,2483,1431,667,10459,421287.3897,averageDetached,South West,2823,Detached
+Gloucestershire,324457.6578,2823,3055,2483,1431,667,10459,245757.9928,averageSemi-Detached,South West,3055,Semi-Detached
+Gloucestershire,324457.6578,2823,3055,2483,1431,667,10459,220862.9207,averageTerraced,South West,2483,Terraced
+Gloucestershire,324457.6578,2823,3055,2483,1431,667,10459,168388.3201,averageFlats,South West,1431,Flats
+Gloucestershire,324457.6578,2823,3055,2483,1431,667,10459,995579.2444,averageOther,South West,667,Other
+Hampshire,374744.9142,5960,4401,5226,3711,965,20263,513976.4456,averageDetached,South East,5960,Detached
+Hampshire,374744.9142,5960,4401,5226,3711,965,20263,317212.5721,averageSemi-Detached,South East,4401,Semi-Detached
+Hampshire,374744.9142,5960,4401,5226,3711,965,20263,269357.7331,averageTerraced,South East,5226,Terraced
+Hampshire,374744.9142,5960,4401,5226,3711,965,20263,193289.4223,averageFlats,South East,3711,Flats
+Hampshire,374744.9142,5960,4401,5226,3711,965,20263,1045744.55,averageOther,South East,965,Other
+Hertfordshire,470360.3732,2586,2981,4225,4025,688,14505,778503.4795,averageDetached,East of England,2586,Detached
+Hertfordshire,470360.3732,2586,2981,4225,4025,688,14505,478834.3979,averageSemi-Detached,East of England,2981,Semi-Detached
+Hertfordshire,470360.3732,2586,2981,4225,4025,688,14505,362598.0876,averageTerraced,East of England,4225,Terraced
+Hertfordshire,470360.3732,2586,2981,4225,4025,688,14505,254841.2507,averageFlats,East of England,4025,Flats
+Hertfordshire,470360.3732,2586,2981,4225,4025,688,14505,1198036.222,averageOther,East of England,688,Other
+Kent,333292.634,5180,6179,7037,4449,1472,24317,493433.3398,averageDetached,South East,5180,Detached
+Kent,333292.634,5180,6179,7037,4449,1472,24317,309275.5245,averageSemi-Detached,South East,6179,Semi-Detached
+Kent,333292.634,5180,6179,7037,4449,1472,24317,256502.8423,averageTerraced,South East,7037,Terraced
+Kent,333292.634,5180,6179,7037,4449,1472,24317,185523.0537,averageFlats,South East,4449,Flats
+Kent,333292.634,5180,6179,7037,4449,1472,24317,684290.93,averageOther,South East,1472,Other
+Lancashire,187350.3693,4194,5416,6107,1423,1185,18325,272101.747,averageDetached,North West,4194,Detached
+Lancashire,187350.3693,4194,5416,6107,1423,1185,18325,157968.9042,averageSemi-Detached,North West,5416,Semi-Detached
+Lancashire,187350.3693,4194,5416,6107,1423,1185,18325,114392.5869,averageTerraced,North West,6107,Terraced
+Lancashire,187350.3693,4194,5416,6107,1423,1185,18325,114761.6992,averageFlats,North West,1423,Flats
+Lancashire,187350.3693,4194,5416,6107,1423,1185,18325,484843.6962,averageOther,North West,1185,Other
+Leicestershire,239708.7183,4191,3561,2239,630,516,11137,309127.4001,averageDetached,East Midlands,4191,Detached
+Leicestershire,239708.7183,4191,3561,2239,630,516,11137,185139.1042,averageSemi-Detached,East Midlands,3561,Semi-Detached
+Leicestershire,239708.7183,4191,3561,2239,630,516,11137,154465.7575,averageTerraced,East Midlands,2239,Terraced
+Leicestershire,239708.7183,4191,3561,2239,630,516,11137,134833.9667,averageFlats,East Midlands,630,Flats
+Leicestershire,239708.7183,4191,3561,2239,630,516,11137,550404.0349,averageOther,East Midlands,516,Other
+Lincolnshire,206873.4499,5568,3128,2446,513,688,12343,235617.6999,averageDetached,East Midlands,5568,Detached
+Lincolnshire,206873.4499,5568,3128,2446,513,688,12343,150845.4783,averageSemi-Detached,East Midlands,3128,Semi-Detached
+Lincolnshire,206873.4499,5568,3128,2446,513,688,12343,133200.5977,averageTerraced,East Midlands,2446,Terraced
+Lincolnshire,206873.4499,5568,3128,2446,513,688,12343,116963.4211,averageFlats,East Midlands,513,Flats
+Lincolnshire,206873.4499,5568,3128,2446,513,688,12343,557941.9855,averageOther,East Midlands,688,Other
+Norfolk,261054.7776,5592,3437,3543,1283,908,14763,315193.9426,averageDetached,East of England,5592,Detached
+Norfolk,261054.7776,5592,3437,3543,1283,908,14763,208137.9348,averageSemi-Detached,East of England,3437,Semi-Detached
+Norfolk,261054.7776,5592,3437,3543,1283,908,14763,176584.9997,averageTerraced,East of England,3543,Terraced
+Norfolk,261054.7776,5592,3437,3543,1283,908,14763,147741.8114,averageFlats,East of England,1283,Flats
+Norfolk,261054.7776,5592,3437,3543,1283,908,14763,617647.2192,averageOther,East of England,908,Other
+North Yorkshire,262791.2585,3098,2619,2491,1107,730,10045,345388.3405,averageDetached,Yorkshire and the Humber,3098,Detached
+North Yorkshire,262791.2585,3098,2619,2491,1107,730,10045,209210.9637,averageSemi-Detached,Yorkshire and the Humber,2619,Semi-Detached
+North Yorkshire,262791.2585,3098,2619,2491,1107,730,10045,181835.9643,averageTerraced,Yorkshire and the Humber,2491,Terraced
+North Yorkshire,262791.2585,3098,2619,2491,1107,730,10045,162981.8591,averageFlats,Yorkshire and the Humber,1107,Flats
+North Yorkshire,262791.2585,3098,2619,2491,1107,730,10045,532092.1836,averageOther,Yorkshire and the Humber,730,Other
+Nottinghamshire,200279.3552,4671,4472,2525,723,528,12919,264867.1651,averageDetached,East Midlands,4671,Detached
+Nottinghamshire,200279.3552,4671,4472,2525,723,528,12919,150755.3772,averageSemi-Detached,East Midlands,4472,Semi-Detached
+Nottinghamshire,200279.3552,4671,4472,2525,723,528,12919,120884.0919,averageTerraced,East Midlands,2525,Terraced
+Nottinghamshire,200279.3552,4671,4472,2525,723,528,12919,136256.3416,averageFlats,East Midlands,723,Flats
+Nottinghamshire,200279.3552,4671,4472,2525,723,528,12919,515702.1742,averageOther,East Midlands,528,Other
+Oxfordshire,462675.2215,2458,2511,2271,1343,494,9077,575770.4626,averageDetached,South East,2458,Detached
+Oxfordshire,462675.2215,2458,2511,2271,1343,494,9077,365236.4409,averageSemi-Detached,South East,2511,Semi-Detached
+Oxfordshire,462675.2215,2458,2511,2271,1343,494,9077,332468.7248,averageTerraced,South East,2271,Terraced
+Oxfordshire,462675.2215,2458,2511,2271,1343,494,9077,254987.7126,averageFlats,South East,1343,Flats
+Oxfordshire,462675.2215,2458,2511,2271,1343,494,9077,1558432.215,averageOther,South East,494,Other
+Somerset,276744.0846,2740,2250,2750,952,619,9311,360128.5839,averageDetached,South West,2740,Detached
+Somerset,276744.0846,2740,2250,2750,952,619,9311,218257.1884,averageSemi-Detached,South West,2250,Semi-Detached
+Somerset,276744.0846,2740,2250,2750,952,619,9311,186773.3949,averageTerraced,South West,2750,Terraced
+Somerset,276744.0846,2740,2250,2750,952,619,9311,128476.1534,averageFlats,South West,952,Flats
+Somerset,276744.0846,2740,2250,2750,952,619,9311,747975.8384,averageOther,South West,619,Other
+Staffordshire,225687.025,4128,4234,2766,902,613,12643,295839.259,averageDetached,West Midlands,4128,Detached
+Staffordshire,225687.025,4128,4234,2766,902,613,12643,164876.9247,averageSemi-Detached,West Midlands,4234,Semi-Detached
+Staffordshire,225687.025,4128,4234,2766,902,613,12643,140211.2802,averageTerraced,West Midlands,2766,Terraced
+Staffordshire,225687.025,4128,4234,2766,902,613,12643,110788.6242,averageFlats,West Midlands,902,Flats
+Staffordshire,225687.025,4128,4234,2766,902,613,12643,728045.6069,averageOther,West Midlands,613,Other
+Suffolk,294662.4975,3868,2901,3080,1008,610,11467,360946.7133,averageDetached,East of England,3868,Detached
+Suffolk,294662.4975,3868,2901,3080,1008,610,11467,229353.8073,averageSemi-Detached,East of England,2901,Semi-Detached
+Suffolk,294662.4975,3868,2901,3080,1008,610,11467,194125.461,averageTerraced,East of England,3080,Terraced
+Suffolk,294662.4975,3868,2901,3080,1008,610,11467,150276.8373,averageFlats,East of England,1008,Flats
+Suffolk,294662.4975,3868,2901,3080,1008,610,11467,931167.3852,averageOther,East of England,610,Other
+Surrey,555550.4759,4411,4064,2852,4146,1244,16717,866160.509,averageDetached,South East,4411,Detached
+Surrey,555550.4759,4411,4064,2852,4146,1244,16717,476500.281,averageSemi-Detached,South East,4064,Semi-Detached
+Surrey,555550.4759,4411,4064,2852,4146,1244,16717,404711.5207,averageTerraced,South East,2852,Terraced
+Surrey,555550.4759,4411,4064,2852,4146,1244,16717,297993.8234,averageFlats,South East,4146,Flats
+Surrey,555550.4759,4411,4064,2852,4146,1244,16717,916629.0273,averageOther,South East,1244,Other
+Warwickshire,316440.6603,2496,2572,2288,1098,443,8897,399518.1631,averageDetached,West Midlands,2496,Detached
+Warwickshire,316440.6603,2496,2572,2288,1098,443,8897,233538.4545,averageSemi-Detached,West Midlands,2572,Semi-Detached
+Warwickshire,316440.6603,2496,2572,2288,1098,443,8897,204971.3304,averageTerraced,West Midlands,2288,Terraced
+Warwickshire,316440.6603,2496,2572,2288,1098,443,8897,173596.3415,averageFlats,West Midlands,1098,Flats
+Warwickshire,316440.6603,2496,2572,2288,1098,443,8897,1259438.212,averageOther,West Midlands,443,Other
+West Sussex,395339.4473,3552,2943,3085,3251,826,13657,542687.8956,averageDetached,South East,3552,Detached
+West Sussex,395339.4473,3552,2943,3085,3251,826,13657,345587.8502,averageSemi-Detached,South East,2943,Semi-Detached
+West Sussex,395339.4473,3552,2943,3085,3251,826,13657,302296.8606,averageTerraced,South East,3085,Terraced
+West Sussex,395339.4473,3552,2943,3085,3251,826,13657,204915.1658,averageFlats,South East,3251,Flats
+West Sussex,395339.4473,3552,2943,3085,3251,826,13657,1035948.384,averageOther,South East,826,Other
+Worcestershire,270965.9339,3062,2414,1905,867,499,8747,360809.5278,averageDetached,West Midlands,3062,Detached
+Worcestershire,270965.9339,3062,2414,1905,867,499,8747,211100.8119,averageSemi-Detached,West Midlands,2414,Semi-Detached
+Worcestershire,270965.9339,3062,2414,1905,867,499,8747,172645.5307,averageTerraced,West Midlands,1905,Terraced
+Worcestershire,270965.9339,3062,2414,1905,867,499,8747,137359.1488,averageFlats,West Midlands,867,Flats
+Worcestershire,270965.9339,3062,2414,1905,867,499,8747,616759.0621,averageOther,West Midlands,499,Other
+Isle of Anglesey,202618.6555,453,174,204,28,96,955,230509.3046,averageDetached,Wales,453,Detached
+Isle of Anglesey,202618.6555,453,174,204,28,96,955,145798.5575,averageSemi-Detached,Wales,174,Semi-Detached
+Isle of Anglesey,202618.6555,453,174,204,28,96,955,119870.8676,averageTerraced,Wales,204,Terraced
+Isle of Anglesey,202618.6555,453,174,204,28,96,955,146348.2143,averageFlats,Wales,28,Flats
+Isle of Anglesey,202618.6555,453,174,204,28,96,955,366247.3438,averageOther,Wales,96,Other
+Gwynedd,184433.9484,505,308,613,97,242,1765,246711.2812,averageDetached,Wales,505,Detached
+Gwynedd,184433.9484,505,308,613,97,242,1765,158424.5292,averageSemi-Detached,Wales,308,Semi-Detached
+Gwynedd,184433.9484,505,308,613,97,242,1765,124843.0473,averageTerraced,Wales,613,Terraced
+Gwynedd,184433.9484,505,308,613,97,242,1765,111010.9175,averageFlats,Wales,97,Flats
+Gwynedd,184433.9484,505,308,613,97,242,1765,267955.0413,averageOther,Wales,242,Other
+Conwy,177624.4333,712,576,273,294,222,2077,231048.7008,averageDetached,Wales,712,Detached
+Conwy,177624.4333,712,576,273,294,222,2077,151535.7361,averageSemi-Detached,Wales,576,Semi-Detached
+Conwy,177624.4333,712,576,273,294,222,2077,126832.6007,averageTerraced,Wales,273,Terraced
+Conwy,177624.4333,712,576,273,294,222,2077,116799.4898,averageFlats,Wales,294,Flats
+Conwy,177624.4333,712,576,273,294,222,2077,216983.509,averageOther,Wales,222,Other
+Denbighshire,174848.2427,529,355,187,35,85,1191,194671.5974,averageDetached,Wales,529,Detached
+Denbighshire,174848.2427,529,355,187,35,85,1191,131986.8451,averageSemi-Detached,Wales,355,Semi-Detached
+Denbighshire,174848.2427,529,355,187,35,85,1191,113428.6257,averageTerraced,Wales,187,Terraced
+Denbighshire,174848.2427,529,355,187,35,85,1191,87902.94286,averageFlats,Wales,35,Flats
+Denbighshire,174848.2427,529,355,187,35,85,1191,401410.5412,averageOther,Wales,85,Other
+Flintshire,191417.6006,798,801,318,55,96,2068,224496.7644,averageDetached,Wales,798,Detached
+Flintshire,191417.6006,798,801,318,55,96,2068,141021.201,averageSemi-Detached,Wales,801,Semi-Detached
+Flintshire,191417.6006,798,801,318,55,96,2068,117819.2138,averageTerraced,Wales,318,Terraced
+Flintshire,191417.6006,798,801,318,55,96,2068,109929.4909,averageFlats,Wales,55,Flats
+Flintshire,191417.6006,798,801,318,55,96,2068,627422.5625,averageOther,Wales,96,Other
+Wrexham,179009.7189,511,523,316,89,94,1533,238092.9139,averageDetached,Wales,511,Detached
+Wrexham,179009.7189,511,523,316,89,94,1533,141606.1989,averageSemi-Detached,Wales,523,Semi-Detached
+Wrexham,179009.7189,511,523,316,89,94,1533,115020.7247,averageTerraced,Wales,316,Terraced
+Wrexham,179009.7189,511,523,316,89,94,1533,95932.47191,averageFlats,Wales,89,Flats
+Wrexham,179009.7189,511,523,316,89,94,1533,359700.4149,averageOther,Wales,94,Other
+Ceredigion,203143.1092,419,173,158,45,112,907,231271.8234,averageDetached,Wales,419,Detached
+Ceredigion,203143.1092,419,173,158,45,112,907,153580.2428,averageSemi-Detached,Wales,173,Semi-Detached
+Ceredigion,203143.1092,419,173,158,45,112,907,142920.5696,averageTerraced,Wales,158,Terraced
+Ceredigion,203143.1092,419,173,158,45,112,907,138249.4444,averageFlats,Wales,45,Flats
+Ceredigion,203143.1092,419,173,158,45,112,907,285498.6518,averageOther,Wales,112,Other
+Pembrokeshire,195520.5289,739,350,350,117,193,1749,237186.7185,averageDetached,Wales,739,Detached
+Pembrokeshire,195520.5289,739,350,350,117,193,1749,144856.4971,averageSemi-Detached,Wales,350,Semi-Detached
+Pembrokeshire,195520.5289,739,350,350,117,193,1749,132085.9943,averageTerraced,Wales,350,Terraced
+Pembrokeshire,195520.5289,739,350,350,117,193,1749,134002.4359,averageFlats,Wales,117,Flats
+Pembrokeshire,195520.5289,739,350,350,117,193,1749,280187.8912,averageOther,Wales,193,Other
+Carmarthenshire,161032.6787,1036,778,612,35,272,2733,204300.5743,averageDetached,Wales,1036,Detached
+Carmarthenshire,161032.6787,1036,778,612,35,272,2733,117211.1054,averageSemi-Detached,Wales,778,Semi-Detached
+Carmarthenshire,161032.6787,1036,778,612,35,272,2733,98767.33987,averageTerraced,Wales,612,Terraced
+Carmarthenshire,161032.6787,1036,778,612,35,272,2733,109381.2857,averageFlats,Wales,35,Flats
+Carmarthenshire,161032.6787,1036,778,612,35,272,2733,268318.8199,averageOther,Wales,272,Other
+Swansea,176849.0454,747,965,916,317,186,3131,249703.5462,averageDetached,Wales,747,Detached
+Swansea,176849.0454,747,965,916,317,186,3131,149767.8777,averageSemi-Detached,Wales,965,Semi-Detached
+Swansea,176849.0454,747,965,916,317,186,3131,115151.7467,averageTerraced,Wales,916,Terraced
+Swansea,176849.0454,747,965,916,317,186,3131,129919.6372,averageFlats,Wales,317,Flats
+Swansea,176849.0454,747,965,916,317,186,3131,408582.1774,averageOther,Wales,186,Other
+Neath Port Talbot,139792.9225,384,686,605,53,78,1806,196331.3516,averageDetached,Wales,384,Detached
+Neath Port Talbot,139792.9225,384,686,605,53,78,1806,110302.6531,averageSemi-Detached,Wales,686,Semi-Detached
+Neath Port Talbot,139792.9225,384,686,605,53,78,1806,85900.22314,averageTerraced,Wales,605,Terraced
+Neath Port Talbot,139792.9225,384,686,605,53,78,1806,72680.24528,averageFlats,Wales,53,Flats
+Neath Port Talbot,139792.9225,384,686,605,53,78,1806,584429.1154,averageOther,Wales,78,Other
+Bridgend,162116.1455,535,674,584,78,81,1952,235695.3215,averageDetached,Wales,535,Detached
+Bridgend,162116.1455,535,674,584,78,81,1952,147093.2226,averageSemi-Detached,Wales,674,Semi-Detached
+Bridgend,162116.1455,535,674,584,78,81,1952,102069.1062,averageTerraced,Wales,584,Terraced
+Bridgend,162116.1455,535,674,584,78,81,1952,112768.6282,averageFlats,Wales,78,Flats
+Bridgend,162116.1455,535,674,584,78,81,1952,281587.358,averageOther,Wales,81,Other
+Vale of Glamorgan,247441.4665,555,482,681,229,85,2032,355149.409,averageDetached,Wales,555,Detached
+Vale of Glamorgan,247441.4665,555,482,681,229,85,2032,214998.556,averageSemi-Detached,Wales,482,Semi-Detached
+Vale of Glamorgan,247441.4665,555,482,681,229,85,2032,175234.743,averageTerraced,Wales,681,Terraced
+Vale of Glamorgan,247441.4665,555,482,681,229,85,2032,147898.6026,averageFlats,Wales,229,Flats
+Vale of Glamorgan,247441.4665,555,482,681,229,85,2032,574825.8118,averageOther,Wales,85,Other
+Cardiff,280251.3672,567,1167,1756,1079,232,4801,370886.7601,averageDetached,Wales,567,Detached
+Cardiff,280251.3672,567,1167,1756,1079,232,4801,233479.8063,averageSemi-Detached,Wales,1167,Semi-Detached
+Cardiff,280251.3672,567,1167,1756,1079,232,4801,194360.7659,averageTerraced,Wales,1756,Terraced
+Cardiff,280251.3672,567,1167,1756,1079,232,4801,139745.8526,averageFlats,Wales,1079,Flats
+Cardiff,280251.3672,567,1167,1756,1079,232,4801,1597585.375,averageOther,Wales,232,Other
+Rhondda Cynon Taf,134992.1188,525,732,1661,64,141,3123,223815.2895,averageDetached,Wales,525,Detached
+Rhondda Cynon Taf,134992.1188,525,732,1661,64,141,3123,132326.1161,averageSemi-Detached,Wales,732,Semi-Detached
+Rhondda Cynon Taf,134992.1188,525,732,1661,64,141,3123,81113.83745,averageTerraced,Wales,1661,Terraced
+Rhondda Cynon Taf,134992.1188,525,732,1661,64,141,3123,81462.34375,averageFlats,Wales,64,Flats
+Rhondda Cynon Taf,134992.1188,525,732,1661,64,141,3123,477099.0709,averageOther,Wales,141,Other
+Caerphilly,145605.3977,412,768,867,51,117,2215,223521.8568,averageDetached,Wales,412,Detached
+Caerphilly,145605.3977,412,768,867,51,117,2215,126861.8242,averageSemi-Detached,Wales,768,Semi-Detached
+Caerphilly,145605.3977,412,768,867,51,117,2215,97899.05075,averageTerraced,Wales,867,Terraced
+Caerphilly,145605.3977,412,768,867,51,117,2215,94801.96078,averageFlats,Wales,51,Flats
+Caerphilly,145605.3977,412,768,867,51,117,2215,369929,averageOther,Wales,117,Other
+Blaenau Gwent,105248.6878,88,143,461,12,52,756,181467.6932,averageDetached,Wales,88,Detached
+Blaenau Gwent,105248.6878,88,143,461,12,52,756,113552.8322,averageSemi-Detached,Wales,143,Semi-Detached
+Blaenau Gwent,105248.6878,88,143,461,12,52,756,71389.31887,averageTerraced,Wales,461,Terraced
+Blaenau Gwent,105248.6878,88,143,461,12,52,756,39370.83333,averageFlats,Wales,12,Flats
+Blaenau Gwent,105248.6878,88,143,461,12,52,756,268805.1923,averageOther,Wales,52,Other
+Torfaen,147120.4632,281,291,491,45,60,1168,233468.7829,averageDetached,Wales,281,Detached
+Torfaen,147120.4632,281,291,491,45,60,1168,134487.9381,averageSemi-Detached,Wales,291,Semi-Detached
+Torfaen,147120.4632,281,291,491,45,60,1168,105399.9185,averageTerraced,Wales,491,Terraced
+Torfaen,147120.4632,281,291,491,45,60,1168,70952,averageFlats,Wales,45,Flats
+Torfaen,147120.4632,281,291,491,45,60,1168,202529.7167,averageOther,Wales,60,Other
+Monmouthshire,284736.9104,600,363,230,81,87,1361,338814.4717,averageDetached,Wales,600,Detached
+Monmouthshire,284736.9104,600,363,230,81,87,1361,194567.0275,averageSemi-Detached,Wales,363,Semi-Detached
+Monmouthshire,284736.9104,600,363,230,81,87,1361,172417.3,averageTerraced,Wales,230,Terraced
+Monmouthshire,284736.9104,600,363,230,81,87,1361,135680.8642,averageFlats,Wales,81,Flats
+Monmouthshire,284736.9104,600,363,230,81,87,1361,723727.4943,averageOther,Wales,87,Other
+Newport,220677.4452,653,756,805,244,96,2554,284186.3844,averageDetached,Wales,653,Detached
+Newport,220677.4452,653,756,805,244,96,2554,163405.6323,averageSemi-Detached,Wales,756,Semi-Detached
+Newport,220677.4452,653,756,805,244,96,2554,119925.3752,averageTerraced,Wales,805,Terraced
+Newport,220677.4452,653,756,805,244,96,2554,96026.7582,averageFlats,Wales,244,Flats
+Newport,220677.4452,653,756,805,244,96,2554,1401368.458,averageOther,Wales,96,Other
+Powys,205333.8177,771,366,351,40,233,1761,243101.5447,averageDetached,Wales,771,Detached
+Powys,205333.8177,771,366,351,40,233,1761,156989.7322,averageSemi-Detached,Wales,366,Semi-Detached
+Powys,205333.8177,771,366,351,40,233,1761,130440.3647,averageTerraced,Wales,351,Terraced
+Powys,205333.8177,771,366,351,40,233,1761,94598.75,averageFlats,Wales,40,Flats
+Powys,205333.8177,771,366,351,40,233,1761,288132.1974,averageOther,Wales,233,Other
+Merthyr Tydfil,116891.9733,148,126,378,15,44,711,212384.9054,averageDetached,Wales,148,Detached
+Merthyr Tydfil,116891.9733,148,126,378,15,44,711,121418.6111,averageSemi-Detached,Wales,126,Semi-Detached
+Merthyr Tydfil,116891.9733,148,126,378,15,44,711,73866.09259,averageTerraced,Wales,378,Terraced
+Merthyr Tydfil,116891.9733,148,126,378,15,44,711,72799.66667,averageFlats,Wales,15,Flats
+Merthyr Tydfil,116891.9733,148,126,378,15,44,711,167388.7273,averageOther,Wales,44,Other
