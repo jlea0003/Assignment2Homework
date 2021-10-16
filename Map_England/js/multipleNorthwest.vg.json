@@ -2,13 +2,14 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": "North West Average Housing Prices 2017 without Cumbria",
     "repeat": ["Average","averageDetached", "averageSemi-Detached", "averageTerraced", "averageFlats", "averageOther"], 
-    "columns": 2, 
+    "columns": 1,
+    "background": "#ececec",  
     "spec": {
     "projection": {
       "type": "azimuthalEqualArea"
       },
-      "width": 180,
-      "height": 150,
+      "width": 200,
+      "height": 100,
     "layer": [
       {
     "data": {
@@ -87,6 +88,9 @@
             "#006837",
             "#004529"
           ]
+        },
+        "legend":{
+          "format":"$,.2r"
         } 
       },
       "tooltip": [  
@@ -95,7 +99,7 @@
                 "field": {"repeat": "repeat"},  
                 "type": "quantitative",  
                 "title": "Median Price",  
-                "format": ".0f"  
+                "format": "$,.2r"  
               }
       ]
     }
@@ -115,6 +119,8 @@
       },
           "mark": {  
             "type": "text",  
+            "color": "#190739",
+            "font": "sans-serif",  
             "align": "right",  
             "baseline": "bottom",  
             "x": "width",  

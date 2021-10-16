@@ -1,0 +1,58 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "A simple radial chart with embedded data.",
+    "background": "#ececec",
+    "data": {"url": "https://raw.githubusercontent.com/jlea0003/Assignment2Homework/master/Map_England/data/price_paid_2017_dupe.csv"},
+    "params": [ 
+      { 
+        "name": "Continent_selection", 
+        "bind": { 
+          "input": "select", 
+          "options": [ 
+            null, 
+            "East Midlands", 
+            "East of England", 
+            "London", 
+            "North East", 
+            "North West", 
+            "South West", 
+            "South East", 
+            "Wales", 
+            "West Midlands", 
+            "Yorkshire and the Humber"
+          ], 
+          "labels":[ 
+            "Show All"
+          ], 
+          "name": "Region Selection: " 
+        } 
+      } 
+    ],
+    "transform": [ 
+      {"filter": "Continent_selection == null || datum.regions == Continent_selection"}],
+    "layer": [{
+      "mark": {"type": "arc", "innerRadius": 20, "stroke": "#fff"}
+    },{
+      "mark": {"type": "text", "radiusOffset": 35},
+      "encoding": {
+        "text": {"field": "Type", "type": "nominal"}
+      }
+    }],
+    "encoding": {
+      "theta": {"aggregate":"mean","field": "averagesValue", "type": "quantitative", "stack": true},
+      "radius": {"aggregate":"mean","field": "averagesValue", "scale": {"type": "sqrt", "zero": true, "rangeMin": 20}},
+      "color": {"field": "Type", "type": "nominal", "legend": null},
+      "tooltip": [
+                    {
+                        "aggregate":"mean","field": "averagesValue",
+                        "type": "quantitative",
+                        "format": "$,.2r",
+                        "title": "Average price"
+                    }
+                ]
+    },
+      "config": { "title": { "font": "sans-serif", "fontSize": 14, "color": "#190739" },
+      "legend": { "titleFont": "sans-serif","titleColor": "#190739", "labelColor": "#190739", "labelFont":"sans-serif"},
+      "axis": { "titleFont": "sans-serif","titleColor": "#190739", "labelColor": "#190739", "labelFont":"sans-serif"}
+    }
+  }

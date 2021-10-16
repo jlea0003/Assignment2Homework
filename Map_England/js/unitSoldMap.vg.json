@@ -1,6 +1,9 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "data": {"url": "https://raw.githubusercontent.com/jlea0003/Assignment2Homework/master/Map_England/data/price_paid_2017_dupe.csv"},
+    "background": "#ececec",
+    "width": 75,
+  "height": 450, 
     "params": [{
       "name": "industry",
       "select": {"type": "point", "fields": ["regions"]},
@@ -8,13 +11,21 @@
     }],
     "mark": {"type": "bar", "cornerRadiusTopLeft": 3, "cornerRadiusTopRight": 3},
     "encoding": {
-      "x": {"field": "Type", "type": "ordinal", "axis": {"labelAngle": -40},"title":"Type of Housing"},
+      "x": {"field": "Type", "type": "ordinal", "axis": {"labelAngle": -40},"title":"Type of Housing","sort": "-y"},
       "y": {"aggregate": "sum", "field": "numberSold", "type": "quantitative",
       "title":"Total Number Sold"},
-      "color": {"field": "regions"},
+      "color": {"field": "regions","title": "Regions of the UK", "scale": {
+        "range": [
+            "#ffffb3","#bebada","#fb8072","#80b1d3","#fdb462","#b3de69","#fccde5","#8dd3c7","#bc80bd","#ccebc5"
+        ]
+    }},
       "opacity": {
         "condition": {"param": "industry", "value": 1},
         "value": 0.2
       }
-    }
+    },
+    "config": { "title": { "font": "sans-serif", "fontSize": 14, "color": "#190739" },
+    "legend": { "titleFont": "sans-serif","titleColor": "#190739", "labelColor": "#190739", "labelFont":"sans-serif"},
+    "axis": { "titleFont": "sans-serif","titleColor": "#190739", "labelColor": "#190739", "labelFont":"sans-serif"}
+  }
   }

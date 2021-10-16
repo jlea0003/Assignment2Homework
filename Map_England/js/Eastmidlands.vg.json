@@ -1,0 +1,239 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "East Midlands Housing Prices 2017",
+    "width": 200,
+    "height": 150,
+    "params": [
+        {
+            "name": "Property_selection",
+            "bind": {
+                "input": "select",
+                "options": [
+                    null,
+                    "averageDetached",
+                    "averageSemi-Detached",
+                    "averageTerraced",
+                    "averageFlats",
+                    "averageOther"
+                ],
+                "labels": [
+                    "Show All",
+                    "Detached",
+                    "Semi-Detached",
+                    "Terraced",
+                    "Flats",
+                    "Other"
+                ],
+                "name": "Property Selection: "
+            }
+        }
+    ],
+    "projection": {
+        "type": "azimuthalEqualArea"
+    },
+    "background": "#ececec",
+    "layer": [{
+      
+      "params": [
+        {
+            "name": "pts",
+            "select": { "type": "point", "on": "mouseover" }
+        }
+      ],
+            "data": {
+                "url": "https://raw.githubusercontent.com/jlea0003/Assignment2Homework/master/Map_England/js/Counties_and_Unitary_Authorities_(May_2021)_UK_BUC.json",
+                "format": {
+                    "type": "topojson",
+                    "feature": "Counties_and_Unitary_Authorities_(May_2021)_UK_BUC"
+                }
+            },
+            "transform": [
+        {
+        "filter": {
+            "field": "properties.CTYUA21NM",
+            "oneOf":[
+              "Derby",
+              "Leicester",
+              "Rutland",
+              "Nottingham",
+              "North Northamptonshire",
+              "West Northamptonshire",
+              "Derbyshire",
+              "Leicestershire",
+              "Lincolnshire",
+              "Nottinghamshire"
+  
+            ]
+          }
+        },
+        {
+          "lookup": "properties.CTYUA21NM",
+          "from": {
+            "data": {
+              "url": "https://raw.githubusercontent.com/jlea0003/Assignment2Homework/master/Map_England/data/price_paid_2017.csv" 
+            },
+            "key": "Unique",
+            "fields": [
+              "Average",
+              "averageDetached",
+              "averageSemi-Detached",
+              "averageTerraced",
+              "averageFlats",
+              "averageOther"
+            ]
+          }
+        }
+      ],
+            "mark": { "type": "geoshape" },
+            "encoding": {
+                "color": {
+                    "condition": [{
+                            "test": "Property_selection == 'averageDetached'",
+                            "field": "averageDetached"
+                        },
+                        {
+                            "test": "Property_selection == 'averageSemi-Detached'",
+                            "field": "averageSemi-Detached"
+                        },
+                        {
+                            "test": "Property_selection == 'averageTerraced'",
+                            "field": "averageTerraced"
+                        },
+                        {
+                            "test": "Property_selection == 'averageFlats'",
+                            "field": "averageFlats"
+                        },
+                        {
+                            "test": "Property_selection == 'averageOther'",
+                            "field": "averageOther"
+                        }
+                    ],
+                    "field": "Average",
+                    "type": "quantitative",
+                    "title": "Average House Price",
+                    "scale": {
+                        "type": "threshold",
+                        "domain": [100000, 150000, 200000, 250000, 400000, 500000,700000, 1000000],
+                        "range": [
+                          "#ffffe5",
+                          "#f7fcb9",
+                          "#d9f0a3",
+                          "#addd8e",
+                          "#78c679",
+                          "#41ab5d",
+                          "#238443",
+                          "#006837",
+                          "#004529"
+              ]
+                    },
+                    "legend":{
+                      "format":"$,.2r"
+                    }
+                },
+                "tooltip": [{
+                        "field": "properties.CTYUA21NM",
+                        "type": "nominal",
+                        "title": "District and/ or County"
+                    },
+                    {
+                        "field": "Average",
+                        "type": "quantitative",
+                        "format": "$,.2r",
+                        "title": "Average price in pounds"
+                    },
+                    {
+                        "field": "averageDetached",
+                        "type": "quantitative",
+                        "format": "$,.2r",
+                        "title": "Average; Detached"
+                    },
+                    {
+                        "field": "averageSemi-Detached",
+                        "type": "quantitative",
+                        "format": "$,.2r",
+                        "title": "Average; Semi-Detached"
+                    },
+                    {
+                        "field": "averageTerraced",
+                        "type": "quantitative",
+                        "format": "$,.2r",
+                        "title": "Average; Terraced"
+                    },
+                    {
+                        "field": "averageFlats",
+                        "type": "quantitative",
+                        "format": "$,.2r",
+                        "title": "Average; Flats"
+                    },
+                    {
+                        "field": "averageOther",
+                        "type": "quantitative",
+                        "format": "$,.2r",
+                        "title": "Average; Other"
+                    }
+                ],
+                "stroke": {
+                    "condition": {
+                        "param": "pts",
+                        "empty": false,
+                        "value": "black"
+                    },
+                    "value": "lightslategrey"
+                },
+                "strokeWidth": {
+                    "condition": {
+                        "param": "pts",
+                        "empty": false,
+                        "value": 2
+                    },
+                    "value": 1
+                },
+                "opacity": {
+                    "condition": { "param": "pts", "value": 1 },
+                    "value": 0.9
+                }
+            }
+        },
+        {
+            "data": {
+                "url": "https://raw.githubusercontent.com/jlea0003/Assignment2Homework/master/Map_England/data/gb.csv"
+            },
+            "transform": [
+        {
+        "filter": {
+            "field": "city",
+            "oneOf":[
+              "Nottingham",
+              "Leicester"
+            ]}}],
+            "encoding": {
+                "longitude": {
+                    "field": "lng",
+                    "type": "quantitative"
+                },
+                "latitude": {
+                    "field": "lat",
+                    "type": "quantitative"
+                }
+            },
+            "layer": [{
+                "mark": {
+                    "type": "circle",
+                    "color": "black"
+                }
+            }, {
+                "mark": {
+                  "opacity": 0.8,
+                    "type": "text",
+                    "dy": -12
+                },
+                "encoding": {
+                    "text": { "field": "city", "type": "nominal" }
+                }
+            }]
+        }
+    ],
+    "config": { "title": { "font": "sans-serif", "fontSize": 14, "color": "#190739" },
+    "legend": { "titleFont": "sans-serif","titleColor": "#190739", "labelColor": "#190739", "labelFont":"sans-serif"}
+     }
+  }

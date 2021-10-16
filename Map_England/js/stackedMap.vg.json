@@ -1,32 +1,37 @@
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 300, "height": 200,
-    "data": {"url": "https://raw.githubusercontent.com/jlea0003/Assignment2Homework/master/Map_England/data/price_paid_2017_dupe.csv"},
-    "mark": "area",
-    "params": [{
-      "name": "industry",
-      "select": {"type": "point", "fields": ["regions"]},
-      "bind": "legend"
-    }],
-    "encoding": {
-      "x": {
-        "field": "Type",
-        "axis": {"domain": false, "tickSize": 0},
-        "type":"nominal"
-      },
-      "y": {
-        "field": "numberSold",
-        "aggregate":"sum",
-        "type":"quantitative",
-        "stack": "center"
-      },
-      "color": {
-        "field":"regions",
-        "scale": {"scheme": "category20b"}
-      },
-      "opacity": {
-        "condition": {"param": "industry", "value": 1},
-        "value": 0.2
-      }
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 300, "height": 200,
+  "data": {"url": "https://raw.githubusercontent.com/jlea0003/Assignment2Homework/master/Map_England/data/price_paid_2017_dupe.csv"},
+  "mark": "area",
+  "params": [{
+    "name": "industry",
+    "select": {"type": "point", "fields": ["regions"]},
+    "bind": "legend"
+  }],
+  "encoding": {
+    "x": {
+      "field": "Type",
+      "axis": {"domain": false, "tickSize": 0},
+      "type":"nominal"
+    },
+    "y": {
+      "field": "numberSold",
+      "aggregate":"sum",
+      "type":"quantitative",
+      "stack": "center",
+      "title": "Number sold"
+    },
+    "color": {
+      "field":"regions",
+      "title": "Regions of the UK", "scale": {
+      "range": [
+          "#ffffb3","#bebada","#fb8072","#80b1d3","#fdb462","#b3de69","#fccde5","#8dd3c7","#bc80bd","#ccebc5"
+      ]
+  }
+    },
+    "opacity": {
+      "condition": {"param": "industry", "value": 1},
+      "value": 0.2
     }
   }
+}

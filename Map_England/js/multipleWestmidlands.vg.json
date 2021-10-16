@@ -2,7 +2,8 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": "West Midlands Average Housing Prices 2017",
     "repeat": ["Average","averageDetached", "averageSemi-Detached", "averageTerraced", "averageFlats", "averageOther"], 
-    "columns": 2, 
+    "columns": 1, 
+    "background": "#ececec", 
     "spec": {
     "projection": {
       "type": "azimuthalEqualArea"
@@ -79,7 +80,10 @@
             "#006837",
             "#004529"
           ]
-        } 
+        },
+        "legend":{
+          "format":"$,.2r"
+        }
       },
       "tooltip": [  
               {"field": "properties.CTYUA21NM", "type": "nominal", "title": "District and/ or County"},  
@@ -87,7 +91,7 @@
                 "field": {"repeat": "repeat"},  
                 "type": "quantitative",  
                 "title": "Median Price",  
-                "format": ".0f"  
+                "format": "$,.2r"  
               }
       ]
     }
@@ -107,6 +111,8 @@
       },
           "mark": {  
             "type": "text",  
+            "color": "#190739",
+            "font": "sans-serif",  
             "align": "right",  
             "baseline": "bottom",  
             "x": "width",  

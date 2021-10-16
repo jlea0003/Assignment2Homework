@@ -2,14 +2,14 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": "Wales Average Housing Prices 2017",
     "repeat": ["Average","averageDetached", "averageSemi-Detached", "averageTerraced", "averageFlats", "averageOther"], 
-    "columns": 2,
+    "columns": 1,
     "background": "#ececec", 
     "spec": {
     "projection": {
       "type": "azimuthalEqualArea"
       },
-      "width": 180,
-      "height": 150,
+      "width": 200,
+      "height": 100,
     "layer": [
       {
     "data": {
@@ -121,6 +121,7 @@
           "mark": {  
             "type": "text",  
             "color": "#190739",
+            "font": "sans-serif",
             "align": "right",  
             "baseline": "bottom",  
             "x": "width",  
