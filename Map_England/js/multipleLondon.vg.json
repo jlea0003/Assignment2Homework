@@ -3,6 +3,7 @@
     "title": "London Average Housing Prices 2017",
     "repeat": ["Average","averageDetached", "averageSemi-Detached", "averageTerraced", "averageFlats", "averageOther"], 
     "columns": 2, 
+    "background": "#ececec",
     "spec": {
     "projection": {
       "type": "azimuthalEqualArea"
@@ -86,17 +87,17 @@
         "title": "Average House Price",
         "scale": {
           "type": "threshold",
-          "domain": [200000, 300000, 400000, 600000, 800000, 1000000,2000000, 3000000],
+          "domain": [300000, 400000, 800000, 1000000, 2000000, 3000000,5000000, 10000000],
           "range": [
-            "#ffffe5",
-            "#fff7bc",
-            "#fee391",
-            "#fec44f",
-            "#fe9929",
-            "#ec7014",
-            "#cc4c02",
-            "#993404",
-            "#662506"
+            "#f7fbff",
+            "#deebf7",
+            "#c6dbef",
+            "#9ecae1",
+            "#6baed6",
+            "#4292c6",
+            "#2171b5",
+            "#08519c",
+            "#08306b"
           ]
         } 
       },
@@ -125,7 +126,9 @@
             ]
       },
           "mark": {  
-            "type": "text",  
+            "type": "text",
+            "color": "#190739",
+            "font": "sans-serif",  
             "align": "right",  
             "baseline": "bottom",  
             "x": "width",  
@@ -135,5 +138,7 @@
     }
     ]
   },
-  "config": { "title": { "font": "sans-serif", "fontSize": 14 } } 
+  "config": { "title": { "font": "sans-serif", "fontSize": 14, "color": "#190739" },
+  "legend": { "titleFont": "sans-serif","titleColor": "#190739", "labelColor": "#190739", "labelFont":"sans-serif"}
+   }
   }

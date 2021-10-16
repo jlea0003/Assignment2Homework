@@ -153,5 +153,7 @@
       }
     ]
   },
-  "config": { "title": { "font": "sans-serif", "fontSize": 14 } } 
+  "config": { "title": { "font": "sans-serif", "fontSize": 14, "color": "#190739" },
+  "legend": { "titleFont": "sans-serif","titleColor": "#190739", "labelColor": "#190739", "labelFont":"sans-serif"}
+   }
   }

@@ -1,6 +1,6 @@
 
 .body {
-    font-family: 'Georgia', Serif;
+    font-family: 'Source Sans Pro', sans-serif;
 }
 
 h1 {
@@ -8,12 +8,13 @@ h1 {
 }
 
 body {
-    background-color: lightgray;
+    background-color:    #190739 ;
+    color:  #190739  ;
 }
 
 .page {
     width: 950px;
-    background-color: white;
+    background-color:   #ececec;
     margin: auto;
     padding: 50px;
     padding-top: 35px;
