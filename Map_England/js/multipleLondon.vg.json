@@ -99,6 +99,9 @@
             "#08519c",
             "#08306b"
           ]
+        },
+        "legend":{
+          "format":"$,.2r"
         } 
       },
       "tooltip": [  
@@ -107,7 +110,7 @@
                 "field": {"repeat": "repeat"},  
                 "type": "quantitative",  
                 "title": "Median Price",  
-                "format": ".0f"  
+                "format": "$,.2r"  
               }
       ]
     }

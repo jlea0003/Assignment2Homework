@@ -136,6 +136,9 @@
                           "#993404",
                           "#662506"
                       ]
+                  },
+                  "legend":{
+                    "format":"$,.2r"
                   }
               },
               "tooltip": [{
@@ -146,38 +149,38 @@
                   {
                       "field": "Average",
                       "type": "quantitative",
-                      "format": ".0f",
+                      "format": "$,.2r",
                       "title": "Average price in pounds"
                   },
                   {
                       "field": "averageDetached",
                       "type": "quantitative",
-                      "format": ".0f",
-                      "title": "Average price; Detached"
+                      "format": "$,.2r",
+                      "title": "Average; Detached"
                   },
                   {
                       "field": "averageSemi-Detached",
                       "type": "quantitative",
-                      "format": ".0f",
-                      "title": "Average price; Semi-Detached"
+                      "format": "$,.2r",
+                      "title": "Average; Semi-Detached"
                   },
                   {
                       "field": "averageTerraced",
                       "type": "quantitative",
-                      "format": ".0f",
-                      "title": "Average price; Terraced"
+                      "format": "$,.2r",
+                      "title": "Average; Terraced"
                   },
                   {
                       "field": "averageFlats",
                       "type": "quantitative",
-                      "format": ".0f",
-                      "title": "Average price; Flats"
+                      "format": "$,.2r",
+                      "title": "Average; Flats"
                   },
                   {
                       "field": "averageOther",
                       "type": "quantitative",
-                      "format": ".0f",
-                      "title": "Average price; Other"
+                      "format": "$,.2r",
+                      "title": "Average; Other"
                   }
               ],
               "stroke": {
