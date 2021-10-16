@@ -1,7 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": "Northeast Housing Prices 2017",
-    "width": 200,
+    "width": 180,
     "height": 150,
     "params": [
         {
@@ -112,7 +112,7 @@
                     ],
                     "field": "Average",
                     "type": "quantitative",
-                    "title": "Average House Price",
+                    "title": "Average",
                     "scale": {
                         "type": "threshold",
                         "domain": [100000, 150000, 200000, 250000, 400000, 500000,700000, 1000000],
