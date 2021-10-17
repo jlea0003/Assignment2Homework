@@ -2,7 +2,7 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": "London Average Housing Prices 2017",
     "repeat": ["Average","averageDetached", "averageSemi-Detached", "averageTerraced", "averageFlats", "averageOther"], 
-    "columns": 2, 
+    "columns": 3, 
     "background": "#ececec",
     "spec": {
     "projection": {

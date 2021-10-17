@@ -1,0 +1,228 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "England and Wales number of propeties sold 2017",
+    "width": 400,
+    "height": 300,
+    "params": [{
+            "name": "zoom_level",
+            "value": 2500,
+            "bind": {
+                "input": "range",
+                "min": 2500,
+                "max": 30000,
+                "step": 100,
+                "name": "Zoom: "
+            }
+        },
+        {
+            "name": "center_to",
+            "value": [-2.179404, 53.002666],
+            "bind": {
+                "input": "select",
+                "options": [
+                    [-0.118092, 51.509865],
+                    [-2.983333, 53.400002],
+                    [-2.179404, 53.002666]
+                ],
+                "labels": ["London", "Liverpool", "Centre"],
+                "name": "Map Centre: "
+            }
+        },
+        {
+            "name": "Property_selection",
+            "bind": {
+                "input": "select",
+                "options": [
+                    null,
+                  "Detached",
+                  "Semi-Detached",
+                  "Terraced",
+                  "Flats",
+                  "Other"
+                ],
+                "labels": [
+                    "Show All",
+                    "Detached",
+                    "Semi-Detached",
+                    "Terraced",
+                    "Flats",
+                    "Other"
+                ],
+                "name": "Property Selection: "
+            }
+        }
+    ],
+    "projection": {
+        "type": "azimuthalEqualArea",
+        "center": { "expr": "center_to" },
+        "scale": { "expr": "zoom_level" }
+    },
+    "background": "#ececec",
+    "layer": [{
+      
+      "params": [
+        {
+            "name": "pts",
+            "select": { "type": "point", "on": "mouseover" }
+        }
+      ],
+            "data": {
+                "url": "https://raw.githubusercontent.com/jlea0003/Assignment2Homework/master/Map_England/js/Counties_and_Unitary_Authorities_(May_2021)_UK_BUC.json",
+                "format": {
+                    "type": "topojson",
+                    "feature": "Counties_and_Unitary_Authorities_(May_2021)_UK_BUC"
+                }
+            },
+            "transform": [{
+                "lookup": "properties.CTYUA21NM",
+                "from": {
+                    "data": {
+                        "url": "https://raw.githubusercontent.com/jlea0003/Assignment2Homework/master/Map_England/data/price_paid_2017.csv"
+                    },
+                    "key": "Unique",
+                    "fields": [
+                        "Total",
+                        "Detached",
+                        "Semi-Detached",
+                        "Terraced",
+                        "Flats",
+                        "Other"
+                    ]
+                }
+            }],
+            "mark": { "type": "geoshape" },
+            "encoding": {
+                "color": {
+                    "condition": [{
+                            "test": "Property_selection == 'Detached'",
+                            "field": "Detached"
+                        },
+                        {
+                            "test": "Property_selection == 'Semi-Detached'",
+                            "field": "Semi-Detached"
+                        },
+                        {
+                            "test": "Property_selection == 'Terraced'",
+                            "field": "Terraced"
+                        },
+                        {
+                            "test": "Property_selection == 'Flats'",
+                            "field": "Flats"
+                        },
+                        {
+                            "test": "Property_selection == 'Other'",
+                            "field": "Other"
+                        }
+                    ],
+                    "field": "Total",
+                    "type": "quantitative",
+                    "title": "Number of properties sold",
+                    "scale": {
+                        "type": "threshold",
+                        "domain": [500, 1000, 3000, 6000, 8000, 10000, 15000, 20000],
+                        "range": [
+                            "#f7fcfd",
+                            "#e0ecf4",
+                            "#bfd3e6",
+                            "#9ebcda",
+                            "#8c96c6",
+                            "#8c6bb1",
+                            "#88419d",
+                            "#810f7c",
+                            "#4d004b"
+                        ]
+                    }
+                },
+                "tooltip": [{
+                        "field": "properties.CTYUA21NM",
+                        "type": "nominal",
+                        "title": "District and/ or County"
+                    },
+                    {
+                        "field": "Total",
+                        "type": "quantitative",
+                        "title": "Total number sold"
+                    },
+                    {
+                        "field": "Detached",
+                        "type": "quantitative",
+                        "title": "Sold; Detached"
+                    },
+                    {
+                        "field": "Semi-Detached",
+                        "type": "quantitative",
+                        "title": "Sold; Semi-Detached"
+                    },
+                    {
+                        "field": "Terraced",
+                        "type": "quantitative",
+                        "title": "Sold; Terraced"
+                    },
+                    {
+                        "field": "Flats",
+                        "type": "quantitative",
+                        "title": "Sold; Flats"
+                    },
+                    {
+                        "field": "Other",
+                        "type": "quantitative",
+                        "title": "Sold; Other"
+                    }
+                ],
+                "stroke": {
+                    "condition": {
+                        "param": "pts",
+                        "empty": false,
+                        "value": "black"
+                    },
+                    "value": "#c3c3c3"
+                },
+                "strokeWidth": {
+                    "condition": {
+                        "param": "pts",
+                        "empty": false,
+                        "value": 2
+                    },
+                    "value": 1
+                },
+                "opacity": {
+                    "condition": { "param": "pts", "value": 1 },
+                    "value": 0.9
+                }
+            }
+        },
+        {
+            "data": {
+                "url": "https://raw.githubusercontent.com/jlea0003/Assignment2Homework/master/Map_England/data/gb.csv"
+            },
+            "encoding": {
+                "longitude": {
+                    "field": "lng",
+                    "type": "quantitative"
+                },
+                "latitude": {
+                    "field": "lat",
+                    "type": "quantitative"
+                }
+            },
+            "layer": [{
+                "mark": {
+                    "type": "circle",
+                    "color": "gray"
+                }
+            }, {
+                "mark": {
+                  "opacity": 0.9,
+                    "type": "text",
+                    "dy": -12
+                },
+                "encoding": {
+                    "text": { "field": "city", "type": "nominal" }
+                }
+            }]
+        }
+    ],
+    "config": { "title": { "font": "sans-serif", "fontSize": 14, "color": "#190739" },
+    "legend": { "titleFont": "sans-serif","titleColor": "#190739", "labelColor": "#190739", "labelFont":"sans-serif"}
+     }
+  }

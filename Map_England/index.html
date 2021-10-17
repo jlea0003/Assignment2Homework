@@ -31,7 +31,7 @@
        </div>
      </div>
    <!-- end pure grid group -->
- 
+ <br><br>
      <!-- pure grid group -->
      <div class="pure-g">
          
@@ -46,10 +46,10 @@
         </div>
      </div>
      <!-- end pure grid group -->
- 
+     <br><br>
      <!-- pure grid group -->
      <div class="pure-g">
-      <div class="pure-u-1-4">
+      <div class="pure-u-1-3">
         <div class="description description-left">
           <h2>Map of London</h2>
           <p>London is the most expensive place found within the UK with average housing prices for some property types ranging up to 15,000,000 pounds. A new scale is need to properly show the range of average housing prices as places in the heart of the mega city do not have an average price less 1,000,000 pound while locations on the outside of the city have housing as cheap as 290,000 pounds.</p>
@@ -58,15 +58,15 @@
         </div>
 
       </div>
-      <div class="pure-u-1-4">
+      <div class="pure-u-1-3">
         <div id="vis2"  class="vis-container"></div>
       </div>
      </div>
      <!-- end pure grid group -->
-
+     <br><br>
      <!-- pure grid group -->
      <div class="pure-g">
-      <div class="pure-u-1-4">
+      <div class="pure-u-1-3">
         <div class="description description-left">
           <h2>Map of Wales and the Northwest</h2>
           <p>Wales and the Northwest of the country are interesting places to look at as most of wales is farmland and comparatively cheap compared to rest country with housing cheaper than 100,000 pounds and with housing only as expensive as 1,500,000 pounds which is possibly explained by the population of wales not being as large as the rest of the country.</p>
@@ -75,15 +75,15 @@
         </div>
 
       </div>
-      <div class="pure-u-1-4">
+      <div class="pure-u-1-3">
         <div id="vis3"  class="vis-container"></div>
       </div>
-      <div class="pure-u-1-4">
+      <div class="pure-u-1-3">
         <div id="vis4"  class="vis-container"></div>
       </div>
      </div>
      <!-- end pure grid group -->
-
+     <br><br>
      <h2>Average price per Region</h2>
      <!-- pure grid group -->
      <div class="pure-g">
@@ -130,33 +130,40 @@
       </div>
      </div>
      <!-- end pure grid group -->
-
+     <br><br>
 
       <!-- pure grid group -->
       <div class="pure-g">
-        <div class="pure-u-1-4">
+        <div class="pure-u-1-2">
           <div class="description description-left">
             <h2>Units sold per Region</h2>
             <p>Some property types are traded more than others as can be seen by Terraced which had 220,000 properties sold across the country for the 2017 period which when comapred to the low number of only 50,000 for Other it is evident why Average housing prcies for some of this property type may be som uch higher than others.</p>
             <p>By clicking on London on the legend it can be seen that the primary property traded was Flats while for East Midlands the primary property was Detached and Semi-Detached which gives an idea of how sprawling some regions are comapred to others.</p>
+            <p>It is also apparent with this overall map of England and Wales that properties traded inside of London are magnitudes smaller than other regions but due to the shear number of districts within London the total number of properties sold on the bar chart appears to be greater than shown on the map.</p>
           </div>
-  
         </div>
-        <div class="pure-u-1-4">
+        <div class="pure-u-1-2">
+          <div id="vis16"  class="vis-container"></div>
+        </div>
+        <div class="pure-u-1-2">
           <div id="vis5"  class="vis-container"></div>
         </div>
-        <div class="pure-u-1-4">
+        <div class="pure-u-1-2">
           <div id="vis6"  class="vis-container"></div>
         </div>
        </div>
+       <div>
+         
+       </div>
        <!-- end pure grid group -->
-
+<br><br>
      <!-- pure grid group -->
      <div class="pure-g">
       <div class="pure-u-1-2">
         <div class="description description-left">
           <h2>Average Housing price per Region</h2>
           <p>Select by different regions to see average housing prices for the different types. Notice how for every region the average pricing of Other is much greater than the other types, this is likely because much less property is sold under the Other category and it also includes very different types of property.</p>
+          
         </div>
 
       </div>
@@ -192,6 +199,7 @@
    var specVis13= "js/eastOfEngland.vg.json";
    var specVis14= "js/Southwest.vg.json";
    var specVis15= "js/Southeast.vg.json";
+   var specVis16= "js/soldMap.vg.json";
  
    vegaEmbed('#vis1', specVis1, {"actions": false});
    
@@ -235,6 +243,9 @@
      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
    }).catch(console.error);
    vegaEmbed('#vis15', specVis15, {"actions": false}).then(function(result) {
+     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+   }).catch(console.error);
+   vegaEmbed('#vis16', specVis16, {"actions": false}).then(function(result) {
      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
    }).catch(console.error);
 </script>
